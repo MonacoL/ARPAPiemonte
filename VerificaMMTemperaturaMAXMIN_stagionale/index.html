@@ -1,0 +1,108 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>ARPA Piemonte: verifica multimodel</title>
+    <link rel="stylesheet" href="Leaflet\leaflet.css" integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ==" crossorigin="" />
+    <!-- il file leaflet.js va sempre messo dopo il file leaflet.css -->
+    <script src="Leaflet\leaflet.js" integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew==" crossorigin=""></script>
+    <script src="Leaflet\leaflet.ajax.min.js"></script> <!--libreria javascript per la gestione del json delle regioni. è un miglioramento ulteriore di GeoJSON-->
+    <script src="UsefulFunctions.js"></script> <!--In questo file ho inserito tutte le funzioni javascript create da me e commentate-->
+    <!--stile mappa-->
+    <style>
+        #Italia {
+            height: 700px;
+            width: 1000px;
+        }
+    </style>
+    <!--stile delle label delle regioni-->
+    <style>
+        .text-labels {
+            display: inline-block;
+            font-size: 12px;
+            font-weight: 700;
+            color: white;
+            text-shadow: 1px 0 0 #000000, -1px 0 0 #000000, 0 1px 0 #000000, 0 -1px 0 #000000, 1px 1px #000000, -1px -1px 0 #000000, 1px -1px 0 #000000, -1px 1px 0 #000000;
+        }
+    </style>   
+</head>
+<body>  
+    <script type="text/javascript">
+        var path = window.location.search.substring(1);
+        var pathVector = path.split('/'); //0 anno, 1 periodo, 2 tmax o tmin, 3 iniziali regione
+        var GLOBALanno=pathVector[0];
+        var GLOBALperiodo=pathVector[1];
+        var GLOBALtmaxORtmin=pathVector[2];
+        var GLOBALinizialiregione=pathVector[3];
+
+        var GlobalToShowOnMap;
+        var GlobalFlag=1;
+
+        function UpdateSeason(){
+            if (GlobalFlag==1){
+                year=document.getElementById("ddlAnno").value;
+                random_n=Math.floor(Math.random() * 1000000) + 100000;
+                FillStagioniDDL('ToShowOnMap.txt?d='+random_n, year);
+            }
+        }
+    </script>
+    <!--Carico tutti gli anni ammessi, tutte le stagioni, Tmin e Tmax nei dropdown-->
+    <label for="ddlAnno">Anno:</label>
+    <select id="ddlAnno" onchange="UpdateSeason()"></select>
+    <label for="ddlPeriodo">Stagione:</label>
+    <select id="ddlPeriodo"></select>
+    <label for="ddlT">Temperatura:</label>
+    <select id="ddlT">
+        <option value="TMAX">MAX</option>
+        <option value="TMIN">MIN</option>
+    </select>
+    <button id="btnCarica" value="CaricaDati" onclick="LoadRun()">Carica dati</button><br /><br />
+    <div id="RunCaricato">
+        <b>Carica i dati relativi alla stagione richiesta!</b>        
+    </div>    
+    <script>
+        random_n=Math.floor(Math.random() * 1000000) + 100000;
+        FillYearsDDL('ToShowOnMap.txt?d='+random_n);
+        // if (GLOBALanno==""){
+        //     firstYear=document.getElementById("ddlAnno").value;
+        //     FillStagioniDDL('ToShowOnMap.txt?d='+random_n, firstYear); 
+        //     LoadRun();                                   
+        // }else{
+        //     FillStagioniDDL('ToShowOnMap.txt?d='+random_n, GLOBALanno);
+        //     UpdateRunSelection();                                   
+        // }    
+        if (GLOBALanno!=""){                        
+            FillStagioniDDL('ToShowOnMap.txt?d='+random_n, GLOBALanno);
+            UpdateRunSelection();                                  
+        }else{
+            firstYear=document.getElementById("ddlAnno").value;
+            FillStagioniDDL('ToShowOnMap.txt?d='+random_n, firstYear);
+        }             
+    </script>   
+    <br />  
+    <div id="Italia"></div>
+    <script type="text/javascript">
+        var mymap = L.map('Italia').setView([42.104154, 12.646361], 13);
+        L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
+            attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+            minZoom: 6,
+            maxZoom: 6,
+            id: 'mapbox/satellite-v9', //mapbox/satellite-v9  mapbox/streets-v11
+            tileSize: 512,
+            zoomOffset: -1,
+            accessToken: 'pk.eyJ1IjoibW9uYWNvbHVjYXZlIiwiYSI6ImNrNnJwZW5ldDA2anQzZG15OWJweGMydzIifQ.2jqQlm490VG8mHE60PXv4A'
+        }).addTo(mymap);
+        mymap.dragging.disable(); //rimuovi la possibilità di draggare la mappa dove vuoi
+        mymap.removeControl(mymap.zoomControl); //rimuovi il controllo zoom +- che ci sarebbe in alto a sinistra
+        mymap.doubleClickZoom.disable();
+        var geojsonLayer;
+        if (GLOBALanno == "") {
+            geojsonLayer = new L.GeoJSON.AJAX("italy-regions-arpa.json", { onEachFeature: onEachFeatureBeginning });
+        } else {
+            geojsonLayer = new L.GeoJSON.AJAX("italy-regions-arpa.json", { onEachFeature: onEachFeature });
+        }
+        geojsonLayer.addTo(mymap);
+    </script>   
+</body>
+</html>

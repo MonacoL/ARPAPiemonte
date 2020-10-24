@@ -1,0 +1,2763 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+PRELEVO I FILE DI INPUT
+ 
+Stagione: 12 01 02
+ 
+Regione: PI
+    OSSERVATI: fatto 201912-202001-202002
+ 
+    MULTIMODEL: fatto 201911-201912
+ 
+    ECMWF: fatto 201911-201912
+ 
+    COSMO-i7: fatto 201911-201912
+ 
+    LAMINO: fatto 201911-201912
+ 
+    MULTIMODEL: fatto 202001-202002
+ 
+    ECMWF: fatto 202001-202002
+ 
+    COSMO-i7: fatto 202001-202002
+ 
+    COSMINO: fatto 202001-202002
+ 
+File PI del multimodel copiati in locale.
+Regione: AO
+    OSSERVATI: fatto 201912-202001-202002
+ 
+    MULTIMODEL: fatto 201911-201912
+ 
+    ECMWF: fatto 201911-201912
+ 
+    COSMO-i7: fatto 201911-201912
+ 
+    LAMINO: fatto 201911-201912
+ 
+    MULTIMODEL: fatto 202001-202002
+ 
+    ECMWF: fatto 202001-202002
+ 
+    COSMO-i7: fatto 202001-202002
+ 
+    COSMINO: fatto 202001-202002
+ 
+File AO del multimodel copiati in locale.
+Regione: LO
+    OSSERVATI: fatto 201912-202001-202002
+ 
+    MULTIMODEL: fatto 201911-201912
+ 
+    ECMWF: fatto 201911-201912
+ 
+    COSMO-i7: fatto 201911-201912
+ 
+    LAMINO: fatto 201911-201912
+ 
+    MULTIMODEL: fatto 202001-202002
+ 
+    ECMWF: fatto 202001-202002
+ 
+    COSMO-i7: fatto 202001-202002
+ 
+    COSMINO: fatto 202001-202002
+ 
+File LO del multimodel copiati in locale.
+Regione: VE
+    OSSERVATI: fatto 201912-202001-202002
+ 
+    MULTIMODEL: fatto 201911-201912
+ 
+    ECMWF: fatto 201911-201912
+ 
+    COSMO-i7: fatto 201911-201912
+ 
+    LAMINO: fatto 201911-201912
+ 
+    MULTIMODEL: fatto 202001-202002
+ 
+    ECMWF: fatto 202001-202002
+ 
+    COSMO-i7: fatto 202001-202002
+ 
+    COSMINO: fatto 202001-202002
+ 
+File VE del multimodel copiati in locale.
+Regione: TR
+    OSSERVATI: fatto 201912-202001-202002
+ 
+    MULTIMODEL: fatto 201911-201912
+ 
+    ECMWF: fatto 201911-201912
+ 
+    COSMO-i7: fatto 201911-201912
+ 
+    LAMINO: fatto 201911-201912
+ 
+    MULTIMODEL: fatto 202001-202002
+ 
+    ECMWF: fatto 202001-202002
+ 
+    COSMO-i7: fatto 202001-202002
+ 
+    COSMINO: fatto 202001-202002
+ 
+File TR del multimodel copiati in locale.
+Regione: LI
+    OSSERVATI: fatto 201912-202001-202002
+ 
+    MULTIMODEL: fatto 201911-201912
+ 
+    ECMWF: fatto 201911-201912
+ 
+    COSMO-i7: fatto 201911-201912
+ 
+    LAMINO: fatto 201911-201912
+ 
+    MULTIMODEL: fatto 202001-202002
+ 
+    ECMWF: fatto 202001-202002
+ 
+    COSMO-i7: fatto 202001-202002
+ 
+    COSMINO: fatto 202001-202002
+ 
+File LI del multimodel copiati in locale.
+Regione: FR
+    OSSERVATI: fatto 201912-202001-202002
+ 
+    MULTIMODEL: fatto 201911-201912
+ 
+    ECMWF: fatto 201911-201912
+ 
+    COSMO-i7: fatto 201911-201912
+ 
+    LAMINO: fatto 201911-201912
+ 
+    MULTIMODEL: fatto 202001-202002
+ 
+    ECMWF: fatto 202001-202002
+ 
+    COSMO-i7: fatto 202001-202002
+ 
+    COSMINO: fatto 202001-202002
+ 
+File FR del multimodel copiati in locale.
+Regione: EM
+    OSSERVATI: fatto 201912-202001-202002
+ 
+    MULTIMODEL: fatto 201911-201912
+ 
+    ECMWF: fatto 201911-201912
+ 
+    COSMO-i7: fatto 201911-201912
+ 
+    LAMINO: fatto 201911-201912
+ 
+    MULTIMODEL: fatto 202001-202002
+ 
+    ECMWF: fatto 202001-202002
+ 
+    COSMO-i7: fatto 202001-202002
+ 
+    COSMINO: fatto 202001-202002
+ 
+File EM del multimodel copiati in locale.
+Regione: TO
+    OSSERVATI: fatto 201912-202001-202002
+ 
+    MULTIMODEL: fatto 201911-201912
+ 
+    ECMWF: fatto 201911-201912
+ 
+    COSMO-i7: fatto 201911-201912
+ 
+    LAMINO: fatto 201911-201912
+ 
+    MULTIMODEL: fatto 202001-202002
+ 
+    ECMWF: fatto 202001-202002
+ 
+    COSMO-i7: fatto 202001-202002
+ 
+    COSMINO: fatto 202001-202002
+ 
+File TO del multimodel copiati in locale.
+Regione: UM
+    OSSERVATI: fatto 201912-202001-202002
+ 
+    MULTIMODEL: fatto 201911-201912
+ 
+    ECMWF: fatto 201911-201912
+ 
+    COSMO-i7: fatto 201911-201912
+ 
+    LAMINO: fatto 201911-201912
+ 
+    MULTIMODEL: fatto 202001-202002
+ 
+    ECMWF: fatto 202001-202002
+ 
+    COSMO-i7: fatto 202001-202002
+ 
+    COSMINO: fatto 202001-202002
+ 
+File UM del multimodel copiati in locale.
+Regione: MA
+    OSSERVATI: fatto 201912-202001-202002
+ 
+    MULTIMODEL: fatto 201911-201912
+ 
+    ECMWF: fatto 201911-201912
+ 
+    COSMO-i7: fatto 201911-201912
+ 
+    LAMINO: fatto 201911-201912
+ 
+    MULTIMODEL: fatto 202001-202002
+ 
+    ECMWF: fatto 202001-202002
+ 
+    COSMO-i7: fatto 202001-202002
+ 
+    COSMINO: fatto 202001-202002
+ 
+File MA del multimodel copiati in locale.
+Regione: MO
+    OSSERVATI: fatto 201912-202001-202002
+ 
+    MULTIMODEL: fatto 201911-201912
+ 
+    ECMWF: fatto 201911-201912
+ 
+    COSMO-i7: fatto 201911-201912
+ 
+    LAMINO: fatto 201911-201912
+ 
+    MULTIMODEL: fatto 202001-202002
+ 
+    ECMWF: fatto 202001-202002
+ 
+    COSMO-i7: fatto 202001-202002
+ 
+    COSMINO: fatto 202001-202002
+ 
+File MO del multimodel copiati in locale.
+Regione: LA
+    OSSERVATI: fatto 201912-202001-202002
+ 
+    MULTIMODEL: fatto 201911-201912
+ 
+    ECMWF: fatto 201911-201912
+ 
+    COSMO-i7: fatto 201911-201912
+ 
+    LAMINO: fatto 201911-201912
+ 
+    MULTIMODEL: fatto 202001-202002
+ 
+    ECMWF: fatto 202001-202002
+ 
+    COSMO-i7: fatto 202001-202002
+ 
+    COSMINO: fatto 202001-202002
+ 
+File LA del multimodel copiati in locale.
+Regione: AB
+    OSSERVATI: fatto 201912-202001-202002
+ 
+    MULTIMODEL: fatto 201911-201912
+ 
+    ECMWF: fatto 201911-201912
+ 
+    COSMO-i7: fatto 201911-201912
+ 
+    LAMINO: fatto 201911-201912
+ 
+    MULTIMODEL: fatto 202001-202002
+ 
+    ECMWF: fatto 202001-202002
+ 
+    COSMO-i7: fatto 202001-202002
+ 
+    COSMINO: fatto 202001-202002
+ 
+File AB del multimodel copiati in locale.
+Regione: PU
+    OSSERVATI: fatto 201912-202001-202002
+ 
+    MULTIMODEL: fatto 201911-201912
+ 
+    ECMWF: fatto 201911-201912
+ 
+    COSMO-i7: fatto 201911-201912
+ 
+    LAMINO: fatto 201911-201912
+ 
+    MULTIMODEL: fatto 202001-202002
+ 
+    ECMWF: fatto 202001-202002
+ 
+    COSMO-i7: fatto 202001-202002
+ 
+    COSMINO: fatto 202001-202002
+ 
+File PU del multimodel copiati in locale.
+Regione: CA
+    OSSERVATI: fatto 201912-202001-202002
+ 
+    MULTIMODEL: fatto 201911-201912
+ 
+    ECMWF: fatto 201911-201912
+ 
+    COSMO-i7: fatto 201911-201912
+ 
+    LAMINO: fatto 201911-201912
+ 
+    MULTIMODEL: fatto 202001-202002
+ 
+    ECMWF: fatto 202001-202002
+ 
+    COSMO-i7: fatto 202001-202002
+ 
+    COSMINO: fatto 202001-202002
+ 
+File CA del multimodel copiati in locale.
+Regione: CB
+    OSSERVATI: fatto 201912-202001-202002
+ 
+    MULTIMODEL: fatto 201911-201912
+ 
+    ECMWF: fatto 201911-201912
+ 
+    COSMO-i7: fatto 201911-201912
+ 
+    LAMINO: fatto 201911-201912
+ 
+    MULTIMODEL: fatto 202001-202002
+ 
+    ECMWF: fatto 202001-202002
+ 
+    COSMO-i7: fatto 202001-202002
+ 
+    COSMINO: fatto 202001-202002
+ 
+File CB del multimodel copiati in locale.
+Regione: BA
+    OSSERVATI: fatto 201912-202001-202002
+ 
+    MULTIMODEL: fatto 201911-201912
+ 
+    ECMWF: fatto 201911-201912
+ 
+    COSMO-i7: fatto 201911-201912
+ 
+    LAMINO: fatto 201911-201912
+ 
+    MULTIMODEL: fatto 202001-202002
+ 
+    ECMWF: fatto 202001-202002
+ 
+    COSMO-i7: fatto 202001-202002
+ 
+    COSMINO: fatto 202001-202002
+ 
+File BA del multimodel copiati in locale.
+Regione: SI
+    OSSERVATI: fatto 201912-202001-202002
+ 
+    MULTIMODEL: fatto 201911-201912
+ 
+    ECMWF: fatto 201911-201912
+ 
+    COSMO-i7: fatto 201911-201912
+ 
+    LAMINO: fatto 201911-201912
+ 
+    MULTIMODEL: fatto 202001-202002
+ 
+    ECMWF: fatto 202001-202002
+ 
+    COSMO-i7: fatto 202001-202002
+ 
+    COSMINO: fatto 202001-202002
+ 
+File SI del multimodel copiati in locale.
+Regione: SA
+    OSSERVATI: fatto 201912-202001-202002
+ 
+    MULTIMODEL: fatto 201911-201912
+ 
+    ECMWF: fatto 201911-201912
+ 
+    COSMO-i7: fatto 201911-201912
+ 
+    LAMINO: fatto 201911-201912
+ 
+    MULTIMODEL: fatto 202001-202002
+ 
+    ECMWF: fatto 202001-202002
+ 
+    COSMO-i7: fatto 202001-202002
+ 
+    COSMINO: fatto 202001-202002
+ 
+File SA del multimodel copiati in locale.
+ 
+FINE
+ 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+ 
+ 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+ORGANIZZO I FILE DI INPUT
+presente dataend
+dataend
+20200229
+deltagg= 91
+ 
+Periodo richiesto: da  20191201 a 20200229 numero giorni=91
+Regione richiesta:  PI
+ 
+OSSERVATI
+ fine lettura filein, esco, riga         27938
+TMAX: fatto
+ fine lettura filein, esco, riga         27938
+TMIN: fatto
+ 
+MMSUP
+ fine lettura filein, esco, riga         27938
+TMAX: fatto
+ fine lettura filein, esco, riga         27631
+TMIN: fatto
+ 
+ECMWF00
+ fine lettura filein, esco, riga         27938
+TMAX: fatto
+ fine lettura filein, esco, riga         27938
+TMIN: fatto
+ 
+COSMO-I7
+ fine lettura filein, esco, riga         27938
+TMAX: fatto
+ fine lettura filein, esco, riga         27938
+TMIN: fatto
+ 
+COSMO-I2
+ fine lettura filein, esco, riga         24561
+TMAX: fatto
+ fine lettura filein, esco, riga         24561
+TMIN: fatto
+ 
+SORT DEI FILE SECONDO DATA E STAZIONE
+Fatto.
+ 
+FILL DEI FILE DEI MODELLI QUANDO HANNO MENO RIGHE DEL RISPETTIVO FILE DI DATI OSSERVATI
+file MMSMIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMIN700.DAT completo
+file CI7MIN700.DAT completo
+file CI2MIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMAX700.DAT completo
+file ECMMAX700.DAT completo
+file CI7MAX700.DAT completo
+file CI2MAX700.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMIN150.DAT completo
+file CI7MIN150.DAT completo
+file CI2MIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMAX150.DAT completo
+file ECMMAX150.DAT completo
+file CI7MAX150.DAT completo
+file CI2MAX150.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMIN300.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMIN300.DAT completo
+file CI7MIN300.DAT completo
+file CI2MIN300.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMAX300.DAT completo
+file ECMMAX300.DAT completo
+file CI7MAX300.DAT completo
+file CI2MAX300.DAT con righe mancanti, riempio i buchi di valori nulli
+[[1]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[[2]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[[3]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[[1]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[1] ""
+[1] "+++++++++++++++++++++++++++++++++++++++++"
+[1] "i modelli sono"
+[1] 4
+[1] "+++++++++++++++++++++++++++++++++++++++++"
+[1] ""
+[1] "ELABORAZIONE GRAFICI 700m"
+[1] "   File letti correttamente."
+[1] "   Dati da plottare modellati correttamente."
+[1] "   Vettori da plottare creati correttamente."
+[1] "   Grafici creati correttamente."
+[1] ""
+[1] ""
+[1] "ELABORAZIONE GRAFICI 1500m"
+[1] "   File letti correttamente."
+[1] "   Dati da plottare modellati correttamente."
+[1] "   Vettori da plottare creati correttamente."
+[1] "   Grafici creati correttamente."
+[1] ""
+[1] ""
+[1] "ELABORAZIONE GRAFICI 3000m"
+[1] "   File letti correttamente."
+[1] "   Dati da plottare modellati correttamente."
+[1] "   Vettori da plottare creati correttamente."
+[1] "   Grafici creati correttamente."
+presente dataend
+dataend
+20200229
+deltagg= 91
+ 
+Periodo richiesto: da  20191201 a 20200229 numero giorni=91
+Regione richiesta:  AO
+ 
+OSSERVATI
+ fine lettura filein, esco, riga          4165
+TMAX: fatto
+ fine lettura filein, esco, riga          4165
+TMIN: fatto
+ 
+MMSUP
+ fine lettura filein, esco, riga          3421
+TMAX: fatto
+ fine lettura filein, esco, riga          3383
+TMIN: fatto
+ 
+ECMWF00
+ fine lettura filein, esco, riga          3459
+TMAX: fatto
+ fine lettura filein, esco, riga          3459
+TMIN: fatto
+ 
+COSMO-I7
+ fine lettura filein, esco, riga          3459
+TMAX: fatto
+ fine lettura filein, esco, riga          3459
+TMIN: fatto
+ 
+COSMO-I2
+ fine lettura filein, esco, riga          3041
+TMAX: fatto
+ fine lettura filein, esco, riga          3041
+TMIN: fatto
+ 
+SORT DEI FILE SECONDO DATA E STAZIONE
+Fatto.
+ 
+FILL DEI FILE DEI MODELLI QUANDO HANNO MENO RIGHE DEL RISPETTIVO FILE DI DATI OSSERVATI
+file MMSMIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI7MIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMAX700.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMAX700.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI7MAX700.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MAX700.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI7MIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMAX150.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMAX150.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI7MAX150.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MAX150.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMIN300.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMIN300.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI7MIN300.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MIN300.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMAX300.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMAX300.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI7MAX300.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MAX300.DAT con righe mancanti, riempio i buchi di valori nulli
+[[1]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[[2]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[[3]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[[1]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[1] ""
+[1] "+++++++++++++++++++++++++++++++++++++++++"
+[1] "i modelli sono"
+[1] 4
+[1] "+++++++++++++++++++++++++++++++++++++++++"
+[1] ""
+[1] "ELABORAZIONE GRAFICI 700m"
+[1] "   File letti correttamente."
+[1] "   Dati da plottare modellati correttamente."
+[1] "   Vettori da plottare creati correttamente."
+[1] "   Grafici creati correttamente."
+Warning messages:
+1: Removed 25 rows containing missing values (geom_path). 
+2: Removed 25 rows containing missing values (geom_point). 
+3: Removed 20 rows containing missing values (geom_path). 
+4: Removed 20 rows containing missing values (geom_point). 
+[1] ""
+[1] ""
+[1] "ELABORAZIONE GRAFICI 1500m"
+[1] "   File letti correttamente."
+[1] "   Dati da plottare modellati correttamente."
+[1] "   Vettori da plottare creati correttamente."
+[1] "   Grafici creati correttamente."
+Warning messages:
+1: Removed 23 rows containing missing values (geom_path). 
+2: Removed 23 rows containing missing values (geom_point). 
+3: Removed 19 rows containing missing values (geom_path). 
+4: Removed 19 rows containing missing values (geom_point). 
+[1] ""
+[1] ""
+[1] "ELABORAZIONE GRAFICI 3000m"
+[1] "   File letti correttamente."
+[1] "   Dati da plottare modellati correttamente."
+[1] "   Vettori da plottare creati correttamente."
+[1] "   Grafici creati correttamente."
+Warning messages:
+1: Removed 23 rows containing missing values (geom_path). 
+2: Removed 23 rows containing missing values (geom_point). 
+3: Removed 19 rows containing missing values (geom_path). 
+4: Removed 19 rows containing missing values (geom_point). 
+presente dataend
+dataend
+20200229
+deltagg= 91
+ 
+Periodo richiesto: da  20191201 a 20200229 numero giorni=91
+Regione richiesta:  LO
+ 
+OSSERVATI
+ fine lettura filein, esco, riga         10466
+TMAX: fatto
+ fine lettura filein, esco, riga         10466
+TMIN: fatto
+ 
+MMSUP
+ fine lettura filein, esco, riga         10375
+TMAX: fatto
+ fine lettura filein, esco, riga         10261
+TMIN: fatto
+ 
+ECMWF00
+ fine lettura filein, esco, riga         10375
+TMAX: fatto
+ fine lettura filein, esco, riga         10375
+TMIN: fatto
+ 
+COSMO-I7
+ fine lettura filein, esco, riga         10147
+TMAX: fatto
+ fine lettura filein, esco, riga          9919
+TMIN: fatto
+ 
+COSMO-I2
+ fine lettura filein, esco, riga          9121
+TMAX: fatto
+ fine lettura filein, esco, riga          9121
+TMIN: fatto
+ 
+SORT DEI FILE SECONDO DATA E STAZIONE
+Fatto.
+ 
+FILL DEI FILE DEI MODELLI QUANDO HANNO MENO RIGHE DEL RISPETTIVO FILE DI DATI OSSERVATI
+file MMSMIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMIN700.DAT completo
+file CI7MIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMAX700.DAT completo
+file ECMMAX700.DAT completo
+file CI7MAX700.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MAX700.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI7MIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMAX150.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMAX150.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI7MAX150.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MAX150.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMIN300.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMIN300.DAT completo
+file CI7MIN300.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MIN300.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMAX300.DAT completo
+file ECMMAX300.DAT completo
+file CI7MAX300.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MAX300.DAT con righe mancanti, riempio i buchi di valori nulli
+[[1]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[[2]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[[3]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[[1]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[1] ""
+[1] "+++++++++++++++++++++++++++++++++++++++++"
+[1] "i modelli sono"
+[1] 4
+[1] "+++++++++++++++++++++++++++++++++++++++++"
+[1] ""
+[1] "ELABORAZIONE GRAFICI 700m"
+[1] "   File letti correttamente."
+[1] "   Dati da plottare modellati correttamente."
+[1] "   Vettori da plottare creati correttamente."
+[1] "   Grafici creati correttamente."
+Warning messages:
+1: Removed 8 rows containing missing values (geom_path). 
+2: Removed 8 rows containing missing values (geom_point). 
+[1] ""
+[1] ""
+[1] "ELABORAZIONE GRAFICI 1500m"
+[1] "   File letti correttamente."
+[1] "   Dati da plottare modellati correttamente."
+[1] "   Vettori da plottare creati correttamente."
+[1] "   Grafici creati correttamente."
+Warning messages:
+1: Removed 8 rows containing missing values (geom_path). 
+2: Removed 8 rows containing missing values (geom_point). 
+[1] ""
+[1] ""
+[1] "ELABORAZIONE GRAFICI 3000m"
+[1] "   File letti correttamente."
+[1] "   Dati da plottare modellati correttamente."
+[1] "   Vettori da plottare creati correttamente."
+[1] "   Grafici creati correttamente."
+Warning messages:
+1: Removed 8 rows containing missing values (geom_path). 
+2: Removed 8 rows containing missing values (geom_point). 
+presente dataend
+dataend
+20200229
+deltagg= 91
+ 
+Periodo richiesto: da  20191201 a 20200229 numero giorni=91
+Regione richiesta:  VE
+ 
+OSSERVATI
+ fine lettura filein, esco, riga          7918
+TMAX: fatto
+ fine lettura filein, esco, riga          7918
+TMIN: fatto
+ 
+MMSUP
+ fine lettura filein, esco, riga          7918
+TMAX: fatto
+ fine lettura filein, esco, riga          7831
+TMIN: fatto
+ 
+ECMWF00
+ fine lettura filein, esco, riga          7918
+TMAX: fatto
+ fine lettura filein, esco, riga          7918
+TMIN: fatto
+ 
+COSMO-I7
+ fine lettura filein, esco, riga          7744
+TMAX: fatto
+ fine lettura filein, esco, riga          7570
+TMIN: fatto
+ 
+COSMO-I2
+ fine lettura filein, esco, riga          6961
+TMAX: fatto
+ fine lettura filein, esco, riga          6961
+TMIN: fatto
+ 
+SORT DEI FILE SECONDO DATA E STAZIONE
+Fatto.
+ 
+FILL DEI FILE DEI MODELLI QUANDO HANNO MENO RIGHE DEL RISPETTIVO FILE DI DATI OSSERVATI
+file MMSMIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMIN700.DAT completo
+file CI7MIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMAX700.DAT completo
+file ECMMAX700.DAT completo
+file CI7MAX700.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MAX700.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMIN150.DAT completo
+file CI7MIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMAX150.DAT completo
+file ECMMAX150.DAT completo
+file CI7MAX150.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MAX150.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMIN300.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMIN300.DAT completo
+file CI7MIN300.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MIN300.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMAX300.DAT completo
+file ECMMAX300.DAT completo
+file CI7MAX300.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MAX300.DAT con righe mancanti, riempio i buchi di valori nulli
+[[1]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[[2]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[[3]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[[1]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[1] ""
+[1] "+++++++++++++++++++++++++++++++++++++++++"
+[1] "i modelli sono"
+[1] 4
+[1] "+++++++++++++++++++++++++++++++++++++++++"
+[1] ""
+[1] "ELABORAZIONE GRAFICI 700m"
+[1] "   File letti correttamente."
+[1] "   Dati da plottare modellati correttamente."
+[1] "   Vettori da plottare creati correttamente."
+[1] "   Grafici creati correttamente."
+Warning messages:
+1: Removed 24 rows containing missing values (geom_path). 
+2: Removed 24 rows containing missing values (geom_point). 
+3: Removed 16 rows containing missing values (geom_path). 
+4: Removed 16 rows containing missing values (geom_point). 
+[1] ""
+[1] ""
+[1] "ELABORAZIONE GRAFICI 1500m"
+[1] "   File letti correttamente."
+[1] "   Dati da plottare modellati correttamente."
+[1] "   Vettori da plottare creati correttamente."
+[1] "   Grafici creati correttamente."
+Warning messages:
+1: Removed 8 rows containing missing values (geom_path). 
+2: Removed 8 rows containing missing values (geom_point). 
+[1] ""
+[1] ""
+[1] "ELABORAZIONE GRAFICI 3000m"
+[1] "   File letti correttamente."
+[1] "   Dati da plottare modellati correttamente."
+[1] "   Vettori da plottare creati correttamente."
+[1] "   Grafici creati correttamente."
+Warning messages:
+1: Removed 8 rows containing missing values (geom_path). 
+2: Removed 8 rows containing missing values (geom_point). 
+presente dataend
+dataend
+20200229
+deltagg= 91
+ 
+Periodo richiesto: da  20191201 a 20200229 numero giorni=91
+Regione richiesta:  TR
+ 
+OSSERVATI
+ fine lettura filein, esco, riga          4096
+TMAX: fatto
+ fine lettura filein, esco, riga          4096
+TMIN: fatto
+ 
+MMSUP
+ fine lettura filein, esco, riga          4096
+TMAX: fatto
+ fine lettura filein, esco, riga          4051
+TMIN: fatto
+ 
+ECMWF00
+ fine lettura filein, esco, riga          4096
+TMAX: fatto
+ fine lettura filein, esco, riga          4096
+TMIN: fatto
+ 
+COSMO-I7
+ fine lettura filein, esco, riga          4006
+TMAX: fatto
+ fine lettura filein, esco, riga          3916
+TMIN: fatto
+ 
+COSMO-I2
+ fine lettura filein, esco, riga          3601
+TMAX: fatto
+ fine lettura filein, esco, riga          3601
+TMIN: fatto
+ 
+SORT DEI FILE SECONDO DATA E STAZIONE
+Fatto.
+ 
+FILL DEI FILE DEI MODELLI QUANDO HANNO MENO RIGHE DEL RISPETTIVO FILE DI DATI OSSERVATI
+file MMSMIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMIN700.DAT completo
+file CI7MIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMAX700.DAT completo
+file ECMMAX700.DAT completo
+file CI7MAX700.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MAX700.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMIN150.DAT completo
+file CI7MIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMAX150.DAT completo
+file ECMMAX150.DAT completo
+file CI7MAX150.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MAX150.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMIN300.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMIN300.DAT completo
+file CI7MIN300.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MIN300.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMAX300.DAT completo
+file ECMMAX300.DAT completo
+file CI7MAX300.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MAX300.DAT con righe mancanti, riempio i buchi di valori nulli
+[[1]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[[2]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[[3]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[[1]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[1] ""
+[1] "+++++++++++++++++++++++++++++++++++++++++"
+[1] "i modelli sono"
+[1] 4
+[1] "+++++++++++++++++++++++++++++++++++++++++"
+[1] ""
+[1] "ELABORAZIONE GRAFICI 700m"
+[1] "   File letti correttamente."
+[1] "   Dati da plottare modellati correttamente."
+[1] "   Vettori da plottare creati correttamente."
+[1] "   Grafici creati correttamente."
+Warning messages:
+1: Removed 8 rows containing missing values (geom_path). 
+2: Removed 8 rows containing missing values (geom_point). 
+[1] ""
+[1] ""
+[1] "ELABORAZIONE GRAFICI 1500m"
+[1] "   File letti correttamente."
+[1] "   Dati da plottare modellati correttamente."
+[1] "   Vettori da plottare creati correttamente."
+[1] "   Grafici creati correttamente."
+Warning messages:
+1: Removed 8 rows containing missing values (geom_path). 
+2: Removed 8 rows containing missing values (geom_point). 
+[1] ""
+[1] ""
+[1] "ELABORAZIONE GRAFICI 3000m"
+[1] "   File letti correttamente."
+[1] "   Dati da plottare modellati correttamente."
+[1] "   Vettori da plottare creati correttamente."
+[1] "   Grafici creati correttamente."
+Warning messages:
+1: Removed 8 rows containing missing values (geom_path). 
+2: Removed 8 rows containing missing values (geom_point). 
+presente dataend
+dataend
+20200229
+deltagg= 91
+ 
+Periodo richiesto: da  20191201 a 20200229 numero giorni=91
+Regione richiesta:  LI
+ 
+OSSERVATI
+ fine lettura filein, esco, riga         14106
+TMAX: fatto
+ fine lettura filein, esco, riga         14106
+TMIN: fatto
+ 
+MMSUP
+ fine lettura filein, esco, riga         14106
+TMAX: fatto
+ fine lettura filein, esco, riga         13951
+TMIN: fatto
+ 
+ECMWF00
+ fine lettura filein, esco, riga         14106
+TMAX: fatto
+ fine lettura filein, esco, riga         14106
+TMIN: fatto
+ 
+COSMO-I7
+ fine lettura filein, esco, riga         13796
+TMAX: fatto
+ fine lettura filein, esco, riga         13486
+TMIN: fatto
+ 
+COSMO-I2
+ fine lettura filein, esco, riga         12401
+TMAX: fatto
+ fine lettura filein, esco, riga         12401
+TMIN: fatto
+ 
+SORT DEI FILE SECONDO DATA E STAZIONE
+Fatto.
+ 
+FILL DEI FILE DEI MODELLI QUANDO HANNO MENO RIGHE DEL RISPETTIVO FILE DI DATI OSSERVATI
+file MMSMIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMIN700.DAT completo
+file CI7MIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMAX700.DAT completo
+file ECMMAX700.DAT completo
+file CI7MAX700.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MAX700.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMIN150.DAT completo
+file CI7MIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMAX150.DAT completo
+file ECMMAX150.DAT completo
+file CI7MAX150.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MAX150.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMIN300.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMIN300.DAT completo
+file CI7MIN300.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MIN300.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMAX300.DAT completo
+file ECMMAX300.DAT completo
+file CI7MAX300.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MAX300.DAT con righe mancanti, riempio i buchi di valori nulli
+[[1]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[[2]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[[3]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[[1]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[1] ""
+[1] "+++++++++++++++++++++++++++++++++++++++++"
+[1] "i modelli sono"
+[1] 4
+[1] "+++++++++++++++++++++++++++++++++++++++++"
+[1] ""
+[1] "ELABORAZIONE GRAFICI 700m"
+[1] "   File letti correttamente."
+[1] "   Dati da plottare modellati correttamente."
+[1] "   Vettori da plottare creati correttamente."
+[1] "   Grafici creati correttamente."
+Warning messages:
+1: Removed 8 rows containing missing values (geom_path). 
+2: Removed 8 rows containing missing values (geom_point). 
+[1] ""
+[1] ""
+[1] "ELABORAZIONE GRAFICI 1500m"
+[1] "   File letti correttamente."
+[1] "   Dati da plottare modellati correttamente."
+[1] "   Vettori da plottare creati correttamente."
+[1] "   Grafici creati correttamente."
+Warning messages:
+1: Removed 8 rows containing missing values (geom_path). 
+2: Removed 8 rows containing missing values (geom_point). 
+[1] ""
+[1] ""
+[1] "ELABORAZIONE GRAFICI 3000m"
+[1] "   File letti correttamente."
+[1] "   Dati da plottare modellati correttamente."
+[1] "   Vettori da plottare creati correttamente."
+[1] "   Grafici creati correttamente."
+Warning messages:
+1: Removed 8 rows containing missing values (geom_path). 
+2: Removed 8 rows containing missing values (geom_point). 
+presente dataend
+dataend
+20200229
+deltagg= 91
+ 
+Periodo richiesto: da  20191201 a 20200229 numero giorni=91
+Regione richiesta:  FR
+ 
+OSSERVATI
+ fine lettura filein, esco, riga         15380
+TMAX: fatto
+ fine lettura filein, esco, riga         15380
+TMIN: fatto
+ 
+MMSUP
+ fine lettura filein, esco, riga         15252
+TMAX: fatto
+ fine lettura filein, esco, riga         15085
+TMIN: fatto
+ 
+ECMWF00
+ fine lettura filein, esco, riga         15308
+TMAX: fatto
+ fine lettura filein, esco, riga         15310
+TMIN: fatto
+ 
+COSMO-I7
+ fine lettura filein, esco, riga         14966
+TMAX: fatto
+ fine lettura filein, esco, riga         14648
+TMIN: fatto
+ 
+COSMO-I2
+ fine lettura filein, esco, riga         13444
+TMAX: fatto
+ fine lettura filein, esco, riga         13446
+TMIN: fatto
+ 
+SORT DEI FILE SECONDO DATA E STAZIONE
+Fatto.
+ 
+FILL DEI FILE DEI MODELLI QUANDO HANNO MENO RIGHE DEL RISPETTIVO FILE DI DATI OSSERVATI
+file MMSMIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI7MIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMAX700.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMAX700.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI7MAX700.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MAX700.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMIN150.DAT completo
+file CI7MIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMAX150.DAT completo
+file ECMMAX150.DAT completo
+file CI7MAX150.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MAX150.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMIN300.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMIN300.DAT completo
+file CI7MIN300.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MIN300.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMAX300.DAT completo
+file ECMMAX300.DAT completo
+file CI7MAX300.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MAX300.DAT con righe mancanti, riempio i buchi di valori nulli
+[[1]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[[2]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[[3]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[[1]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[1] ""
+[1] "+++++++++++++++++++++++++++++++++++++++++"
+[1] "i modelli sono"
+[1] 4
+[1] "+++++++++++++++++++++++++++++++++++++++++"
+[1] ""
+[1] "ELABORAZIONE GRAFICI 700m"
+[1] "   File letti correttamente."
+[1] "   Dati da plottare modellati correttamente."
+[1] "   Vettori da plottare creati correttamente."
+[1] "   Grafici creati correttamente."
+Warning messages:
+1: Removed 8 rows containing missing values (geom_path). 
+2: Removed 8 rows containing missing values (geom_point). 
+[1] ""
+[1] ""
+[1] "ELABORAZIONE GRAFICI 1500m"
+[1] "   File letti correttamente."
+[1] "   Dati da plottare modellati correttamente."
+[1] "   Vettori da plottare creati correttamente."
+[1] "   Grafici creati correttamente."
+Warning messages:
+1: Removed 8 rows containing missing values (geom_path). 
+2: Removed 8 rows containing missing values (geom_point). 
+[1] ""
+[1] ""
+[1] "ELABORAZIONE GRAFICI 3000m"
+[1] "   File letti correttamente."
+[1] "   Dati da plottare modellati correttamente."
+[1] "   Vettori da plottare creati correttamente."
+[1] "   Grafici creati correttamente."
+Warning messages:
+1: Removed 8 rows containing missing values (geom_path). 
+2: Removed 8 rows containing missing values (geom_point). 
+presente dataend
+dataend
+20200229
+deltagg= 91
+ 
+Periodo richiesto: da  20191201 a 20200229 numero giorni=91
+Regione richiesta:  EM
+ 
+OSSERVATI
+ fine lettura filein, esco, riga         19384
+TMAX: fatto
+ fine lettura filein, esco, riga         19384
+TMIN: fatto
+ 
+MMSUP
+ fine lettura filein, esco, riga         19202
+TMAX: fatto
+ fine lettura filein, esco, riga         18991
+TMIN: fatto
+ 
+ECMWF00
+ fine lettura filein, esco, riga         19202
+TMAX: fatto
+ fine lettura filein, esco, riga         19202
+TMIN: fatto
+ 
+COSMO-I7
+ fine lettura filein, esco, riga         18780
+TMAX: fatto
+ fine lettura filein, esco, riga         18358
+TMIN: fatto
+ 
+COSMO-I2
+ fine lettura filein, esco, riga         16881
+TMAX: fatto
+ fine lettura filein, esco, riga         16881
+TMIN: fatto
+ 
+SORT DEI FILE SECONDO DATA E STAZIONE
+Fatto.
+ 
+FILL DEI FILE DEI MODELLI QUANDO HANNO MENO RIGHE DEL RISPETTIVO FILE DI DATI OSSERVATI
+file MMSMIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI7MIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMAX700.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMAX700.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI7MAX700.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MAX700.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMIN150.DAT completo
+file CI7MIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMAX150.DAT completo
+file ECMMAX150.DAT completo
+file CI7MAX150.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MAX150.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMIN300.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMIN300.DAT completo
+file CI7MIN300.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MIN300.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMAX300.DAT completo
+file ECMMAX300.DAT completo
+file CI7MAX300.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MAX300.DAT con righe mancanti, riempio i buchi di valori nulli
+[[1]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[[2]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[[3]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[[1]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[1] ""
+[1] "+++++++++++++++++++++++++++++++++++++++++"
+[1] "i modelli sono"
+[1] 4
+[1] "+++++++++++++++++++++++++++++++++++++++++"
+[1] ""
+[1] "ELABORAZIONE GRAFICI 700m"
+[1] "   File letti correttamente."
+[1] "   Dati da plottare modellati correttamente."
+[1] "   Vettori da plottare creati correttamente."
+[1] "   Grafici creati correttamente."
+Warning messages:
+1: Removed 32 rows containing missing values (geom_path). 
+2: Removed 32 rows containing missing values (geom_point). 
+3: Removed 32 rows containing missing values (geom_path). 
+4: Removed 32 rows containing missing values (geom_point). 
+[1] ""
+[1] ""
+[1] "ELABORAZIONE GRAFICI 1500m"
+[1] "   File letti correttamente."
+[1] "   Dati da plottare modellati correttamente."
+[1] "   Vettori da plottare creati correttamente."
+[1] "   Grafici creati correttamente."
+Warning messages:
+1: Removed 8 rows containing missing values (geom_path). 
+2: Removed 8 rows containing missing values (geom_point). 
+[1] ""
+[1] ""
+[1] "ELABORAZIONE GRAFICI 3000m"
+[1] "   File letti correttamente."
+[1] "   Dati da plottare modellati correttamente."
+[1] "   Vettori da plottare creati correttamente."
+[1] "   Grafici creati correttamente."
+Warning messages:
+1: Removed 8 rows containing missing values (geom_path). 
+2: Removed 8 rows containing missing values (geom_point). 
+presente dataend
+dataend
+20200229
+deltagg= 91
+ 
+Periodo richiesto: da  20191201 a 20200229 numero giorni=91
+Regione richiesta:  TO
+ 
+OSSERVATI
+ fine lettura filein, esco, riga         23934
+TMAX: fatto
+ fine lettura filein, esco, riga         23934
+TMIN: fatto
+ 
+MMSUP
+ fine lettura filein, esco, riga         23843
+TMAX: fatto
+ fine lettura filein, esco, riga         23581
+TMIN: fatto
+ 
+ECMWF00
+ fine lettura filein, esco, riga         23895
+TMAX: fatto
+ fine lettura filein, esco, riga         23896
+TMIN: fatto
+ 
+COSMO-I7
+ fine lettura filein, esco, riga         23365
+TMAX: fatto
+ fine lettura filein, esco, riga         22854
+TMIN: fatto
+ 
+COSMO-I2
+ fine lettura filein, esco, riga         20997
+TMAX: fatto
+ fine lettura filein, esco, riga         20998
+TMIN: fatto
+ 
+SORT DEI FILE SECONDO DATA E STAZIONE
+Fatto.
+ 
+FILL DEI FILE DEI MODELLI QUANDO HANNO MENO RIGHE DEL RISPETTIVO FILE DI DATI OSSERVATI
+file MMSMIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI7MIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMAX700.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMAX700.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI7MAX700.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MAX700.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMIN150.DAT completo
+file CI7MIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMAX150.DAT completo
+file ECMMAX150.DAT completo
+file CI7MAX150.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MAX150.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMIN300.DAT completo
+file ECMMIN300.DAT completo
+file CI7MIN300.DAT completo
+file CI2MIN300.DAT completo
+file MMSMAX300.DAT completo
+file ECMMAX300.DAT completo
+file CI7MAX300.DAT completo
+file CI2MAX300.DAT completo
+[[1]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[[2]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[[3]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[[1]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[1] ""
+[1] "+++++++++++++++++++++++++++++++++++++++++"
+[1] "i modelli sono"
+[1] 4
+[1] "+++++++++++++++++++++++++++++++++++++++++"
+[1] ""
+[1] "ELABORAZIONE GRAFICI 700m"
+[1] "   File letti correttamente."
+[1] "   Dati da plottare modellati correttamente."
+[1] "   Vettori da plottare creati correttamente."
+[1] "   Grafici creati correttamente."
+Warning messages:
+1: Removed 8 rows containing missing values (geom_path). 
+2: Removed 8 rows containing missing values (geom_point). 
+[1] ""
+[1] ""
+[1] "ELABORAZIONE GRAFICI 1500m"
+[1] "   File letti correttamente."
+[1] "   Dati da plottare modellati correttamente."
+[1] "   Vettori da plottare creati correttamente."
+[1] "   Grafici creati correttamente."
+Warning messages:
+1: Removed 8 rows containing missing values (geom_path). 
+2: Removed 8 rows containing missing values (geom_point). 
+[1] ""
+[1] ""
+[1] "ELABORAZIONE GRAFICI 3000m: nessun dato presente."
+presente dataend
+dataend
+20200229
+deltagg= 91
+ 
+Periodo richiesto: da  20191201 a 20200229 numero giorni=91
+Regione richiesta:  UM
+ 
+OSSERVATI
+ fine lettura filein, esco, riga          8100
+TMAX: fatto
+ fine lettura filein, esco, riga          8100
+TMIN: fatto
+ 
+MMSUP
+ fine lettura filein, esco, riga          7922
+TMAX: fatto
+ fine lettura filein, esco, riga          7835
+TMIN: fatto
+ 
+ECMWF00
+ fine lettura filein, esco, riga          7970
+TMAX: fatto
+ fine lettura filein, esco, riga          7971
+TMIN: fatto
+ 
+COSMO-I7
+ fine lettura filein, esco, riga          7790
+TMAX: fatto
+ fine lettura filein, esco, riga          7629
+TMIN: fatto
+ 
+COSMO-I2
+ fine lettura filein, esco, riga          6997
+TMAX: fatto
+ fine lettura filein, esco, riga          6998
+TMIN: fatto
+ 
+SORT DEI FILE SECONDO DATA E STAZIONE
+Fatto.
+ 
+FILL DEI FILE DEI MODELLI QUANDO HANNO MENO RIGHE DEL RISPETTIVO FILE DI DATI OSSERVATI
+file MMSMIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI7MIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMAX700.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMAX700.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI7MAX700.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MAX700.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMIN150.DAT completo
+file CI7MIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMAX150.DAT completo
+file ECMMAX150.DAT completo
+file CI7MAX150.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MAX150.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMIN300.DAT completo
+file ECMMIN300.DAT completo
+file CI7MIN300.DAT completo
+file CI2MIN300.DAT completo
+file MMSMAX300.DAT completo
+file ECMMAX300.DAT completo
+file CI7MAX300.DAT completo
+file CI2MAX300.DAT completo
+[[1]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[[2]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[[3]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[[1]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[1] ""
+[1] "+++++++++++++++++++++++++++++++++++++++++"
+[1] "i modelli sono"
+[1] 4
+[1] "+++++++++++++++++++++++++++++++++++++++++"
+[1] ""
+[1] "ELABORAZIONE GRAFICI 700m"
+[1] "   File letti correttamente."
+[1] "   Dati da plottare modellati correttamente."
+[1] "   Vettori da plottare creati correttamente."
+[1] "   Grafici creati correttamente."
+Warning messages:
+1: Removed 8 rows containing missing values (geom_path). 
+2: Removed 8 rows containing missing values (geom_point). 
+[1] ""
+[1] ""
+[1] "ELABORAZIONE GRAFICI 1500m"
+[1] "   File letti correttamente."
+[1] "   Dati da plottare modellati correttamente."
+[1] "   Vettori da plottare creati correttamente."
+[1] "   Grafici creati correttamente."
+Warning messages:
+1: Removed 8 rows containing missing values (geom_path). 
+2: Removed 8 rows containing missing values (geom_point). 
+[1] ""
+[1] ""
+[1] "ELABORAZIONE GRAFICI 3000m: nessun dato presente."
+presente dataend
+dataend
+20200229
+deltagg= 91
+ 
+Periodo richiesto: da  20191201 a 20200229 numero giorni=91
+Regione richiesta:  MA
+ 
+OSSERVATI
+ fine lettura filein, esco, riga         11012
+TMAX: fatto
+ fine lettura filein, esco, riga         11012
+TMIN: fatto
+ 
+MMSUP
+ fine lettura filein, esco, riga         10739
+TMAX: fatto
+ fine lettura filein, esco, riga         10621
+TMIN: fatto
+ 
+ECMWF00
+ fine lettura filein, esco, riga          6599
+TMAX: fatto
+ fine lettura filein, esco, riga          6599
+TMIN: fatto
+ 
+COSMO-I7
+ fine lettura filein, esco, riga          6639
+TMAX: fatto
+ fine lettura filein, esco, riga          6541
+TMIN: fatto
+ 
+COSMO-I2
+ fine lettura filein, esco, riga          5807
+TMAX: fatto
+ fine lettura filein, esco, riga          5807
+TMIN: fatto
+ 
+SORT DEI FILE SECONDO DATA E STAZIONE
+Fatto.
+ 
+FILL DEI FILE DEI MODELLI QUANDO HANNO MENO RIGHE DEL RISPETTIVO FILE DI DATI OSSERVATI
+file MMSMIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI7MIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMAX700.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMAX700.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI7MAX700.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MAX700.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMIN150.DAT completo
+file CI7MIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMAX150.DAT completo
+file ECMMAX150.DAT completo
+file CI7MAX150.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MAX150.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMIN300.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMIN300.DAT completo
+file CI7MIN300.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MIN300.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMAX300.DAT completo
+file ECMMAX300.DAT completo
+file CI7MAX300.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MAX300.DAT con righe mancanti, riempio i buchi di valori nulli
+[[1]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[[2]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[[3]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[[1]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[1] ""
+[1] "+++++++++++++++++++++++++++++++++++++++++"
+[1] "i modelli sono"
+[1] 4
+[1] "+++++++++++++++++++++++++++++++++++++++++"
+[1] ""
+[1] "ELABORAZIONE GRAFICI 700m"
+[1] "   File letti correttamente."
+[1] "   Dati da plottare modellati correttamente."
+[1] "   Vettori da plottare creati correttamente."
+[1] "   Grafici creati correttamente."
+Warning messages:
+1: Removed 8 rows containing missing values (geom_path). 
+2: Removed 8 rows containing missing values (geom_point). 
+[1] ""
+[1] ""
+[1] "ELABORAZIONE GRAFICI 1500m"
+[1] "   File letti correttamente."
+[1] "   Dati da plottare modellati correttamente."
+[1] "   Vettori da plottare creati correttamente."
+[1] "   Grafici creati correttamente."
+Warning messages:
+1: Removed 8 rows containing missing values (geom_path). 
+2: Removed 8 rows containing missing values (geom_point). 
+[1] ""
+[1] ""
+[1] "ELABORAZIONE GRAFICI 3000m"
+[1] "   File letti correttamente."
+[1] "   Dati da plottare modellati correttamente."
+[1] "   Vettori da plottare creati correttamente."
+[1] "   Grafici creati correttamente."
+Warning messages:
+1: Removed 8 rows containing missing values (geom_path). 
+2: Removed 8 rows containing missing values (geom_point). 
+presente dataend
+dataend
+20200229
+deltagg= 91
+ 
+Periodo richiesto: da  20191201 a 20200229 numero giorni=91
+Regione richiesta:  MO
+ 
+OSSERVATI
+ fine lettura filein, esco, riga           456
+TMAX: fatto
+ fine lettura filein, esco, riga           456
+TMIN: fatto
+ 
+MMSUP
+ fine lettura filein, esco, riga           456
+TMAX: fatto
+ fine lettura filein, esco, riga           451
+TMIN: fatto
+ 
+ECMWF00
+ fine lettura filein, esco, riga           456
+TMAX: fatto
+ fine lettura filein, esco, riga           456
+TMIN: fatto
+ 
+COSMO-I7
+ fine lettura filein, esco, riga           446
+TMAX: fatto
+ fine lettura filein, esco, riga           436
+TMIN: fatto
+ 
+COSMO-I2
+ fine lettura filein, esco, riga           401
+TMAX: fatto
+ fine lettura filein, esco, riga           401
+TMIN: fatto
+ 
+SORT DEI FILE SECONDO DATA E STAZIONE
+Fatto.
+ 
+FILL DEI FILE DEI MODELLI QUANDO HANNO MENO RIGHE DEL RISPETTIVO FILE DI DATI OSSERVATI
+file MMSMIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMIN700.DAT completo
+file CI7MIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMAX700.DAT completo
+file ECMMAX700.DAT completo
+file CI7MAX700.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MAX700.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMIN150.DAT completo
+file CI7MIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMAX150.DAT completo
+file ECMMAX150.DAT completo
+file CI7MAX150.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MAX150.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMIN300.DAT completo
+file ECMMIN300.DAT completo
+file CI7MIN300.DAT completo
+file CI2MIN300.DAT completo
+file MMSMAX300.DAT completo
+file ECMMAX300.DAT completo
+file CI7MAX300.DAT completo
+file CI2MAX300.DAT completo
+[[1]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[[2]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[[3]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[[1]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[1] ""
+[1] "+++++++++++++++++++++++++++++++++++++++++"
+[1] "i modelli sono"
+[1] 4
+[1] "+++++++++++++++++++++++++++++++++++++++++"
+[1] ""
+[1] "ELABORAZIONE GRAFICI 700m"
+[1] "   File letti correttamente."
+[1] "   Dati da plottare modellati correttamente."
+[1] "   Vettori da plottare creati correttamente."
+[1] "   Grafici creati correttamente."
+Warning messages:
+1: Removed 8 rows containing missing values (geom_path). 
+2: Removed 8 rows containing missing values (geom_point). 
+[1] ""
+[1] ""
+[1] "ELABORAZIONE GRAFICI 1500m"
+[1] "   File letti correttamente."
+[1] "   Dati da plottare modellati correttamente."
+[1] "   Vettori da plottare creati correttamente."
+[1] "   Grafici creati correttamente."
+Warning messages:
+1: Removed 8 rows containing missing values (geom_path). 
+2: Removed 8 rows containing missing values (geom_point). 
+[1] ""
+[1] ""
+[1] "ELABORAZIONE GRAFICI 3000m: nessun dato presente."
+presente dataend
+dataend
+20200229
+deltagg= 91
+ 
+Periodo richiesto: da  20191201 a 20200229 numero giorni=91
+Regione richiesta:  LA
+ 
+OSSERVATI
+ fine lettura filein, esco, riga         17200
+TMAX: fatto
+ fine lettura filein, esco, riga         17200
+TMIN: fatto
+ 
+MMSUP
+ fine lettura filein, esco, riga         17200
+TMAX: fatto
+ fine lettura filein, esco, riga         17011
+TMIN: fatto
+ 
+ECMWF00
+ fine lettura filein, esco, riga         17200
+TMAX: fatto
+ fine lettura filein, esco, riga         17200
+TMIN: fatto
+ 
+COSMO-I7
+ fine lettura filein, esco, riga         16822
+TMAX: fatto
+ fine lettura filein, esco, riga         16444
+TMIN: fatto
+ 
+COSMO-I2
+ fine lettura filein, esco, riga         15121
+TMAX: fatto
+ fine lettura filein, esco, riga         15121
+TMIN: fatto
+ 
+SORT DEI FILE SECONDO DATA E STAZIONE
+Fatto.
+ 
+FILL DEI FILE DEI MODELLI QUANDO HANNO MENO RIGHE DEL RISPETTIVO FILE DI DATI OSSERVATI
+file MMSMIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMIN700.DAT completo
+file CI7MIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMAX700.DAT completo
+file ECMMAX700.DAT completo
+file CI7MAX700.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MAX700.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMIN150.DAT completo
+file CI7MIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMAX150.DAT completo
+file ECMMAX150.DAT completo
+file CI7MAX150.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MAX150.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMIN300.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMIN300.DAT completo
+file CI7MIN300.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MIN300.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMAX300.DAT completo
+file ECMMAX300.DAT completo
+file CI7MAX300.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MAX300.DAT con righe mancanti, riempio i buchi di valori nulli
+[[1]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[[2]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[[3]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[[1]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[1] ""
+[1] "+++++++++++++++++++++++++++++++++++++++++"
+[1] "i modelli sono"
+[1] 4
+[1] "+++++++++++++++++++++++++++++++++++++++++"
+[1] ""
+[1] "ELABORAZIONE GRAFICI 700m"
+[1] "   File letti correttamente."
+[1] "   Dati da plottare modellati correttamente."
+[1] "   Vettori da plottare creati correttamente."
+[1] "   Grafici creati correttamente."
+Warning messages:
+1: Removed 8 rows containing missing values (geom_path). 
+2: Removed 8 rows containing missing values (geom_point). 
+[1] ""
+[1] ""
+[1] "ELABORAZIONE GRAFICI 1500m"
+[1] "   File letti correttamente."
+[1] "   Dati da plottare modellati correttamente."
+[1] "   Vettori da plottare creati correttamente."
+[1] "   Grafici creati correttamente."
+Warning messages:
+1: Removed 8 rows containing missing values (geom_path). 
+2: Removed 8 rows containing missing values (geom_point). 
+[1] ""
+[1] ""
+[1] "ELABORAZIONE GRAFICI 3000m"
+[1] "   File letti correttamente."
+[1] "   Dati da plottare modellati correttamente."
+[1] "   Vettori da plottare creati correttamente."
+[1] "   Grafici creati correttamente."
+Warning messages:
+1: Removed 8 rows containing missing values (geom_path). 
+2: Removed 8 rows containing missing values (geom_point). 
+presente dataend
+dataend
+20200229
+deltagg= 91
+ 
+Periodo richiesto: da  20191201 a 20200229 numero giorni=91
+Regione richiesta:  AB
+ 
+OSSERVATI
+ fine lettura filein, esco, riga          6826
+TMAX: fatto
+ fine lettura filein, esco, riga          6826
+TMIN: fatto
+ 
+MMSUP
+ fine lettura filein, esco, riga          6735
+TMAX: fatto
+ fine lettura filein, esco, riga          6661
+TMIN: fatto
+ 
+ECMWF00
+ fine lettura filein, esco, riga          6735
+TMAX: fatto
+ fine lettura filein, esco, riga          6735
+TMIN: fatto
+ 
+COSMO-I7
+ fine lettura filein, esco, riga          6587
+TMAX: fatto
+ fine lettura filein, esco, riga          6439
+TMIN: fatto
+ 
+COSMO-I2
+ fine lettura filein, esco, riga          5921
+TMAX: fatto
+ fine lettura filein, esco, riga          5921
+TMIN: fatto
+ 
+SORT DEI FILE SECONDO DATA E STAZIONE
+Fatto.
+ 
+FILL DEI FILE DEI MODELLI QUANDO HANNO MENO RIGHE DEL RISPETTIVO FILE DI DATI OSSERVATI
+file MMSMIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMIN700.DAT completo
+file CI7MIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMAX700.DAT completo
+file ECMMAX700.DAT completo
+file CI7MAX700.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MAX700.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI7MIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMAX150.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMAX150.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI7MAX150.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MAX150.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMIN300.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMIN300.DAT completo
+file CI7MIN300.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MIN300.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMAX300.DAT completo
+file ECMMAX300.DAT completo
+file CI7MAX300.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MAX300.DAT con righe mancanti, riempio i buchi di valori nulli
+[[1]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[[2]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[[3]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[[1]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[1] ""
+[1] "+++++++++++++++++++++++++++++++++++++++++"
+[1] "i modelli sono"
+[1] 4
+[1] "+++++++++++++++++++++++++++++++++++++++++"
+[1] ""
+[1] "ELABORAZIONE GRAFICI 700m"
+[1] "   File letti correttamente."
+[1] "   Dati da plottare modellati correttamente."
+[1] "   Vettori da plottare creati correttamente."
+[1] "   Grafici creati correttamente."
+Warning messages:
+1: Removed 8 rows containing missing values (geom_path). 
+2: Removed 8 rows containing missing values (geom_point). 
+[1] ""
+[1] ""
+[1] "ELABORAZIONE GRAFICI 1500m"
+[1] "   File letti correttamente."
+[1] "   Dati da plottare modellati correttamente."
+[1] "   Vettori da plottare creati correttamente."
+[1] "   Grafici creati correttamente."
+Warning messages:
+1: Removed 8 rows containing missing values (geom_path). 
+2: Removed 8 rows containing missing values (geom_point). 
+[1] ""
+[1] ""
+[1] "ELABORAZIONE GRAFICI 3000m"
+[1] "   File letti correttamente."
+[1] "   Dati da plottare modellati correttamente."
+[1] "   Vettori da plottare creati correttamente."
+[1] "   Grafici creati correttamente."
+Warning messages:
+1: Removed 8 rows containing missing values (geom_path). 
+2: Removed 8 rows containing missing values (geom_point). 
+presente dataend
+dataend
+20200229
+deltagg= 91
+ 
+Periodo richiesto: da  20191201 a 20200229 numero giorni=91
+Regione richiesta:  PU
+ 
+OSSERVATI
+ fine lettura filein, esco, riga         11831
+TMAX: fatto
+ fine lettura filein, esco, riga         11831
+TMIN: fatto
+ 
+MMSUP
+ fine lettura filein, esco, riga         11831
+TMAX: fatto
+ fine lettura filein, esco, riga         11701
+TMIN: fatto
+ 
+ECMWF00
+ fine lettura filein, esco, riga         11831
+TMAX: fatto
+ fine lettura filein, esco, riga         11831
+TMIN: fatto
+ 
+COSMO-I7
+ fine lettura filein, esco, riga         11571
+TMAX: fatto
+ fine lettura filein, esco, riga         11311
+TMIN: fatto
+ 
+COSMO-I2
+ fine lettura filein, esco, riga         10401
+TMAX: fatto
+ fine lettura filein, esco, riga         10401
+TMIN: fatto
+ 
+SORT DEI FILE SECONDO DATA E STAZIONE
+Fatto.
+ 
+FILL DEI FILE DEI MODELLI QUANDO HANNO MENO RIGHE DEL RISPETTIVO FILE DI DATI OSSERVATI
+file MMSMIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMIN700.DAT completo
+file CI7MIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMAX700.DAT completo
+file ECMMAX700.DAT completo
+file CI7MAX700.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MAX700.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMIN150.DAT completo
+file CI7MIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMAX150.DAT completo
+file ECMMAX150.DAT completo
+file CI7MAX150.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MAX150.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMIN300.DAT completo
+file ECMMIN300.DAT completo
+file CI7MIN300.DAT completo
+file CI2MIN300.DAT completo
+file MMSMAX300.DAT completo
+file ECMMAX300.DAT completo
+file CI7MAX300.DAT completo
+file CI2MAX300.DAT completo
+[[1]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[[2]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[[3]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[[1]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[1] ""
+[1] "+++++++++++++++++++++++++++++++++++++++++"
+[1] "i modelli sono"
+[1] 4
+[1] "+++++++++++++++++++++++++++++++++++++++++"
+[1] ""
+[1] "ELABORAZIONE GRAFICI 700m"
+[1] "   File letti correttamente."
+[1] "   Dati da plottare modellati correttamente."
+[1] "   Vettori da plottare creati correttamente."
+[1] "   Grafici creati correttamente."
+Warning messages:
+1: Removed 8 rows containing missing values (geom_path). 
+2: Removed 8 rows containing missing values (geom_point). 
+[1] ""
+[1] ""
+[1] "ELABORAZIONE GRAFICI 1500m"
+[1] "   File letti correttamente."
+[1] "   Dati da plottare modellati correttamente."
+[1] "   Vettori da plottare creati correttamente."
+[1] "   Grafici creati correttamente."
+Warning messages:
+1: Removed 8 rows containing missing values (geom_path). 
+2: Removed 8 rows containing missing values (geom_point). 
+[1] ""
+[1] ""
+[1] "ELABORAZIONE GRAFICI 3000m: nessun dato presente."
+presente dataend
+dataend
+20200229
+deltagg= 91
+ 
+Periodo richiesto: da  20191201 a 20200229 numero giorni=91
+Regione richiesta:  CA
+ 
+OSSERVATI
+ fine lettura filein, esco, riga         14743
+TMAX: fatto
+ fine lettura filein, esco, riga         14743
+TMIN: fatto
+ 
+MMSUP
+ fine lettura filein, esco, riga         14743
+TMAX: fatto
+ fine lettura filein, esco, riga         14581
+TMIN: fatto
+ 
+ECMWF00
+ fine lettura filein, esco, riga         14743
+TMAX: fatto
+ fine lettura filein, esco, riga         14743
+TMIN: fatto
+ 
+COSMO-I7
+ fine lettura filein, esco, riga         14419
+TMAX: fatto
+ fine lettura filein, esco, riga         14095
+TMIN: fatto
+ 
+COSMO-I2
+ fine lettura filein, esco, riga         12961
+TMAX: fatto
+ fine lettura filein, esco, riga         12961
+TMIN: fatto
+ 
+SORT DEI FILE SECONDO DATA E STAZIONE
+Fatto.
+ 
+FILL DEI FILE DEI MODELLI QUANDO HANNO MENO RIGHE DEL RISPETTIVO FILE DI DATI OSSERVATI
+file MMSMIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMIN700.DAT completo
+file CI7MIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMAX700.DAT completo
+file ECMMAX700.DAT completo
+file CI7MAX700.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MAX700.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMIN150.DAT completo
+file CI7MIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMAX150.DAT completo
+file ECMMAX150.DAT completo
+file CI7MAX150.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MAX150.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMIN300.DAT completo
+file ECMMIN300.DAT completo
+file CI7MIN300.DAT completo
+file CI2MIN300.DAT completo
+file MMSMAX300.DAT completo
+file ECMMAX300.DAT completo
+file CI7MAX300.DAT completo
+file CI2MAX300.DAT completo
+[[1]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[[2]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[[3]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[[1]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[1] ""
+[1] "+++++++++++++++++++++++++++++++++++++++++"
+[1] "i modelli sono"
+[1] 4
+[1] "+++++++++++++++++++++++++++++++++++++++++"
+[1] ""
+[1] "ELABORAZIONE GRAFICI 700m"
+[1] "   File letti correttamente."
+[1] "   Dati da plottare modellati correttamente."
+[1] "   Vettori da plottare creati correttamente."
+[1] "   Grafici creati correttamente."
+Warning messages:
+1: Removed 8 rows containing missing values (geom_path). 
+2: Removed 8 rows containing missing values (geom_point). 
+[1] ""
+[1] ""
+[1] "ELABORAZIONE GRAFICI 1500m"
+[1] "   File letti correttamente."
+[1] "   Dati da plottare modellati correttamente."
+[1] "   Vettori da plottare creati correttamente."
+[1] "   Grafici creati correttamente."
+Warning messages:
+1: Removed 8 rows containing missing values (geom_path). 
+2: Removed 8 rows containing missing values (geom_point). 
+[1] ""
+[1] ""
+[1] "ELABORAZIONE GRAFICI 3000m: nessun dato presente."
+presente dataend
+dataend
+20200229
+deltagg= 91
+ 
+Periodo richiesto: da  20191201 a 20200229 numero giorni=91
+Regione richiesta:  CB
+ 
+OSSERVATI
+ fine lettura filein, esco, riga         12377
+TMAX: fatto
+ fine lettura filein, esco, riga         12377
+TMIN: fatto
+ 
+MMSUP
+ fine lettura filein, esco, riga         12377
+TMAX: fatto
+ fine lettura filein, esco, riga         12241
+TMIN: fatto
+ 
+ECMWF00
+ fine lettura filein, esco, riga         12377
+TMAX: fatto
+ fine lettura filein, esco, riga         12377
+TMIN: fatto
+ 
+COSMO-I7
+ fine lettura filein, esco, riga         12105
+TMAX: fatto
+ fine lettura filein, esco, riga         11833
+TMIN: fatto
+ 
+COSMO-I2
+ fine lettura filein, esco, riga         10881
+TMAX: fatto
+ fine lettura filein, esco, riga         10881
+TMIN: fatto
+ 
+SORT DEI FILE SECONDO DATA E STAZIONE
+Fatto.
+ 
+FILL DEI FILE DEI MODELLI QUANDO HANNO MENO RIGHE DEL RISPETTIVO FILE DI DATI OSSERVATI
+file MMSMIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMIN700.DAT completo
+file CI7MIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMAX700.DAT completo
+file ECMMAX700.DAT completo
+file CI7MAX700.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MAX700.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMIN150.DAT completo
+file CI7MIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMAX150.DAT completo
+file ECMMAX150.DAT completo
+file CI7MAX150.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MAX150.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMIN300.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMIN300.DAT completo
+file CI7MIN300.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MIN300.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMAX300.DAT completo
+file ECMMAX300.DAT completo
+file CI7MAX300.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MAX300.DAT con righe mancanti, riempio i buchi di valori nulli
+[[1]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[[2]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[[3]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[[1]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[1] ""
+[1] "+++++++++++++++++++++++++++++++++++++++++"
+[1] "i modelli sono"
+[1] 4
+[1] "+++++++++++++++++++++++++++++++++++++++++"
+[1] ""
+[1] "ELABORAZIONE GRAFICI 700m"
+[1] "   File letti correttamente."
+[1] "   Dati da plottare modellati correttamente."
+[1] "   Vettori da plottare creati correttamente."
+[1] "   Grafici creati correttamente."
+Warning messages:
+1: Removed 8 rows containing missing values (geom_path). 
+2: Removed 8 rows containing missing values (geom_point). 
+[1] ""
+[1] ""
+[1] "ELABORAZIONE GRAFICI 1500m"
+[1] "   File letti correttamente."
+[1] "   Dati da plottare modellati correttamente."
+[1] "   Vettori da plottare creati correttamente."
+[1] "   Grafici creati correttamente."
+Warning messages:
+1: Removed 8 rows containing missing values (geom_path). 
+2: Removed 8 rows containing missing values (geom_point). 
+[1] ""
+[1] ""
+[1] "ELABORAZIONE GRAFICI 3000m"
+[1] "   File letti correttamente."
+[1] "   Dati da plottare modellati correttamente."
+[1] "   Vettori da plottare creati correttamente."
+[1] "   Grafici creati correttamente."
+Warning messages:
+1: Removed 8 rows containing missing values (geom_path). 
+2: Removed 8 rows containing missing values (geom_point). 
+presente dataend
+dataend
+20200229
+deltagg= 91
+ 
+Periodo richiesto: da  20191201 a 20200229 numero giorni=91
+Regione richiesta:  BA
+ 
+OSSERVATI
+ fine lettura filein, esco, riga          6280
+TMAX: fatto
+ fine lettura filein, esco, riga          6280
+TMIN: fatto
+ 
+MMSUP
+ fine lettura filein, esco, riga          6189
+TMAX: fatto
+ fine lettura filein, esco, riga          6121
+TMIN: fatto
+ 
+ECMWF00
+ fine lettura filein, esco, riga          6189
+TMAX: fatto
+ fine lettura filein, esco, riga          6189
+TMIN: fatto
+ 
+COSMO-I7
+ fine lettura filein, esco, riga          6053
+TMAX: fatto
+ fine lettura filein, esco, riga          5917
+TMIN: fatto
+ 
+COSMO-I2
+ fine lettura filein, esco, riga          5441
+TMAX: fatto
+ fine lettura filein, esco, riga          5441
+TMIN: fatto
+ 
+SORT DEI FILE SECONDO DATA E STAZIONE
+Fatto.
+ 
+FILL DEI FILE DEI MODELLI QUANDO HANNO MENO RIGHE DEL RISPETTIVO FILE DI DATI OSSERVATI
+file MMSMIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMIN700.DAT completo
+file CI7MIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMAX700.DAT completo
+file ECMMAX700.DAT completo
+file CI7MAX700.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MAX700.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI7MIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMAX150.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMAX150.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI7MAX150.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MAX150.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMIN300.DAT completo
+file ECMMIN300.DAT completo
+file CI7MIN300.DAT completo
+file CI2MIN300.DAT completo
+file MMSMAX300.DAT completo
+file ECMMAX300.DAT completo
+file CI7MAX300.DAT completo
+file CI2MAX300.DAT completo
+[[1]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[[2]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[[3]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[[1]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[1] ""
+[1] "+++++++++++++++++++++++++++++++++++++++++"
+[1] "i modelli sono"
+[1] 4
+[1] "+++++++++++++++++++++++++++++++++++++++++"
+[1] ""
+[1] "ELABORAZIONE GRAFICI 700m"
+[1] "   File letti correttamente."
+[1] "   Dati da plottare modellati correttamente."
+[1] "   Vettori da plottare creati correttamente."
+[1] "   Grafici creati correttamente."
+Warning messages:
+1: Removed 8 rows containing missing values (geom_path). 
+2: Removed 8 rows containing missing values (geom_point). 
+[1] ""
+[1] ""
+[1] "ELABORAZIONE GRAFICI 1500m"
+[1] "   File letti correttamente."
+[1] "   Dati da plottare modellati correttamente."
+[1] "   Vettori da plottare creati correttamente."
+[1] "   Grafici creati correttamente."
+Warning messages:
+1: Removed 8 rows containing missing values (geom_path). 
+2: Removed 8 rows containing missing values (geom_point). 
+[1] ""
+[1] ""
+[1] "ELABORAZIONE GRAFICI 3000m: nessun dato presente."
+presente dataend
+dataend
+20200229
+deltagg= 91
+ 
+Periodo richiesto: da  20191201 a 20200229 numero giorni=91
+Regione richiesta:  SI
+ 
+OSSERVATI
+ fine lettura filein, esco, riga         19657
+TMAX: fatto
+ fine lettura filein, esco, riga         19657
+TMIN: fatto
+ 
+MMSUP
+ fine lettura filein, esco, riga         19440
+TMAX: fatto
+ fine lettura filein, esco, riga         19227
+TMIN: fatto
+ 
+ECMWF00
+ fine lettura filein, esco, riga         19443
+TMAX: fatto
+ fine lettura filein, esco, riga         19444
+TMIN: fatto
+ 
+COSMO-I7
+ fine lettura filein, esco, riga         19015
+TMAX: fatto
+ fine lettura filein, esco, riga         18591
+TMIN: fatto
+ 
+COSMO-I2
+ fine lettura filein, esco, riga         17089
+TMAX: fatto
+ fine lettura filein, esco, riga         17090
+TMIN: fatto
+ 
+SORT DEI FILE SECONDO DATA E STAZIONE
+Fatto.
+ 
+FILL DEI FILE DEI MODELLI QUANDO HANNO MENO RIGHE DEL RISPETTIVO FILE DI DATI OSSERVATI
+file MMSMIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI7MIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMAX700.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMAX700.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI7MAX700.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MAX700.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMIN150.DAT completo
+file CI7MIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMAX150.DAT completo
+file ECMMAX150.DAT completo
+file CI7MAX150.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MAX150.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMIN300.DAT completo
+file ECMMIN300.DAT completo
+file CI7MIN300.DAT completo
+file CI2MIN300.DAT completo
+file MMSMAX300.DAT completo
+file ECMMAX300.DAT completo
+file CI7MAX300.DAT completo
+file CI2MAX300.DAT completo
+[[1]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[[2]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[[3]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[[1]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[1] ""
+[1] "+++++++++++++++++++++++++++++++++++++++++"
+[1] "i modelli sono"
+[1] 4
+[1] "+++++++++++++++++++++++++++++++++++++++++"
+[1] ""
+[1] "ELABORAZIONE GRAFICI 700m"
+[1] "   File letti correttamente."
+[1] "   Dati da plottare modellati correttamente."
+[1] "   Vettori da plottare creati correttamente."
+[1] "   Grafici creati correttamente."
+Warning messages:
+1: Removed 8 rows containing missing values (geom_path). 
+2: Removed 8 rows containing missing values (geom_point). 
+[1] ""
+[1] ""
+[1] "ELABORAZIONE GRAFICI 1500m"
+[1] "   File letti correttamente."
+[1] "   Dati da plottare modellati correttamente."
+[1] "   Vettori da plottare creati correttamente."
+[1] "   Grafici creati correttamente."
+Warning messages:
+1: Removed 8 rows containing missing values (geom_path). 
+2: Removed 8 rows containing missing values (geom_point). 
+[1] ""
+[1] ""
+[1] "ELABORAZIONE GRAFICI 3000m: nessun dato presente."
+presente dataend
+dataend
+20200229
+deltagg= 91
+ 
+Periodo richiesto: da  20191201 a 20200229 numero giorni=91
+Regione richiesta:  SA
+ 
+OSSERVATI
+ fine lettura filein, esco, riga          8464
+TMAX: fatto
+ fine lettura filein, esco, riga          8464
+TMIN: fatto
+ 
+MMSUP
+ fine lettura filein, esco, riga          8464
+TMAX: fatto
+ fine lettura filein, esco, riga          8371
+TMIN: fatto
+ 
+ECMWF00
+ fine lettura filein, esco, riga          8464
+TMAX: fatto
+ fine lettura filein, esco, riga          8464
+TMIN: fatto
+ 
+COSMO-I7
+ fine lettura filein, esco, riga          8278
+TMAX: fatto
+ fine lettura filein, esco, riga          8092
+TMIN: fatto
+ 
+COSMO-I2
+ fine lettura filein, esco, riga          7441
+TMAX: fatto
+ fine lettura filein, esco, riga          7441
+TMIN: fatto
+ 
+SORT DEI FILE SECONDO DATA E STAZIONE
+Fatto.
+ 
+FILL DEI FILE DEI MODELLI QUANDO HANNO MENO RIGHE DEL RISPETTIVO FILE DI DATI OSSERVATI
+file MMSMIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMIN700.DAT completo
+file CI7MIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MIN700.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMAX700.DAT completo
+file ECMMAX700.DAT completo
+file CI7MAX700.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MAX700.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file ECMMIN150.DAT completo
+file CI7MIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MIN150.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMAX150.DAT completo
+file ECMMAX150.DAT completo
+file CI7MAX150.DAT con righe mancanti, riempio i buchi di valori nulli
+file CI2MAX150.DAT con righe mancanti, riempio i buchi di valori nulli
+file MMSMIN300.DAT completo
+file ECMMIN300.DAT completo
+file CI7MIN300.DAT completo
+file CI2MIN300.DAT completo
+file MMSMAX300.DAT completo
+file ECMMAX300.DAT completo
+file CI7MAX300.DAT completo
+file CI2MAX300.DAT completo
+[[1]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[[2]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[[3]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[[1]]
+ [1] "ggplot2"      "RColorBrewer" "reshape2"     "scales"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+[1] ""
+[1] "+++++++++++++++++++++++++++++++++++++++++"
+[1] "i modelli sono"
+[1] 4
+[1] "+++++++++++++++++++++++++++++++++++++++++"
+[1] ""
+[1] "ELABORAZIONE GRAFICI 700m"
+[1] "   File letti correttamente."
+[1] "   Dati da plottare modellati correttamente."
+[1] "   Vettori da plottare creati correttamente."
+[1] "   Grafici creati correttamente."
+Warning messages:
+1: Removed 8 rows containing missing values (geom_path). 
+2: Removed 8 rows containing missing values (geom_point). 
+[1] ""
+[1] ""
+[1] "ELABORAZIONE GRAFICI 1500m"
+[1] "   File letti correttamente."
+[1] "   Dati da plottare modellati correttamente."
+[1] "   Vettori da plottare creati correttamente."
+[1] "   Grafici creati correttamente."
+Warning messages:
+1: Removed 8 rows containing missing values (geom_path). 
+2: Removed 8 rows containing missing values (geom_point). 
+[1] ""
+[1] ""
+[1] "ELABORAZIONE GRAFICI 3000m: nessun dato presente."
+ 
+PROCEDURA COMPLETATA.
