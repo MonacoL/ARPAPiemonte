@@ -1,0 +1,82 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>ARPA Piemonte: cost loss stagionale</title>
+    <script src="UsefulFunctions.js"></script> <!--In questo file ho inserito tutte le funzioni javascript create da me e commentate-->
+    <link rel="stylesheet" type="text/css" href="Slideshow\slick.css">
+    <link rel="stylesheet" type="text/css" href="Slideshow\slick-theme.css">
+    <style type="text/css">
+
+        html, body {
+            margin: 5px;
+            padding: 0px;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        .slider {
+            width: 70%;
+            margin: 0 30px;
+        }
+
+        .slick-slide {
+            margin: 0px 15px;
+        }
+
+            .slick-slide img {
+                width: 100%;
+            }
+
+        .slick-prev:before,
+        .slick-next:before {
+            color: black;
+        }
+    </style>
+    <script src="jquery-2.2.0.min.js" type="text/javascript"></script>
+    <script src="Slideshow\slick.js" type="text/javascript" charset="utf-8"></script>    
+</head>
+<body>  
+    <script type="text/javascript">
+
+        var GlobalToShowOnPage;
+        // var datasetByYear="";
+        // var datasetByYearBySeason="";
+        // var datasetByYearBySeasonByModel="";
+
+        function UpdateModelli(){
+            year=document.getElementById("ddlAnno").value;
+            season=document.getElementById("ddlPeriodo").value;
+            WriteModelButtons(year, season);
+        }        
+        function UpdateSeason(){
+            year=document.getElementById("ddlAnno").value;
+            FillStagioniDDL(year);
+            UpdateModelli();
+        }
+    </script>
+    <!--Carico tutti gli anni ammessi, tutte le stagioni, Tmin e Tmax nei dropdown-->
+    <label for="ddlAnno">Anno:</label>
+    <select id="ddlAnno" onchange="UpdateSeason()"></select>
+    <label for="ddlPeriodo">Stagione:</label>
+    <select id="ddlPeriodo" onchange="UpdateModelli()"></select>
+    </select><br/><br/>
+    <div id="divModelli">        
+    </div>  
+    <script>
+        FillYearsDDL('ToShowOnPage.txt?d='+getRndNumber());
+        firstYear=document.getElementById("ddlAnno").value;
+        FillStagioniDDL(firstYear);
+        lastSeason=document.getElementById("ddlPeriodo").value;  
+        WriteModelButtons(firstYear, lastSeason);        
+    </script> 
+    <br/>
+    <div id="SlideShow"></div>
+    <script>
+        SetSlickOptions();
+    </script>    
+</body>
+</html>
