@@ -1,0 +1,30 @@
+
+
+Aggiornamenti trimestrale a seconda della disponibilità dei dati nazionali.
+
+In questa sezione sono riportate le immagini rappresentanti le mappe di precipitazione cumulata dai modelli ECMWF e COSMO-I7 nell'ultima stagione meteorologica conclusa, poste a confronto con le precipitazioni cumulate osservate dalle reti di rilevamento pluviometrico delle varie regioni.
+
+Nella sottosezione “D0” sono riportate le mappe relative alle prime 24 ore di previsione dei modelli, nella sottosezione “D1” al periodo di previsione tra +24 e + 48 ore, nella sottosezione “D2”, infine, il periodo di previsione esaminato va da +48 a +72 ore.
+I dati osservati sono sempre gli stessi in tutte e tre le sottosezioni, in modo che sia possibile eseguire da subito un raffronto tra la bontà di previsione per il D0, il D1 e il D2, notando se vi è stato un deterioramento della previsione col forecast time.
+
+In caso di giorno mancante per uno dei due modelli, quel giorno viene tolto dalla cumulazione anche per l’altro modello e per le osservate, in modo da poter effettuare sempre un confronto coerente.
+
+Le stagioni sono cosi' definite:
+-Primavera: Mesi di Marzo, Aprile, Maggio
+-Estate: Mesi di Giugno, Luglio, Agosto
+-Autunno: mesi di Settembre, Ottobre, Novembre
+-Inverno: mesi di Dicembre, Gennaio, Febbraio
+
+
+
+
+
+
+aggiornamento mensile, a seconda della disponibilità dei dati nazionali.
+
+In questa sezione sono riportate le immagini rappresentanti le mappe di precipitazione cumulata dai modelli ECMWF-IFS, COSMO-I7, BOLAM, MOLOCH, COSMO-2I nell'ultimo mese i cui dati osservati sono a disposizione, poste a confronto con le precipitazioni cumulate osservate dalle reti di rilevamento pluviometrico delle varie regioni.
+
+Nella sottosezione “D0” sono riportate le mappe relative alle prime 24 ore di previsione dei modelli, nella sottosezione “D1” al periodo di previsione tra +24 e + 48 ore, nella sottosezione “D2”, infine, il periodo di previsione esaminato va da +48 a +72 ore (per i modelli le cui corse vanno fino a +72 ore di previsione).
+I dati osservati sono sempre gli stessi in tutte e tre le sottosezioni, in modo che sia possibile eseguire da subito un raffronto tra la bontà di previsione per il D0, il D1 e il D2, notando se vi è stato un deterioramento della previsione col forecast time.
+
+In caso di giorno mancante per uno dei due modelli, quel giorno viene tolto dalla cumulazione anche per l’altro modello e per le osservate, in modo da poter effettuare sempre un confronto coerente.

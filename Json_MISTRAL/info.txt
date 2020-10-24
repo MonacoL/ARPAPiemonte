@@ -1,0 +1,101 @@
+Ciao Luca, ma sono stato in turno (da remoto) e oltre a dover risolvere problemi di connettività ho dovuto anche fare le previsioni in un contesto più impegnativo del solito. Mi trovo sempre a dover fare 2-3 cose contemporaneamente e faccio tutto non bene come vorrei.
+Io comunque sarò sempre operativo qui dal mio ufficio di CN, quando non sono in ferie (come domani). Il mi numero di tel di ufficio è 0171329321.
+
+Dunque, andiamo con ordine.
+- parliamo di precipitazione o di temperatura? O altro?
+* temperatura
+
+- cosa rappresenta la terza colonna? noto che scala di tre in tre fino a 0240.
+- che unità di misura hanno le colonne successive? (dovrebbero essere tutte misure no?)
+* 1a colonna: codice stazione (non serve nel JSON, è una roba interna, serve a te per vedere la corrispondenza tra il codice e le coordinate (lat, lon, quota) della singola stazione
+*2a colonna: data emissione previsione
+*3a colonna: lead time della previsione in ore: dalle 06 del giorno di emissione fino a +240 (cioè 10 giorni)
+*4a colonna: precipitazione esaoraria prevista in decimi di millimetro (puoi bellamente ignorarla)
+*5a colonna: temperatura prevista trioraria in decimi di grado (es 0013=1.3°C)
+*6a colonna: direzione del vento in gradi
+*7a colonna: velocità del vento in decimi di m/s
+*8a colonna: umidità relativa
+*9a colonna: quella che più ci serve, temperature minime e massime previste per ogni giornata in decimi di grado. Per convenzione le minime sono messe in corrispondenza delle 06 UTC (anche se non per forza corrispondono con le temperature delle 06) e le massime alle 18 UTC. Ti direi di concentrarti su queste.  
+
+- esistono misure da ritenere invalidate in qualche modo? Lo schema json prevede questa informazione
+*sono previsioni, quindi tutto valido
+
+- che tipo di misure sono? cumulate, medie, istantanee.. altro?
+*tutto spiegato nei punti prima (spero)
+
+Riguardo le stazioni:
+- sono tutte fisse?
+*YES
+- le misure sono effettuate tutte alla stessa quota della stazione?
+*YES
+
+per casini urgenti, contattami anche personalmente al 3337378620, anche per WA, non disturbi mai, al max non rispondo.  
+Paolo
+
+
+
+
+Ciao Luca, come stai? Spero tutto ok.
+
+A cosa ti serve l'accesso a Odino lato server? Io non vi accedo lato bash, ma vi copio sopra solo i dati tramite scp. L'unico che ci accede tramite bash è Fabio Antonini (puoi sentirlo eventualmente). Se invece ti serve l'accesso lato web con permessi di admin, io vi accedo ma ho mi ha messo Fabio la password, ce l'ho in memoria, ma in realtà quel tipo di privilegi servono solo per poterci autoconfigurare le pagine web  di pertinenza senza disturbare Fabio per ogni cavolata.
+In ogni caso la persona da sentire è lui.
+
+Per quanto riguarda il lavoro sui boxplot italiani, ho finito ieri, dopo un lavoro certosino, la creazione dell'ultima maschera sulle aree italiane per i vari modelli che abbiamo in operatività. Purtroppo non c'era soluzione, ho dovuto intervenirci a mano in quanto i file delle aree che mi hanno mandato da Roma aveva delle geometric exception e non sono stati in grado di sanarle. Ora devo solo testare la procedura che fornisce i valori di precipitazione per ogni modello sulle aree suddette, usando le maschere che ho creato, poi posso passarti la procedura di visualizzazione in toto. Però c'è ancora da aspettare un pochino (come avrai capito alcuni lavori ce li ho sulle spalle io e non ho sostituti di alcun tipo).
+
+Nel frattempo ti chiedo un'altra cosa: mi ha chiesto Renata di coinvolgerti in un altro lavoro che ho in arretrato. Si tratta di convertire i files di output della mia procedura MULTIMODEL per la previsione delle temperature sull'Italia, operativamente scritte in formato ASCII, in formato JSON per mandarli al portale del progetto MISTRAL. Se per te va bene ti posso fornire:
+
+1)Un file output di prova di Multimodel
+2)La struttura JSON richiesta per il progetto MISTRAL (trovi qc qua http://www.raspibo.org/wiki/index.php/Gruppo_Meteo/RFC-rmap#Json  anche se sono necessari ulteriori chiarimenti)
+3)L'anagrafica delle stazioni da trasformare
+
+..così potrai fare delle prove.
+Attendo tue news
+Paolo
+
+
+
+Ciao Paolo, ti scrivo qui dei dubbi che mi sono venuti, così non mi scordo e così puoi rispondermi quando vuoi. Le mie domande sono in relazione al file json come se avesse tutte le colonne del file MM e non solo temp max/min.
+
+- Caso righe MM tutte nulle (9999) per una certa stazione in un certo giorno: scriviamo previsioni nulle (invalidate, secondo lo schema di questo json) ogni giorno? O non scriviamo proprio nulla su quella stazione in quel giorno?
+
+
+- Caso righe MM solo alcune nulle per una certa stazione in un certo giorno: le scriviamo lo stesso come nulle (invalidate), o le saltiamo a piè pari?
+
+
+- Caso righe MM solo con alcuni campi nulli in un certo giorno: scriviamo i campi nulli o li saltiamo?
+
+
+- Al momento, ciò che identifica una stazione è la coppia latitudine-longitudine, ho avuto modo di inserire anche il nome delle stazioni ma ovviamente ci possono essere omonimie (non so se ci sono effettivamente). Va bene per adesso?
+
+
+- Nella struttura del json, c'è modo di indicare quando una previsione è di temperatura, ma mi è difficile capire come indicare che una previsione è di temperatura massima/minima. Credo di essermi arabattato in qualche maniera indicando un particolare attributo alla previsione, però potrebbe essere sbagliato. Mi piacerebbe vedere con te se l'ho pensata giusta. O sennò possiamo mandare così e vedere che ci dicono.
+
+
+- Useremo solo i file "MMENS" o anche i "MMSUP"?
+SOLO SUP
+
+
+Per ora nel file json scrivo solo la temp max/min quando è non nulla e salto le altre righe, ma ho già predisposto tutto per inserire anche gli altri campi del MM, dovrebbe davvero essere questione di minuti per farlo, a meno di problemi di unità di misura.
+Al momento, in media per scrivere i dati di una regione del json ci vogliono 7 minuti, ergo per fare tutta Italia ci vogliono 7*20=140 minuti. E' accettabile? Poi ovviamente ci sono regioni con più stazioni e regioni con meno stazioni, ma 140 minuti è una stima realistica. Aggiungendo anche le altre colonne del multimodel ci vuole giusto qualcosa in più insomma...
+
+Finora ho provato a scrivere il JSON di PI EM FR insieme, l'accodamento avviene con successo.
+
+Riguardo a come vogliamo impostare la procedura: io avevo pensato di far sì che vengano passati come argomenti al file python i seguenti path, per rendere la procedura flessibile
+
+- path multimodel: dove prendere i dati mm
+- path output: dove salvare il file json (che al momento è del tipo YYYYMMDD.json)
+- path anagrafiche: dove prendere le anagrafiche
+
+Ti va bene, o mettiamo path fissi all'interno del codice?
+
+A domani, scrivimi pure quando vuoi, ma dovrei iniziare a lavorare verso ora di pranzo.
+
+Luca
+
+
+
+Questione boxplot:
+- sono 5 modelli che diventeranno 6: bastano i punti e la media.
+- scadenze temporali: 70 aree, 5 scadenze, 12 ore, 24 ore. NO. Pagina con 70 stazioni, 12 di oggi pomeriggio (4^), 24 ore di domani (6^), 24 dopodomani (10^)
+- massime medie
+- replicare lo stesso grafico solo per le aree dalla 25 alla 59 

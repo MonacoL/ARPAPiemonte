@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>ARPA Piemonte: verifica cumulate</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+    integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+    crossorigin=""/>    
+    <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
+    integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
+    crossorigin=""></script>     
+    <script src="Leaflet\leaflet.ajax.min.js"></script> <!--libreria javascript per la gestione del json delle regioni. è un miglioramento ulteriore di GeoJSON-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="UsefulFunctions.js"></script> <!--In questo file ho inserito tutte le funzioni javascript create da me e commentate-->
+    <script src="leaflet_panel_layers/leaflet-panel-layers.js"></script>
+    <link rel="stylesheet" href="leaflet_panel_layers/leaflet-panel-layers.css" />
+    <!--stile mappa-->
+    <style>
+        #Mappa{
+            height: 730px;
+            width: 700px;
+        }
+    </style>
+    <!--stile delle label delle regioni-->
+    <style>
+        .info {
+            padding: 6px 8px;
+            font: 14px/16px Arial, Helvetica, sans-serif;
+            background: rgba(255,255,255,0.8);
+            box-shadow: 0 0 15px rgba(0,0,0,0.2);
+            border-radius: 5px;
+        }
+        .info h4 {
+            margin: 0 0 5px;
+            color: #777;
+        }        
+        .legend {
+            line-height: 18px;
+            color: black;
+            background-color: white;
+            padding:10px 10px 10px 10px;
+        }
+        .legend i {
+            width: 18px;
+            height: 18px;
+            float: left;
+            margin-right: 8px;
+            opacity: 1;
+        }        
+    </style>   
+</head>
+<body style="margin:0;padding:0">
+    <div id="Mappa"></div>         
+    <script type="text/javascript">
+        dacaricare = window.location.search.substring(1);
+        par = dacaricare.split("&");
+        if (par[0]=="mensile"){
+            var cartella="Output_mensile";                     
+        }else{
+            var cartella="Output_stagionale";
+        }                    
+        var osservati = new L.GeoJSON.AJAX("GeoJSON_files/"+cartella+"/osservati.geojson", { onEachFeature: onEachFeature});
+        var ecmD0 = new L.GeoJSON.AJAX("GeoJSON_files/"+cartella+"/D0/e1000.geojson", { onEachFeature: onEachFeature});
+        var bolamD0 = new L.GeoJSON.AJAX("GeoJSON_files/"+cartella+"/D0/bol00.geojson", { onEachFeature: onEachFeature});
+        var cosmo2iD0 = new L.GeoJSON.AJAX("GeoJSON_files/"+cartella+"/D0/c2200.geojson", { onEachFeature: onEachFeature});
+        var cosmoi5D0 = new L.GeoJSON.AJAX("GeoJSON_files/"+cartella+"/D0/c5m00.geojson", { onEachFeature: onEachFeature});
+        var molochD0 = new L.GeoJSON.AJAX("GeoJSON_files/"+cartella+"/D0/mol00.geojson", { onEachFeature: onEachFeature});
+        var ecmD1 = new L.GeoJSON.AJAX("GeoJSON_files/"+cartella+"/D1/e1000.geojson", { onEachFeature: onEachFeature});
+        var bolamD1 = new L.GeoJSON.AJAX("GeoJSON_files/"+cartella+"/D1/bol00.geojson", { onEachFeature: onEachFeature});
+        var cosmo2iD1 = new L.GeoJSON.AJAX("GeoJSON_files/"+cartella+"/D1/c2200.geojson", { onEachFeature: onEachFeature});
+        var cosmoi5D1 = new L.GeoJSON.AJAX("GeoJSON_files/"+cartella+"/D1/c5m00.geojson", { onEachFeature: onEachFeature});
+        var molochD1 = new L.GeoJSON.AJAX("GeoJSON_files/"+cartella+"/D1/mol00.geojson", { onEachFeature: onEachFeature});
+        var ecmD2 = new L.GeoJSON.AJAX("GeoJSON_files/"+cartella+"/D2/e1000.geojson", { onEachFeature: onEachFeature});
+        var bolamD2 = new L.GeoJSON.AJAX("GeoJSON_files/"+cartella+"/D2/bol00.geojson", { onEachFeature: onEachFeature});
+        var cosmoi5D2 = new L.GeoJSON.AJAX("GeoJSON_files/"+cartella+"/D2/c5m00.geojson", { onEachFeature: onEachFeature});
+        if (par[1]=="osservati"){
+            var mappa = CreaMappa('Mappa', osservati); 
+            var D0collassato=true;                       
+        }else{
+            var mappa = CreaMappa('Mappa', ecmD0);
+            var D0collassato=false;
+        } 
+        ApplicaLegenda(mappa);
+        
+        var baseLayers = [
+            {
+                name: "<b>OSSERVATI</b>",
+                layer: osservati
+            },
+            {
+                group: "D0",
+                collapsed: D0collassato,
+                layers: [
+                    {
+                        name: "ECMWF-IFS",
+                        layer: ecmD0
+                    },
+                    {
+                        name: "BOLAM",
+                        layer: bolamD0
+                    },
+                    {
+                        name: "COSMO-2I",
+                        layer: cosmo2iD0
+                    },
+                    {
+                        name: "COSMO-I5",
+                        layer: cosmoi5D0
+                    },
+                    {
+                        name: "MOLOCH",
+                        layer: molochD0
+                    }
+                ]
+            },
+            {
+                group: "D1",
+                collapsed: true,
+                layers: [
+                    {
+                        name: "ECMWF-IFS",
+                        layer: ecmD1
+                    },
+                    {
+                        name: "BOLAM",
+                        layer: bolamD1
+                    },
+                    {
+                        name: "COSMO-2I",
+                        layer: cosmo2iD1
+                    },
+                    {
+                        name: "COSMO-I5",
+                        layer: cosmoi5D1
+                    },
+                    {
+                        name: "MOLOCH",
+                        layer: molochD1
+                    }
+                ]
+            },
+            {
+                group: "D2",
+                collapsed: true,
+                layers: [
+                    {
+                        name: "ECMWF-IFS",
+                        layer: ecmD2
+                    },
+                    {
+                        name: "BOLAM",
+                        layer: bolamD2
+                    },
+                    {
+                        name: "COSMO-I5",
+                        layer: cosmoi5D2
+                    }
+                ]
+            }                                            
+        ];        
+         
+        var panelLayers = new L.Control.PanelLayers(baseLayers, [],{
+	compact: true,
+	//collapsed: true,
+	collapsibleGroups: true
+});
+        mappa.addControl(panelLayers);            
+    </script>
+
+    </body>
+</html>

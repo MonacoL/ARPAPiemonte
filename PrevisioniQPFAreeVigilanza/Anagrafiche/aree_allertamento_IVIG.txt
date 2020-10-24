@@ -1,0 +1,73 @@
+REGIONE 
+IVIG  
+NAREE 70  
+001 0000  - 01  Valle d'Aosta   
+002 0000  - 10  FVG S   
+003 0000  - 11  Lombardia O     
+004 0000  - 12  Lombardia E   
+005 0000  - 13  Veneto SE    
+006 0000  - 14  Piemonte SW     
+007 0000  - 15  Piemonte centrale  
+008 0000  - 16  Piemonte SE Lomb SW   
+009 0000  - 17  Emilia NW    
+010 0000  - 18  Romagna N 
+011 0000  - 19  Piemonte SE Liguria N   
+012 0000  - 02  Piemonte NW   
+013 0000  - 20  Emilia SW    
+014 0000  - 21  EmRom Centro S  
+015 0000  - 22  Romagna Marche N  
+016 0000  - 23  Liguria Centro W   
+017 0000  - 24  Liguria E Toscana N     
+018 0000  - 25  Toscana NE   
+019 0000  - 26  Toscana NW  
+020 0000  - 27E Toscana SE Umbria NW  
+021 0000  - 27W Toscana Centro S  
+022 0000  - 28  Umbria N 
+023 0000  - 29  Marche W  
+024 0000  - 03  Piemonte NE 
+025 0000  - 30  Marche S Abruzzo E  
+026 0000  - 31  Toscana SW  
+027 0000  - 32  Lazio NW 
+028 0000  - 33  Lazio NE Umbria W  
+029 0000  - 34  Lazio E Umbria S 
+030 0000  - 35  Abruzzo W 
+031 0000  - 36  Lazio Roma 
+032 0000  - 37  Lazio SE 
+033 0000  - 38  Abruzzo S Molise W   
+034 0000  - 39  Abruzzo SE Molise E  
+035 0000  - 04  Piemonte N Lomb NW 
+036 0000  - 40  Lazio SW 
+037 0000  - 41  Campania NW 
+038 0000  - 42  Campania N Lazio SE  
+039 0000  - 43E Puglia NW 
+040 0000  - 43W Campania NE  
+041 0000  - 44  Puglia N 
+042 0000  - 45  Campania S Basilic W 
+043 0000  - 46N Puglia NW Basilic N 
+044 0000  - 46S PU Centro W BA Centro 
+045 0000  - 47  Puglia Centro E 
+046 0000  - 48  Puglia SW Basilic S 
+047 0000  - 49  Puglia SE   
+048 0000  - 05  Lombardia NE  
+049 0000  - 50N Calabria NW  
+050 0000  - 51  Calabria NE 
+051 0000  - 52  Calabria Centro E  
+052 0000  - 53  Calabria SE 
+053 0000  - 53W Calabria SW 
+054 0000  - 54  Sicilia W 
+055 0000  - 55  Sicilia Centro N  
+056 0000  - 56N Sicilia NE  
+057 0000  - 56S Sicilia E 
+058 0000  - 57  Sicilia Centro S  
+059 0000  - 58  Sicilia Centro 
+060 0000  - 59  Sicilia SE 
+061 0000  - 06  Lombardia Centro E 
+062 0000  - 60  Sardegna NW 
+063 0000  - 61  Sardegna NE 
+064 0000  - 62  Sardegna Centro W  
+065 0000  - 63  Sardegna E   
+066 0000  - 64  Sardegna S   
+067 0000  - 07  Trentino   
+068 0000  - 08  Alto Adige   
+069 0000  - 09  Veneto E FVG N   
+070 0000  - 50S Calabria Centro W 

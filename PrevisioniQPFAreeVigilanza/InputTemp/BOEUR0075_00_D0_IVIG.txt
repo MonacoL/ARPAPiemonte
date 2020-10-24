@@ -1,0 +1,1333 @@
+BOEUR0075
+2020051300
+20200513
+  1- 1   Valle Aosta                                   
+Prec 6h        med         0         1         1         0         0         1         1         0         0         0         1         0
+Prec 6h        max         3         8        10         2         3        14         9         3         0         0         6         0
+Prec 12h       med       -98         1         2         2         1         2         3         2         0         0         1         1
+Prec 12h       max       -98         8        16        11         3        17        17        12         3         1         6         6
+Prec 24h       med       -98       -98       -98         3         3         3         3         3         3         2         1         1
+Prec 24h       max       -98       -98       -98        19        19        17        20        21        18        12         7         6
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         6         6         5         4         4
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3200      3200      3200      3100      3100      3200      3200      3200      3200      3300      3300      3300
+Zero termico   med      3500      3500      3500      3400      3500      3500      3500      3500      3500      3600      3600      3600
+Whiting        med        18        14        17        14        15        14        16         8         8        15        17        15
+CAPE           med         7       198       188        62        37       132       172        13        25       183       159         3
+Lifted index   med         4         0         0         2         2         2         1         5         4         0         1         3
+Sweat index    med       112       107       125        89       104       136       145       127        90        92        88        75
+Vento 1500m    int         7         6         4         3         3         6         7         8         6         4         4         1
+Vento 1500m    dir        SW        SW       WSW       WSW         S       SSW       WSW       WSW         W         W       NNW       NNE
+Vento 3000m    int        10        12        10         8         6         6         7         9         7         7         6         6
+Vento 3000m    dir       WSW       WSW       WSW        SW        SW        SW       WSW       WSW       WSW         W         W         W
+  2- 10  FVG S                                         
+Prec 6h        med         0         0         0         0         0         3         1         0         0         0         0         0
+Prec 6h        max         4         3         4         0         0        22         6         2         1         3         5         0
+Prec 12h       med       -98         1         0         0         0         3         3         1         0         0         1         0
+Prec 12h       max       -98         5         7         4         0        22        24         8         3         3         8         5
+Prec 24h       med       -98       -98       -98         1         0         3         3         4         4         1         1         1
+Prec 24h       max       -98       -98       -98         8         8        22        24        25        24        11         9         8
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         4         4         4         5         5
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3200      3200      3300      3300      3200      3200      3300      3200      3300      3400      3400      3400
+Zero termico   med      3500      3500      3600      3600      3600      3600      3600      3600      3600      3700      3700      3700
+Whiting        med        18        18        18        15        15        18         9        13        12        18        19        19
+CAPE           med        55       218       201        69        51       123       146        32        16       128       176        13
+Lifted index   med         3         0        -1         2         2         0         0         4         4         0         0         3
+Sweat index    med       115       143       149        98       103       123       136       126        85        96       120        90
+Vento 1500m    int         6         6         5         3         3         5         7         7         4         4         2         0
+Vento 1500m    dir        SW        SW        SW        SW       SSW        SW       WSW       WSW         W         W       NNW       WSW
+Vento 3000m    int        11        12         9         8         6         6         8         8         8         7         6         5
+Vento 3000m    dir       WSW       WSW       WSW       WSW        SW       WSW         W       WSW         W         W       WNW       WNW
+  3- 11  Lombardia O                                   
+Prec 6h        med         0         1         0         0         0         1         2         0         0         0         1         1
+Prec 6h        max         3         9         7         0         3         8        10         4         1         5        12        10
+Prec 12h       med       -98         1         1         0         0         1         2         2         1         0         1         2
+Prec 12h       max       -98         9        10         7         3        11        12        13         4         6        13        19
+Prec 24h       med       -98       -98       -98         1         1         1         2         3         3         2         2         2
+Prec 24h       max       -98       -98       -98        10        10        11        13        17        16        13        17        20
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         4         4         4         4         5
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3200      3300      3300      3200      3200      3300      3300      3300      3300      3400      3500      3400
+Zero termico   med      3500      3600      3600      3500      3500      3600      3600      3600      3700      3700      3800      3700
+Whiting        med        14        19        18        18        16        18        11        13        12        19        17        15
+CAPE           med        51       281       255        67        88       210       122        45        26       189       179        24
+Lifted index   med         3        -2        -1         3         2         0         1         4         4        -1         0         3
+Sweat index    med        90       131       126       120       120       127       126       106       104       118       117        77
+Vento 1500m    int         6         5         5         2         2         4         5         5         4         3         5         3
+Vento 1500m    dir       WSW        SW       WSW       WSW       SSW       SSW       WSW         W       WNW         W        NW       NNW
+Vento 3000m    int        10        12         9         8         7         6         8         8         7         7         6         5
+Vento 3000m    dir       WSW       WSW       WSW       WSW       WSW       WSW         W         W         W         W         W       WNW
+  4- 12  Lombardia E                                   
+Prec 6h        med         1         1         2         0         1         2         1         0         0         0         0         0
+Prec 6h        max         6         7        14        11        13        25        10         2         0         0         3         2
+Prec 12h       med       -98         1         2         2         2         4         4         1         0         0         0         0
+Prec 12h       max       -98         9        19        19        23        32        26        12         2         1         3         4
+Prec 24h       med       -98       -98       -98         3         4         5         5         5         4         2         0         0
+Prec 24h       max       -98       -98       -98        25        35        32        33        33        26        12         3         4
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         8         8         7         6         5
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3200      3200      3300      3200      3200      3300      3300      3300      3300      3400      3400      3400
+Zero termico   med      3500      3500      3600      3500      3500      3600      3600      3600      3600      3700      3700      3700
+Whiting        med        13        17        19        15        16        18        12        12        11        17        18        15
+CAPE           med        26       224       215       103        83       174       152        24        29       184       216        24
+Lifted index   med         4        -1         0         2         2         0         0         3         3         0         0         3
+Sweat index    med        96       140       122       115       113       147       130       118       118       126       112        86
+Vento 1500m    int         6         7         6         3         4         6         7         5         4         5         5         2
+Vento 1500m    dir       WSW        SW       WSW       SSW         S       SSW         W         W         W         W        NW       NNW
+Vento 3000m    int        11        13        11         9         7         8         9         9         8         8         7         5
+Vento 3000m    dir       WSW       WSW       WSW       WSW        SW       WSW         W       WSW         W       WSW         W         W
+  5- 13  veneto SE                                     
+Prec 6h        med         1         0         2         0         0         1         2         0         0         0         0         0
+Prec 6h        max         6         8        19        10         5        12         9         3         2         2         3         1
+Prec 12h       med       -98         1         2         2         1         1         3         2         0         0         0         0
+Prec 12h       max       -98         8        21        23        15        12        15        12         5         2         4         3
+Prec 24h       med       -98       -98       -98         3         3         4         4         4         4         3         1         0
+Prec 24h       max       -98       -98       -98        29        28        28        17        15        15        13         5         5
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         7         7         6         5         4
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3200      3200      3200      3200      3200      3300      3300      3300      3300      3400      3500      3500
+Zero termico   med      3500      3500      3500      3500      3500      3600      3600      3600      3600      3700      3800      3800
+Whiting        med        12        11        16        12        10        15        14        14        13        12        15        13
+CAPE           med        48       162       213        78        82       125       163        23         9       129       221        20
+Lifted index   med         4         0         0         3         3         2         1         3         4         1         0         4
+Sweat index    med       109       114       128       101        91       131       121       115       104        89        99        74
+Vento 1500m    int         5         7         5         1         2         3         6         4         4         5         4         1
+Vento 1500m    dir       WSW       WSW         W        SW         S       SSW         W         W         W       WNW        NW       NNW
+Vento 3000m    int        11        12         9         7         6         6         7         6         7         6         6         6
+Vento 3000m    dir       WSW       WSW       WSW       WSW       WSW       WSW         W         W         W         W         W         W
+  6- 14  piemonte SW                                   
+Prec 6h        med         0         1         1         0         1         1         0         0         0         0         0         0
+Prec 6h        max         5         5        10         1         8        10         6         1         0         1         5         0
+Prec 12h       med       -98         1         1         1         1         2         2         0         0         0         0         0
+Prec 12h       max       -98        10        10        11         8        16        11         6         1         1         5         5
+Prec 24h       med       -98       -98       -98         2         3         3         3         3         2         1         0         0
+Prec 24h       max       -98       -98       -98        15        16        19        19        18        12         6         5         5
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         5         4         4         3         3
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3200      3300      3300      3200      3200      3300      3400      3400      3400      3400      3500      3500
+Zero termico   med      3500      3600      3600      3500      3500      3600      3700      3700      3700      3800      3800      3800
+Whiting        med        11        15        14        17        13        13         9         9        10        16        18        15
+CAPE           med        37       171       193        83       106       172       180        23        18       110       188        36
+Lifted index   med         4         0         0         2         2         0         1         4         3         0         0         3
+Sweat index    med        96       145       107       122       110       123       141       105       121        97       110        87
+Vento 1500m    int         5         6         5         3         2         6         6         4         3         3         3         2
+Vento 1500m    dir       WSW        SW       WSW       WSW       SSW        SW       WSW       WSW         W         W       NNW       NNE
+Vento 3000m    int        11        11        10         8         8         7         9         7         7         6         5         5
+Vento 3000m    dir       WSW       WSW       WSW       WSW       WSW       WSW         W       WSW         W         W       WNW       WNW
+  7- 15  piemonte centrale                             
+Prec 6h        med         0         0         1         1         1         1         1         0         0         1         0         0
+Prec 6h        max         4         4         6        10         5         3         7         1         2        11         3         0
+Prec 12h       med       -98         1         1         2         2         1         1         1         0         1         1         0
+Prec 12h       max       -98         6         8        16        15         7        10         7         2        12        13         3
+Prec 24h       med       -98       -98       -98         3         3         3         3         2         2         2         1         1
+Prec 24h       max       -98       -98       -98        22        23        23        18        10        10        13        15        15
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         5         5         5         4         3
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3000      3100      3100      3100      3000      3000      3100      3100      3100      3200      3200      3300
+Zero termico   med      3300      3400      3400      3400      3300      3400      3400      3400      3400      3500      3500      3600
+Whiting        med        13        15        17        19        13        15        15        17        16        14        14        11
+CAPE           med        55       179       182       112       122       153       112        33        12        97       151         3
+Lifted index   med         3         0         0         2         2         1         2         4         4         3         2         4
+Sweat index    med       116       140       145       130       123        96       140       109       119        91        95        82
+Vento 1500m    int         6         6         6         3         2         5         8         5         5         4         2         0
+Vento 1500m    dir       WSW       WSW       WSW       WSW       WSW        SW       WSW       WSW       WSW       WNW        NW       WNW
+Vento 3000m    int        12        11        10         7         7         6        11         8         8         8         5         4
+Vento 3000m    dir       WSW       WSW       WSW       WSW       WSW       WSW       WSW       WSW       WSW       WSW         W         W
+  8- 16  piemonte SE - lombardia SW                    
+Prec 6h        med         1         0         1         3         2         2         2         0         0         0         0         0
+Prec 6h        max         4         2         6        13        13        11         9         3         3         3         6         3
+Prec 12h       med       -98         1         1         4         5         4         5         3         1         0         0         0
+Prec 12h       max       -98         7         8        17        26        14        16        12         4         3         8         9
+Prec 24h       med       -98       -98       -98         5         6         8         9         7         5         3         1         1
+Prec 24h       max       -98       -98       -98        24        30        30        30        20        17        13         8        12
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98        12        11        11        10         7
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      2900      3100      3100      3100      3100      3000      3000      3100      3200      3200      3200      3300
+Zero termico   med      3300      3400      3400      3400      3400      3300      3300      3500      3500      3600      3600      3600
+Whiting        med         9        12        16        13         9        17        18        20        19        15        15         8
+CAPE           med       126       103       101        82       152        96        90        32         7        25        66        30
+Lifted index   med         3         2         1         3         2         2         1         2         3         3         3         3
+Sweat index    med       111       132       139       108       109        89       112       103       117        90        87        70
+Vento 1500m    int         6         7         7         1         1         2         7         4         4         6         4         1
+Vento 1500m    dir         W         W         W       WSW       WSW         W       WNW        NW       WSW       WNW       NNW         N
+Vento 3000m    int        13        12        10         6         5         6        12         8         8         6         4         3
+Vento 3000m    dir         W       WSW         W       WSW         W         W       WNW         W         W       WSW         W         W
+  9- 17  Emilia NW                                     
+Prec 6h        med         1         0         1         1         0         1         0         0         0         0         0         0
+Prec 6h        max         7         2        11        10         7        10         8         4         2         2         6         4
+Prec 12h       med       -98         1         1         2         2         1         1         1         0         0         0         0
+Prec 12h       max       -98         7        12        19        17        14        10         9         4         5         8        10
+Prec 24h       med       -98       -98       -98         3         3         3         3         2         2         1         1         0
+Prec 24h       max       -98       -98       -98        26        24        24        24        16        10        10         8        11
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         5         4         4         4         2
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3200      3200      3200      3200      3200      3200      3200      3200      3300      3400      3400      3400
+Zero termico   med      3500      3500      3500      3500      3500      3500      3500      3600      3600      3700      3700      3700
+Whiting        med        11         8        15        13        10        16         9        10        17        17        17        17
+CAPE           med        97       142       166        68       120       159       166        47        17       159       164        41
+Lifted index   med         3         1         0         3         1         0         0         2         3         1         1         2
+Sweat index    med       125       119       156       107       112       118       128       100       105       112        94        89
+Vento 1500m    int         6         8         7         3         2         2         6         3         3         4         3         1
+Vento 1500m    dir       WSW       WSW       WSW         S       SSW       WSW       WSW         W         W       WNW       NNW       NNE
+Vento 3000m    int        13        12        10         7         4         6        10         6         7         5         5         4
+Vento 3000m    dir       WSW       WSW       WSW       WSW       WSW       WSW         W         W       WNW         W         W       WNW
+ 10- 18  Romagna N                                     
+Prec 6h        med         0         1         0         0         0         1         1         0         0         0         1         0
+Prec 6h        max         4         8         6         3         4        11        10         5         2         2         7        11
+Prec 12h       med       -98         1         1         1         1         2         2         1         0         0         1         1
+Prec 12h       max       -98        10         8         9         4        14        15        15         7         3         7        17
+Prec 24h       med       -98       -98       -98         2         2         2         3         3         3         2         1         1
+Prec 24h       max       -98       -98       -98        10        11        14        17        17        17        17         7        18
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         5         5         4         4         4
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3200      3200      3300      3200      3200      3200      3200      3200      3300      3300      3400      3300
+Zero termico   med      3500      3500      3500      3500      3500      3500      3600      3500      3600      3700      3700      3700
+Whiting        med        11        10        19        18        13        18        13        16        14        19        17        19
+CAPE           med        56       121       208        75        87       161       152        61        25       194       171        12
+Lifted index   med         4         1         0         2         2         1         1         3         3         0         0         2
+Sweat index    med       104       112       152       114       110       131       137       115       108       127       102        91
+Vento 1500m    int         7         8         7         4         4         5         6         5         3         3         4         1
+Vento 1500m    dir       WSW        SW        SW       SSW         S        SW       WSW       WSW       WSW         W        NW       NNW
+Vento 3000m    int        13        13        12         9         7         7        10         8         8         7         8         5
+Vento 3000m    dir       WSW       WSW       WSW        SW        SW       WSW       WSW       WSW         W       WSW         W         W
+ 11- 19  Piemonte SE - Liguria N                       
+Prec 6h        med         0         1         2         0         2         1         0         0         0         0         1         0
+Prec 6h        max         5        12        18         1        25        13         4         1         0         0         7         0
+Prec 12h       med       -98         1         3         2         2         3         2         1         0         0         1         1
+Prec 12h       max       -98        12        24        18        25        35        13         5         1         0         7         7
+Prec 24h       med       -98       -98       -98         4         5         5         3         3         2         1         1         1
+Prec 24h       max       -98       -98       -98        25        25        35        35        35        13         5         7         7
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         7         6         5         4         4
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3400      3400      3300      3200      3300      3400      3400      3400      3400      3500      3500      3500
+Zero termico   med      3700      3700      3600      3500      3600      3700      3700      3700      3700      3800      3800      3800
+Whiting        med        10        14        18        18        14        12        10        11        11        15        20        19
+CAPE           med        14       253       242       106        99       196       230        16        11       137       252        47
+Lifted index   med         5        -1        -1         2         2         0        -1         3         3        -1        -2         2
+Sweat index    med       101       140       119       116       115       151       135       113       105        99       142        85
+Vento 1500m    int         7         8         6         4         4         8         8         6         5         5         3         2
+Vento 1500m    dir       WSW        SW       WSW        SW       SSW       SSW       WSW       WSW       WSW         W        NW        NE
+Vento 3000m    int        11        12        10         9         8        10         9         7         7         6         5         4
+Vento 3000m    dir       WSW       WSW       WSW       WSW       WSW        SW       WSW       WSW         W         W         W         W
+ 12- 2   Piemonte NW                                   
+Prec 6h        med         0         0         0         0         0         1         1         0         0         0         0         0
+Prec 6h        max         3         9         9         3         1        10        13         3         1         1         4         0
+Prec 12h       med       -98         1         1         0         0         1         2         1         0         0         0         0
+Prec 12h       max       -98        10        18        12         4        10        23        17         4         2         4         4
+Prec 24h       med       -98       -98       -98         1         1         1         2         2         2         1         1         1
+Prec 24h       max       -98       -98       -98        21        22        13        24        27        27        18         8         5
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         3         3         3         3         3
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3200      3200      3300      3300      3300      3300      3300      3300      3300      3500      3500      3500
+Zero termico   med      3500      3500      3600      3600      3600      3600      3700      3600      3700      3800      3800      3800
+Whiting        med        14        12        17        17        13        15        11        12        15        18        19        18
+CAPE           med        59       161       266        66        86       134       107        41        20       137       107         1
+Lifted index   med         4         1        -1         2         2         1         1         3         3         1         0         3
+Sweat index    med       117       109       156       118       116       130       118       107       116       124        99        88
+Vento 1500m    int         5         6         5         2         3         5         8         6         4         5         4         1
+Vento 1500m    dir       WSW        SW       WSW       SSW         S        SW        SW       WSW         W         W       NNW       NNW
+Vento 3000m    int        11        11         9         8         6         6         9         8         7         6         6         5
+Vento 3000m    dir       WSW       WSW       WSW        SW       WSW       WSW         W       WSW         W         W         W         W
+ 13- 20  Emilia SW                                     
+Prec 6h        med         0         0         3         1         0         1         2         0         0         1         1         0
+Prec 6h        max         4         2        24         9         5         8         7         2         4         4         6         0
+Prec 12h       med       -98         0         4         4         1         1         2         2         0         1         1         1
+Prec 12h       max       -98         5        25        24        13         8        12         8         5         8         7         6
+Prec 24h       med       -98       -98       -98         4         4         5         3         3         3         3         2         1
+Prec 24h       max       -98       -98       -98        26        26        27        19        12        12        15        10         9
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         7         7         8         5         4
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3200      3300      3300      3200      3200      3200      3300      3300      3300      3400      3400      3400
+Zero termico   med      3500      3600      3600      3500      3500      3600      3600      3600      3600      3700      3700      3700
+Whiting        med        10        13        15        13        12        14        13        11        13        16        15        18
+CAPE           med        18       127       189        71        55       182       109        12         4       163       201        24
+Lifted index   med         6         1         1         2         3         1         2         4         4         1         0         3
+Sweat index    med        96       114       124        92       120       136       142       112       111        97        77        72
+Vento 1500m    int         6         6         6         3         3         6         9         5         5         5         3         1
+Vento 1500m    dir       WSW        SW       WSW       WSW        SW        SW       WSW       WSW       WSW         W       NNW        NW
+Vento 3000m    int        11        11        10         8         8        10        11         9         8         7         5         4
+Vento 3000m    dir       WSW       WSW       WSW       WSW       WSW       WSW       WSW       WSW       WSW       WSW         W         W
+ 14- 21  EmRom centroS                                 
+Prec 6h        med         0         1         2         0         0         1         1         0         0         0         0         0
+Prec 6h        max         1        17        20         5         6        11         5         0         2         1         2         1
+Prec 12h       med       -98         1         3         2         1         2         2         1         0         0         0         0
+Prec 12h       max       -98        17        29        20        11        11        16         5         2         3         2         3
+Prec 24h       med       -98       -98       -98         3         4         4         3         3         2         1         0         0
+Prec 24h       max       -98       -98       -98        30        30        23        16        16        16         6         4         4
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         6         6         5         3         3
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3200      3200      3200      3200      3200      3300      3300      3300      3300      3400      3500      3500
+Zero termico   med      3500      3500      3500      3500      3600      3600      3600      3600      3700      3800      3800      3800
+Whiting        med         7        12        14        15        15        11        14        13        12        12        12        10
+CAPE           med        28       112       107        71        78       141       113        14        13        69       101        13
+Lifted index   med         5         1         0         2         3         1         1         4         3         1         2         4
+Sweat index    med        98       123       100       109       117       113       137       111       107        74        93        72
+Vento 1500m    int         6         7         6         3         2         6         8         5         4         6         4         1
+Vento 1500m    dir         W       WSW         W       WNW       WSW        SW         W         W       WSW       WNW        NW       NNE
+Vento 3000m    int        12        11        10         8         8         8        11         9         8         6         6         4
+Vento 3000m    dir       WSW       WSW         W       WSW       WSW       WSW         W         W         W       WSW         W         W
+ 15- 22  Romagna - Marche N                            
+Prec 6h        med         0         1         2         1         2         2         1         1         0         0         0         0
+Prec 6h        max         3         6        23         5        15        17         7        11         3         2         6         2
+Prec 12h       med       -98         1         2         2         3         4         3         2         1         0         0         0
+Prec 12h       max       -98         8        24        24        18        23        17        17        11         3         9         7
+Prec 24h       med       -98       -98       -98         3         5         7         6         7         5         3         2         1
+Prec 24h       max       -98       -98       -98        24        25        26        25        32        18        17        11        10
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98        10        10         9         8         7
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3200      3200      3200      3200      3200      3200      3200      3300      3300      3400      3400      3400
+Zero termico   med      3500      3500      3500      3500      3500      3500      3500      3600      3600      3700      3700      3700
+Whiting        med        10        12        15        15        15        15        15        13        14        16        18        16
+CAPE           med        56       122       212       100       135       203       199        52        22       128       209        40
+Lifted index   med         5         1         0         1         2         0         0         2         3         0        -1         2
+Sweat index    med       102       121       127       115       121       146       145       115       110        87       100        77
+Vento 1500m    int         6         8         5         3         3         5         7         4         3         5         5         2
+Vento 1500m    dir       WSW       WSW         W         W       WSW       WSW       WNW         W         W       WNW        NW        NE
+Vento 3000m    int        12        11         9         7         7         9        11         7         7         5         4         2
+Vento 3000m    dir       WSW       WSW       WSW       WSW       WSW       WSW         W         W         W         W         W       WNW
+ 16- 23  Liguria Centro - W                            
+Prec 6h        med         0         0         1         1         1         2         0         0         0         0         0         0
+Prec 6h        max         1         3        18         8        10        17         3         0         0         0         7         0
+Prec 12h       med       -98         0         1         2         2         3         2         0         0         0         0         0
+Prec 12h       max       -98         3        18        18        14        26        17         4         0         0         7         7
+Prec 24h       med       -98       -98       -98         2         3         5         4         3         2         0         0         0
+Prec 24h       max       -98       -98       -98        19        19        27        27        27        17         4         8         7
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         5         5         5         4         3
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3400      3300      3300      3300      3300      3300      3300      3300      3400      3400      3500      3500
+Zero termico   med      3600      3600      3600      3600      3600      3600      3600      3600      3700      3800      3800      3800
+Whiting        med         7         8        13        17        14        12         9         5         6        10        13        16
+CAPE           med        71        79       106        75        96       110       105        83         5        51       160        36
+Lifted index   med         4         2         2         3         3         1         1         2         3         1        -1         2
+Sweat index    med       111       109       103       118       103       150       138        97        96        92        89        66
+Vento 1500m    int         8         8         6         5         2         5        11         8         6         5         5         2
+Vento 1500m    dir       WSW       WSW         W       WSW       SSW       WSW       WSW       WSW         W         W        NW        NE
+Vento 3000m    int        13        13        12        10         7        10        12        10         9         8         9         7
+Vento 3000m    dir       WSW       WSW       WSW       WSW       WSW       WSW         W         W         W       WSW       WSW       WSW
+ 17- 24  Liguria E - Toscana N                         
+Prec 6h        med         0         1         0         0         1         1         0         0         0         0         0         0
+Prec 6h        max         5         8         1         3         9        13         4         0         0         2         7         2
+Prec 12h       med       -98         1         1         0         1         2         2         0         0         0         1         1
+Prec 12h       max       -98        10         8         3        10        18        15         4         0         2         8         7
+Prec 24h       med       -98       -98       -98         1         2         3         3         3         2         0         1         1
+Prec 24h       max       -98       -98       -98        12        18        20        19        19        15         4         8         9
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         4         4         3         3         3
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3400      3400      3500      3400      3400      3500      3500      3500      3500      3600      3600      3600
+Zero termico   med      3700      3700      3800      3700      3700      3800      3800      3800      3800      3900      3900      3900
+Whiting        med        10        11        10        13        14        12         6         6        11        13        19        18
+CAPE           med        34        90       191        76       107        97       168        24        13       146       203        41
+Lifted index   med         5         1         0         2         3         2         1         3         3         0        -1         2
+Sweat index    med        86       101        87       104       104       129       116        88       107       117       123        83
+Vento 1500m    int         6         7         5         2         3         7         6         5         4         5         5         1
+Vento 1500m    dir         W       WSW         W       WSW       SSW       WSW         W         W         W         W        NW       NNW
+Vento 3000m    int        12        12         8         7         8        10        10         8         7         6         5         4
+Vento 3000m    dir       WSW       WSW       WSW       WSW       WSW       WSW         W         W         W         W       WNW       WNW
+ 18- 25  Toscana NE                                    
+Prec 6h        med         1         1         1         0         3         2         0         0         0         0         0         0
+Prec 6h        max         8        15        12         2        25        14         2         0         0         0         1         1
+Prec 12h       med       -98         2         2         1         3         4         2         0         0         0         0         0
+Prec 12h       max       -98        16        27        12        27        32        15         2         0         0         2         1
+Prec 24h       med       -98       -98       -98         3         5         5         5         5         2         0         0         0
+Prec 24h       max       -98       -98       -98        28        27        34        34        32        15         2         2         2
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         8         7         6         5         5
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3400      3400      3400      3300      3300      3500      3400      3400      3400      3500      3600      3500
+Zero termico   med      3700      3700      3700      3600      3700      3800      3700      3700      3800      3800      3900      3800
+Whiting        med         9        14        11        15        14        10         4         6         5        12        15        19
+CAPE           med        34       193       237        99        86       176       230        11         7       122       187        79
+Lifted index   med         4        -1        -1         1         2         0         0         4         3         0         0         2
+Sweat index    med        96       131        98       118       115       129       128       108        90        90       115        78
+Vento 1500m    int         7         7         5         3         5         8         7         6         4         4         4         1
+Vento 1500m    dir       WSW        SW         W       WSW       SSW        SW       WSW       WSW         W         W        NW        NE
+Vento 3000m    int        11        12         9         9         9        11         9         7         6         6         5         4
+Vento 3000m    dir       WSW       WSW       WSW       WSW       WSW       WSW         W         W         W         W         W         W
+ 19- 26  Toscana NW                                    
+Prec 6h        med         1         0         1         1         3         2         0         1         0         0         0         0
+Prec 6h        max         6         1         4         3        14        23         2         5         0         0         4         1
+Prec 12h       med       -98         1         1         1         3         5         3         1         1         0         0         0
+Prec 12h       max       -98         7         4         7        16        23        24         7         5         0         4         4
+Prec 24h       med       -98       -98       -98         2         4         6         6         6         3         1         1         0
+Prec 24h       max       -98       -98       -98        12        19        24        24        24        24         7         5         4
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         8         7         7         7         6
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3200      3200      3200      3200      3200      3200      3200      3300      3300      3300      3400      3400
+Zero termico   med      3500      3500      3500      3500      3500      3500      3500      3600      3600      3700      3700      3700
+Whiting        med         9        11        14        15        14        10        14         7        10        16        16        14
+CAPE           med        78        85       101        88       130       119       133       111         7       103       123        73
+Lifted index   med         4         3         2         3         3         1         1         2         3         1         1         3
+Sweat index    med       129       125       129       126       131       114       133       105       104       117        94        71
+Vento 1500m    int         7         9         7         7         5         5         7         5         3         3         3         3
+Vento 1500m    dir       WSW       WSW       WSW       WSW       WSW         W         W       WNW         W       WNW       NNW       NNE
+Vento 3000m    int        13        13        12        10         7         9        11         8         8         5         6         3
+Vento 3000m    dir       WSW       WSW       WSW       WSW         W       WSW         W         W         W         W         W         W
+ 20- 27E Toscana SE - Umbria NW                        
+Prec 6h        med         0         0         0         1         1         1         0         0         0         0         0         0
+Prec 6h        max         1         4         2        10        11         7         1         1         2         1         1         0
+Prec 12h       med       -98         0         1         1         2         2         1         0         0         0         0         0
+Prec 12h       max       -98         4         6        12        17        14         7         2         4         3         1         2
+Prec 24h       med       -98       -98       -98         2         3         3         3         2         1         0         0         0
+Prec 24h       max       -98       -98       -98        16        22        19        17        14         7         5         5         3
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         4         4         4         4         3
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3200      3200      3200      3200      3200      3200      3200      3300      3300      3300      3400      3500
+Zero termico   med      3500      3500      3500      3500      3500      3500      3600      3600      3600      3700      3700      3800
+Whiting        med        10        13        14        14        15        16        15        11         9        17        16        13
+CAPE           med        67       137       138        91        85       161       106        75        22       123       123        63
+Lifted index   med         4         2         2         3         2         1         2         3         3         2         2         3
+Sweat index    med       123       135       133       122       123       128       151       126       108       106       106        84
+Vento 1500m    int         7         9         7         7         4         6         7         6         4         4         4         3
+Vento 1500m    dir       WSW       WSW         W       WSW       WSW       WSW       WSW       WSW       WSW         W       NNW        NE
+Vento 3000m    int        13        13        11        10         8        11        11         8         7         7         6         3
+Vento 3000m    dir       WSW       WSW       WSW       WSW       WSW       WSW         W         W         W       WSW         W       WSW
+ 21- 27W Toscana Centro S                              
+Prec 6h        med         0         0         0         0         1         2         0         1         0         0         0         0
+Prec 6h        max         3         8         3         2        13        12         3        12         5         1         4         1
+Prec 12h       med       -98         1         1         1         1         3         2         1         1         0         0         0
+Prec 12h       max       -98         9        11         6        15        17        14        13        13         6         4         4
+Prec 24h       med       -98       -98       -98         1         2         3         3         4         3         2         2         1
+Prec 24h       max       -98       -98       -98        14        20        22        20        25        22        15        13         6
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         5         5         5         5         4
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3400      3400      3400      3400      3300      3400      3400      3400      3400      3500      3500      3500
+Zero termico   med      3700      3700      3700      3700      3600      3700      3700      3700      3800      3800      3800      3800
+Whiting        med        10        12        11         9        15        10        11        11         8        14        17        15
+CAPE           med        33       124       128        63       100       139       131        57        17       120       155        48
+Lifted index   med         5         1         1         4         3         1         0         3         3         0         0         2
+Sweat index    med        97       119       117       106       135       130       156       111       101        95       117        96
+Vento 1500m    int         7         7         5         5         5         8         7         7         4         3         4         3
+Vento 1500m    dir       WSW       WSW       WSW       WSW        SW       WSW         W         W         W         W       NNW        NE
+Vento 3000m    int        12        12        11         9         8        12        11         9         6         5         5         2
+Vento 3000m    dir       WSW       WSW       WSW       WSW       WSW       WSW         W       WSW       WSW       WSW         W       WSW
+ 22- 28  Umbria N                                      
+Prec 6h        med         0         1         0         1         2         3         0         0         0         0         0         0
+Prec 6h        max         2         8         9         9        22        20         8         1         4         1         3         0
+Prec 12h       med       -98         1         1         1         2         5         4         0         0         0         0         0
+Prec 12h       max       -98         8        17         9        25        30        26         9         4         4         3         3
+Prec 24h       med       -98       -98       -98         2         3         6         6         5         4         1         1         1
+Prec 24h       max       -98       -98       -98        17        25        32        32        30        28        11         4         4
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         7         7         7         7         6
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3200      3200      3200      3200      3100      3200      3200      3200      3300      3300      3400      3400
+Zero termico   med      3500      3500      3500      3500      3400      3500      3500      3500      3600      3600      3700      3700
+Whiting        med         9        10        10        13        13        14        12        12        12        16        18        14
+CAPE           med        58       107       156        86        78       121       152        66        48       108       141        78
+Lifted index   med         5         2         2         3         2         2         1         2         3         2         2         3
+Sweat index    med        99       113       104       116       101       134       131       123        97        93        99        73
+Vento 1500m    int         8         8         6         6         4         7         7         6         3         3         4         3
+Vento 1500m    dir         W       WSW       WSW       WSW       WSW         W         W         W         W         W         N        NE
+Vento 3000m    int        13        12        10         9         7        10        11         8         6         5         5         2
+Vento 3000m    dir       WSW       WSW       WSW       WSW       WSW         W         W         W         W       WSW         W         W
+ 23- 29  Marche W                                      
+Prec 6h        med         0         0         0         0         2         3         0         0         0         0         0         0
+Prec 6h        max         4         8         3         2        11        23         6         8         4         3         5         1
+Prec 12h       med       -98         1         1         0         2         5         3         1         1         1         0         0
+Prec 12h       max       -98         8         8         4        12        27        24        14         9         4         7         5
+Prec 24h       med       -98       -98       -98         1         3         5         5         5         4         1         1         1
+Prec 24h       max       -98       -98       -98        10        19        27        27        27        24        16        10         7
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         6         6         6         6         6
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3300      3300      3400      3300      3300      3400      3400      3400      3400      3500      3500      3500
+Zero termico   med      3600      3600      3700      3600      3600      3700      3700      3700      3700      3800      3800      3800
+Whiting        med         9         8        10        13        13        11        11        11        11        14        17        14
+CAPE           med        61        60       124        73        77       113       160       100        34        88       132        65
+Lifted index   med         5         3         2         2         3         1         1         2         3         2         2         3
+Sweat index    med        98       101       100       120       119       149       123       125       109        96       104        71
+Vento 1500m    int         8         8         5         5         4         6         6         4         3         4         5         3
+Vento 1500m    dir       WSW       WSW         W         W       WSW         W         W       WNW         W       WNW       NNW       NNE
+Vento 3000m    int        13        12        10         9         7        10        10         7         6         5         4         3
+Vento 3000m    dir       WSW       WSW       WSW       WSW       WSW         W         W         W       WNW         W         W         W
+ 24- 3   Piemonte NE                                   
+Prec 6h        med         0         1         1         1         0         1         1         1         0         0         0         0
+Prec 6h        max         3        10        14        16         2        12        14         5         1         7         3         1
+Prec 12h       med       -98         1         2         1         1         1         2         2         1         0         1         0
+Prec 12h       max       -98        10        23        24        17        13        26        19         6         7         8         3
+Prec 24h       med       -98       -98       -98         2         2         2         3         3         3         2         1         1
+Prec 24h       max       -98       -98       -98        32        33        26        26        31        32        21        10         9
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         5         5         4         4         3
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3200      3300      3300      3200      3200      3300      3300      3300      3300      3400      3400      3400
+Zero termico   med      3500      3600      3600      3500      3600      3600      3600      3600      3600      3700      3800      3700
+Whiting        med        15        17        19        17        14        18        13        12        12        17        17        16
+CAPE           med        56       245       279        77        77       170       133        39        15       164       129        13
+Lifted index   med         3        -1        -1         3         2         0         1         4         4        -1         0         3
+Sweat index    med       108       124       153       140       129       155       135        97        93       128       103        79
+Vento 1500m    int         6         6         6         3         3         4         6         4         3         3         4         1
+Vento 1500m    dir        SW        SW        SW       SSW         S       SSW       WSW       WSW         W         W        NW       NNW
+Vento 3000m    int        11        12        10         9         7         6         8         8         8         8         7         6
+Vento 3000m    dir       WSW       WSW       WSW        SW        SW        SW         W       WSW         W         W         W         W
+ 25- 30  Marche S - Abruzzo E                          
+Prec 6h        med         0         0         1         0         1         2         1         0         0         0         0         0
+Prec 6h        max         6         9         8         2         6        23        13         4         2         4         5         0
+Prec 12h       med       -98         1         1         1         1         2         3         1         0         0         1         0
+Prec 12h       max       -98        10        10         8         8        26        23        14         5         4         7         5
+Prec 24h       med       -98       -98       -98         1         2         3         3         3         3         1         1         1
+Prec 24h       max       -98       -98       -98        12        16        26        26        26        23        15         8         8
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         5         5         5         4         4
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3400      3400      3500      3400      3400      3500      3500      3500      3500      3600      3600      3600
+Zero termico   med      3700      3700      3800      3700      3700      3800      3800      3800      3800      3800      3900      3900
+Whiting        med         8        10        13        13        12         9         9        11         8        13        15        16
+CAPE           med        28        81       114        50        66       160       165        51        20       112       120        53
+Lifted index   med         6         3         2         4         3         1         0         3         3         2         1         2
+Sweat index    med        93       101       108       110       108       134       121       112        88       100        97        94
+Vento 1500m    int         7         7         5         5         4         9         6         5         4         3         4         3
+Vento 1500m    dir       WSW       WSW       WSW       WSW       WSW       WSW       WSW         W         W         W       NNW        NE
+Vento 3000m    int        12        12        10         9         9        12        11        10         8         6         6         4
+Vento 3000m    dir       WSW       WSW       WSW       WSW       WSW       WSW       WSW       WSW       WSW       WSW       WSW       WSW
+ 26- 31  Toscana SW                                    
+Prec 6h        med         0         0         0         0         0         1         1         1         0         0         0         0
+Prec 6h        max         3         2         4         7         6        22         7        11         4         4         9         1
+Prec 12h       med       -98         0         0         1         1         2         2         1         1         0         1         0
+Prec 12h       max       -98         6         5         7        11        22        22        11        12         5        13        10
+Prec 24h       med       -98       -98       -98         1         1         2         3         3         3         2         2         1
+Prec 24h       max       -98       -98       -98         8        11        22        23        24        22        13        13        13
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         4         4         4         4         4
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3500      3600      3600      3500      3500      3600      3600      3600      3600      3700      3700      3700
+Zero termico   med      3800      3900      3900      3800      3800      3900      3900      3900      3900      4000      4000      4000
+Whiting        med         8        11        11         7        12         7        10         9         9        12        15        18
+CAPE           med        10       121       193        46        63       168       196        56        28       148       157        40
+Lifted index   med         6         1         0         4         3         0         0         2         3         0         0         2
+Sweat index    med        86        98       130        99       109       117       145       112        97        93       111       102
+Vento 1500m    int         6         6         4         3         3         6         7         5         4         3         4         2
+Vento 1500m    dir       WSW        SW         W         W        SW       WSW       WSW       WSW         W         W        NW       NNE
+Vento 3000m    int        11        11         9         8         8        10         9         7         6         4         5         3
+Vento 3000m    dir       WSW       WSW       WSW       WSW       WSW       WSW         W         W         W         W       WNW       WNW
+ 27- 32  Lazio NW                                      
+Prec 6h        med         0         1         0         0         3         4         1         1         0         0         1         0
+Prec 6h        max         6        12         4         4        14        19         4         9         1         2        10         3
+Prec 12h       med       -98         1         1         1         3         7         4         2         1         0         1         1
+Prec 12h       max       -98        12        16         6        16        29        22         9        11         2        12        13
+Prec 24h       med       -98       -98       -98         2         5         7         7         8         5         2         2         1
+Prec 24h       max       -98       -98       -98        18        28        35        34        37        28        11        12        15
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98        10        10         9         9         9
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3300      3300      3300      3200      3200      3300      3300      3300      3300      3400      3500      3500
+Zero termico   med      3600      3600      3600      3500      3500      3600      3600      3600      3700      3700      3800      3800
+Whiting        med        12         9        12        16        14        11         8         9         7        10        15        15
+CAPE           med        71       130       186       102        78       145       141        57        28       130       132        70
+Lifted index   med         6         4         2         3         3         2         2         2         3         1         1         2
+Sweat index    med       108        97       110       104       116       140       126       147        95        82       104        78
+Vento 1500m    int         8         7         6         5         5         7         7         5         3         3         5         3
+Vento 1500m    dir       WSW         W         W         W       WSW       WSW       WSW         W         W       WNW       NNW       NNE
+Vento 3000m    int        12        12         9        10         9        12        12         9         6         5         5         3
+Vento 3000m    dir       WSW       WSW       WSW       WSW       WSW       WSW         W         W         W       WSW       WSW       WSW
+ 28- 33  Lazio NE - Umbria W                           
+Prec 6h        med         0         2         1         0         2         4         1         0         0         0         0         0
+Prec 6h        max         3        14         9         2        15        23         7         3         2         1         2         3
+Prec 12h       med       -98         2         3         1         2         6         5         1         0         0         0         0
+Prec 12h       max       -98        14        22        10        16        28        28         8         4         4         3         3
+Prec 24h       med       -98       -98       -98         3         5         8         7         7         5         1         1         1
+Prec 24h       max       -98       -98       -98        24        30        38        34        35        31        10         6         4
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98        10        10         9         8         8
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3300      3400      3400      3300      3300      3400      3400      3400      3400      3500      3500      3600
+Zero termico   med      3700      3700      3700      3600      3600      3700      3700      3700      3700      3800      3800      3900
+Whiting        med        10         8         8        12        13        10         9        10        13        14        16        18
+CAPE           med        58        88       180       114       101       172       192        71        40       175       145        23
+Lifted index   med         6         3         1         4         3         0        -1         3         3        -1         0         3
+Sweat index    med        86        97        97       114       130       141       131       152        96        86        93        86
+Vento 1500m    int         7         7         4         5         6         8         5         4         2         3         5         4
+Vento 1500m    dir       WSW       WSW       WNW         W       WSW       WSW         W       WSW         W       WNW       NNW        NE
+Vento 3000m    int        12        12         9        10         9        11        11         8         5         4         4         2
+Vento 3000m    dir       WSW       WSW       WSW       WSW       WSW       WSW         W         W         W       WSW         W         W
+ 29- 34  Lazio E - Umbria S                            
+Prec 6h        med         0         1         1         0         1         2         1         0         0         0         0         0
+Prec 6h        max         3         7         9         1         8        18        11         1         3         2         2         0
+Prec 12h       med       -98         1         1         1         1         3         3         1         0         0         0         0
+Prec 12h       max       -98         9        16         9         8        22        28        13         3         5         2         3
+Prec 24h       med       -98       -98       -98         2         3         4         4         4         4         1         1         1
+Prec 24h       max       -98       -98       -98        17        21        31        33        33        30        14         5         5
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         6         6         5         5         5
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3500      3500      3500      3500      3400      3600      3500      3500      3500      3600      3600      3600
+Zero termico   med      3800      3800      3800      3800      3700      3900      3800      3800      3800      3900      3900      3900
+Whiting        med         7         9         7        13        12         8         6         9        10         9        16        18
+CAPE           med        11        98       125        71        44       144       159        44        29       141       169        49
+Lifted index   med         6         3         1         4         4         1        -1         3         3        -1        -1         2
+Sweat index    med        83       105        81       117       114       167       117       132        92        75       109        92
+Vento 1500m    int         8         8         4         4         6        10         8         6         5         3         4         3
+Vento 1500m    dir       WSW        SW         W         W        SW       WSW       WSW       WSW       WSW         W       NNW       ENE
+Vento 3000m    int        12        13        10         9        10        14        12        10         8         7         7         4
+Vento 3000m    dir       WSW       WSW       WSW       WSW       WSW       WSW       WSW       WSW       WSW       WSW       WSW        SW
+ 30- 35  Abruzzo W                                     
+Prec 6h        med         0         0         0         0         2         2         0         0         0         0         1         0
+Prec 6h        max         2         6         1         3        15        10         4         0         4         5        10         1
+Prec 12h       med       -98         1         1         0         2         4         2         0         0         1         1         1
+Prec 12h       max       -98         9         7         3        15        19        11         4         4         5        14        11
+Prec 24h       med       -98       -98       -98         1         3         4         4         4         2         1         2         2
+Prec 24h       max       -98       -98       -98        10        16        20        20        20        13         8        14        15
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         5         5         5         6         6
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3400      3400      3400      3300      3300      3400      3400      3400      3400      3500      3600      3500
+Zero termico   med      3700      3700      3700      3600      3600      3700      3700      3700      3700      3800      3900      3800
+Whiting        med         9         8        12        15        16         8         3         7         8         9        13        17
+CAPE           med        56        72       136        64        76       116       179        46        30        99       132        63
+Lifted index   med         5         3         2         4         3         1         0         2         3         2         2         3
+Sweat index    med        87        76       102        86       141       136        97       109        90        95        90        85
+Vento 1500m    int         8         7         5         5         5         9         6         6         4         2         4         3
+Vento 1500m    dir       WSW       WSW         W         W       WSW         W         W         W         W       WNW       NNW        NE
+Vento 3000m    int        12        11         9         9        10        12        11         9         6         3         4         2
+Vento 3000m    dir       WSW       WSW       WSW       WSW       WSW       WSW         W         W         W       WSW       WSW       WSW
+ 31- 36  Lazio Roma                                    
+Prec 6h        med         0         0         1         0         0         2         0         0         0         0         0         0
+Prec 6h        max         2         2         6         2         5        14         0         1         1         1         0         1
+Prec 12h       med       -98         0         1         1         1         2         2         0         0         0         0         0
+Prec 12h       max       -98         4         8         6         7        19        14         1         1         2         1         1
+Prec 24h       med       -98       -98       -98         1         2         3         3         2         2         0         0         0
+Prec 24h       max       -98       -98       -98         8        10        21        21        20        14         2         2         2
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         4         4         3         3         3
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3600      3600      3600      3500      3500      3600      3600      3600      3600      3700      3700      3700
+Zero termico   med      3900      3900      3900      3800      3800      3900      3900      3900      3900      4000      4000      4000
+Whiting        med         8        11        11        10        16         7        10         8         9        12        14        15
+CAPE           med        17        37        86        47        56        49        60        26        22        38        60         9
+Lifted index   med         7         5         4         4         4         3         4         3         3         4         3         4
+Sweat index    med        83       103       154        89       138       102       150       138        91        92        90        75
+Vento 1500m    int         9        10         7         6         5         8         7         6         4         4         3         3
+Vento 1500m    dir       WSW        SW        SW        SW       SSW       WSW       WSW       WSW       WSW       WSW        NW       ENE
+Vento 3000m    int        12        14        11        10        11        13        10         9         9         6         3         3
+Vento 3000m    dir       WSW       WSW       WSW        SW       WSW       WSW       WSW       WSW       WSW       WSW       WSW       WSW
+ 32- 37  Lazio SE                                      
+Prec 6h        med         0         0         0         0         1         0         0         0         0         0         0         0
+Prec 6h        max         2         0         1         1        12         3         1         0         0         2         3         4
+Prec 12h       med       -98         0         0         0         1         1         1         0         0         0         0         0
+Prec 12h       max       -98         2         1         1        12        15         3         1         0         3         5         4
+Prec 24h       med       -98       -98       -98         0         1         1         1         1         1         0         0         0
+Prec 24h       max       -98       -98       -98         2        12        15        15        15         3         3         5         6
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         1         1         1         1         2
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3400      3300      3400      3300      3200      3300      3400      3400      3400      3400      3500      3500
+Zero termico   med      3700      3600      3600      3600      3500      3600      3700      3700      3700      3800      3800      3800
+Whiting        med         6        10        12        10        18        10        15        11        14        13        13        12
+CAPE           med        37        29        79        68        63        73        61        17         7        42        60        24
+Lifted index   med         6         5         4         4         3         3         3         3         4         4         4         4
+Sweat index    med        82       115       123        93       157       113       137       139       118        91        83        75
+Vento 1500m    int         9        10         7         6         6         9         7         6         5         4         4         3
+Vento 1500m    dir       WSW       WSW       WSW       WSW        SW       WSW       WSW         W       WSW       WSW        NW        NE
+Vento 3000m    int        12        13        11        10        11        13        10         9         8         6         4         3
+Vento 3000m    dir       WSW       WSW       WSW       WSW       WSW       WSW       WSW       WSW       WSW       WSW       WSW        SW
+ 33- 38  Abruzzo S - Molise W                          
+Prec 6h        med         0         1         0         1         1         1         2         0         0         1         1         0
+Prec 6h        max         6        10         1         5         8        14        12         4         3         5        10         1
+Prec 12h       med       -98         1         1         1         2         2         3         2         0         1         2         1
+Prec 12h       max       -98        11        10         6         8        19        14        12         5         5        13        10
+Prec 24h       med       -98       -98       -98         2         3         3         5         4         3         3         2         2
+Prec 24h       max       -98       -98       -98        13        17        20        21        19        18        16        13        13
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         6         6         6         7         7
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3300      3300      3300      3200      3100      3200      3300      3300      3300      3300      3400      3400
+Zero termico   med      3600      3600      3600      3500      3400      3500      3600      3500      3600      3700      3700      3700
+Whiting        med        10         8        14        14        16        12         9        11         4        14        16        17
+CAPE           med        53        80       157       110        73       136       130        46        37       124        94        55
+Lifted index   med         5         3         2         3         2         2         2         2         3         3         4         3
+Sweat index    med        96       101       120       110       134       141       127       125       106        98        99        91
+Vento 1500m    int         8         8         5         6         6         9         5         5         3         3         5         4
+Vento 1500m    dir       WSW         W       WSW       WSW       WSW         W       WSW         W       WNW         W       NNW        NE
+Vento 3000m    int        13        12        10         9         7        11        11         8         5         4         4         1
+Vento 3000m    dir       WSW       WSW       WSW       WSW       WSW       WSW         W         W         W       WSW       WSW         W
+ 34- 39  Abruzzo SE - Molise E                         
+Prec 6h        med         0         1         0         0         1         2         0         0         0         0         0         0
+Prec 6h        max         2         7         0         1         3        15         4         3         3         1         4         1
+Prec 12h       med       -98         1         1         0         1         2         2         1         1         0         0         0
+Prec 12h       max       -98         8         7         2         5        18        15         4         5         4         5         4
+Prec 24h       med       -98       -98       -98         1         2         3         3         3         3         1         1         1
+Prec 24h       max       -98       -98       -98        10        11        19        20        21        20         6         6         5
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         4         4         4         4         4
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3500      3500      3400      3400      3400      3400      3400      3400      3500      3600      3600      3600
+Zero termico   med      3800      3800      3700      3700      3700      3700      3700      3700      3800      3900      3900      3900
+Whiting        med        11         8        12        16        14        10         3         7         6         8        16        20
+CAPE           med        32        73       116        82        59       125       147        44        25        99        98        34
+Lifted index   med         5         3         2         3         3         2         1         3         4         2         2         3
+Sweat index    med       100       102       129       106       153       137       141       131        99        82       121       119
+Vento 1500m    int         8         7         5         4         6        11         9         8         5         3         2         2
+Vento 1500m    dir       WSW       WSW         W       WSW        SW       WSW       WSW       WSW         W       WSW       NNW       ENE
+Vento 3000m    int        13        12        10        10        11        14        11         9         6         5         6         3
+Vento 3000m    dir       WSW       WSW       WSW       WSW        SW       WSW         W       WSW         W       WSW       WSW        SW
+ 35- 4   Piemonte N - Lombardia NW                     
+Prec 6h        med         0         0         1         1         0         1         2         0         0         0         0         0
+Prec 6h        max         3         2        10        14         1        14        18         6         3         2         2         1
+Prec 12h       med       -98         0         1         2         1         1         2         2         1         0         0         0
+Prec 12h       max       -98         3        10        18        15        14        22        19         8         4         4         2
+Prec 24h       med       -98       -98       -98         2         2         3         4         3         3         2         1         0
+Prec 24h       max       -98       -98       -98        19        20        19        22        25        27        19        12         7
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         5         5         5         5         3
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3100      3200      3200      3100      3200      3300      3300      3300      3200      3300      3400      3400
+Zero termico   med      3400      3500      3500      3500      3500      3600      3600      3600      3500      3700      3700      3700
+Whiting        med        12        13        19        18        10        16        14        13        16        17        18        14
+CAPE           med        29       121       275        96        44       132       150        19        23       145       247        33
+Lifted index   med         5         1         0         3         3         2         1         3         4         1         0         3
+Sweat index    med       101       112       139       110        94       141       134       122       125        98       114        86
+Vento 1500m    int         5         7         3         2         3         4         7         5         6         5         3         2
+Vento 1500m    dir        SW        SW       WSW        SW         S       SSW        SW         W       WSW         W       WNW         W
+Vento 3000m    int        10        11         9         7         6         6         8         7         9         8         6         7
+Vento 3000m    dir       WSW       WSW        SW        SW        SW        SW       WSW         W       WSW       WSW         W         W
+ 36- 40  Lazio SW                                      
+Prec 6h        med         0         1         1         0         4         1         2         0         0         0         0         0
+Prec 6h        max         0         4         6         0        23         3        13         3         0         1         0         0
+Prec 12h       med       -98         1         1         1         4         4         3         2         0         0         0         0
+Prec 12h       max       -98         4         9         6        23        25        14        15         3         1         1         0
+Prec 24h       med       -98       -98       -98         1         5         5         6         7         3         2         0         0
+Prec 24h       max       -98       -98       -98        10        23        25        25        25        16        15         3         1
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         8         8         7         7         7
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3300      3300      3300      3200      3100      3200      3300      3300      3300      3400      3500      3400
+Zero termico   med      3600      3600      3600      3500      3400      3500      3600      3600      3600      3700      3800      3800
+Whiting        med         6         9         3        13        13        13        16        11        16        14        13        10
+CAPE           med        31        94        83        93        56       123       116       124        56        55        62        68
+Lifted index   med         6         4         4         4         4         2         2         1         2         2         1         2
+Sweat index    med        76       110        75       106        93       156       135        99        94        83        79        65
+Vento 1500m    int         6         9         5         6         7        11         7         5         4         3         2         3
+Vento 1500m    dir       WSW       WSW       WSW       WSW       WSW       WSW         W       WNW       WSW       WSW       NNW         E
+Vento 3000m    int        12        14        12         9        10        12         9         8         6         5         3         2
+Vento 3000m    dir         W       WSW       WSW       WSW       WSW       WSW         W         W       WSW       SSW       WSW        NW
+ 37- 41  Campania NW                                   
+Prec 6h        med         0         1         0         0         1         0         1         0         0         0         0         0
+Prec 6h        max         1         6         6         1         8         3        10         5         2         1         0         1
+Prec 12h       med       -98         1         1         0         1         1         1         1         0         0         0         0
+Prec 12h       max       -98         7         8         6         8         8        11        14         5         2         1         1
+Prec 24h       med       -98       -98       -98         1         1         1         2         2         1         1         1         0
+Prec 24h       max       -98       -98       -98         8         9         8        12        15        15        14         5         3
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         3         3         2         2         2
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3500      3500      3600      3500      3400      3500      3500      3500      3500      3500      3700      3600
+Zero termico   med      3800      3800      3800      3800      3700      3800      3800      3800      3700      3800      3900      3900
+Whiting        med         6         3         3        12         7        11        12        12        12        15        16        16
+CAPE           med        39        95       116        43        76       169       142        70        47       265       134        29
+Lifted index   med         5         3         2         4         3         1         0         1         2        -1        -1         2
+Sweat index    med        80       104        91        84       111       157       133       106        78       136       162        68
+Vento 1500m    int         7         8         6         7         9         7         6         6         3         1         4         3
+Vento 1500m    dir        SW        SW        SW       WSW        SW       WSW         W         W         W        NW       NNE         E
+Vento 3000m    int        12        13        11         8        11        13        10         8         5         5         3         1
+Vento 3000m    dir       WSW       WSW       WSW       WSW       WSW       WSW       WSW       WSW       WSW       WSW        SW        SW
+ 38- 42  Campania N - Lazio SE                         
+Prec 6h        med         0         0         0         0         1         1         1         1         0         0         0         0
+Prec 6h        max         3         2         6         0        11         4        11        10         1         0         0         1
+Prec 12h       med       -98         0         1         1         1         2         1         1         1         0         0         0
+Prec 12h       max       -98         3         9         7        11        15        12        15        10         1         0         1
+Prec 24h       med       -98       -98       -98         1         2         3         3         3         2         1         1         0
+Prec 24h       max       -98       -98       -98         9        11        15        15        16        16        15        10         1
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         4         4         4         3         3
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3500      3400      3400      3400      3400      3500      3500      3500      3600      3600      3600      3600
+Zero termico   med      3800      3700      3700      3700      3600      3700      3800      3800      3800      3900      3900      3900
+Whiting        med         6         8         8         4        12        10        14        11         8        13        14        12
+CAPE           med        59        49       103        54        48        86       106        47        73        63        58        21
+Lifted index   med         6         5         4         4         5         3         3         2         3         3         3         4
+Sweat index    med       100       111       101        87       109       128       139       117        86       102        88        55
+Vento 1500m    int         8         9         5         6         7         9         6         5         3         3         3         3
+Vento 1500m    dir       WSW       WSW         W       WSW       WSW       WSW         W       WNW       WSW       WSW       NNW       ENE
+Vento 3000m    int        13        14        10         9         8        11         9         7         6         4         3         2
+Vento 3000m    dir       WSW       WSW       WSW       WSW       WSW       WSW         W         W         W       WSW       WSW       WSW
+ 39- 43E Puglia NW                                     
+Prec 6h        med         0         1         1         0         2         1         0         2         1         0         0         0
+Prec 6h        max         1         4         4         2         9         7         3         8         8         1         0         0
+Prec 12h       med       -98         1         1         1         2         3         2         2         3         1         0         0
+Prec 12h       max       -98         5         5         6         9        17         7        11        16        10         2         0
+Prec 24h       med       -98       -98       -98         2         3         4         4         5         5         4         3         1
+Prec 24h       max       -98       -98       -98         8        12        17        17        17        19        18        18        10
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         7         8         8         7         7
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3400      3300      3400      3300      3300      3300      3400      3400      3500      3500      3500      3500
+Zero termico   med      3700      3600      3600      3600      3600      3600      3700      3700      3700      3800      3800      3800
+Whiting        med        11         6        12         7        10        10         8        13         4        15        14        15
+CAPE           med        83        46        96        65        80        80        76        93        51        76        30        23
+Lifted index   med         6         6         5         4         3         3         3         1         2         3         3         3
+Sweat index    med       104        99       138        99       126       127       131       146        73        87       102        82
+Vento 1500m    int         8         9         7         7         6         9         7         6         3         3         3         3
+Vento 1500m    dir       WSW       WSW       WSW       WSW       WSW       WSW       WSW         W         W       WSW        NW       ENE
+Vento 3000m    int        13        14        12        10         9        12        11         8         6         4         3         2
+Vento 3000m    dir       WSW       WSW       WSW       WSW       WSW         W         W         W         W       WSW       WSW       WSW
+ 40- 43W Campania NE                                   
+Prec 6h        med         0         0         0         0         2         0         0         1         0         0         0         0
+Prec 6h        max         1         1         4         0        19         1         0        10         5         4         0         0
+Prec 12h       med       -98         0         0         0         2         2         0         1         1         1         0         0
+Prec 12h       max       -98         1         4         4        19        19         1        10        13         5         4         0
+Prec 24h       med       -98       -98       -98         1         3         3         2         3         2         2         2         1
+Prec 24h       max       -98       -98       -98         5        19        19        19        19        13        13        13         5
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         4         4         5         4         4
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3600      3700      3700      3600      3600      3600      3700      3700      3700      3700      3800      3700
+Zero termico   med      3900      4000      4000      3900      3800      3900      4000      3900      3900      4000      4100      4000
+Whiting        med         0        10        10         7        11         9        10        10         8        16         9        10
+CAPE           med        13       112        51        41        56       148       138        85        49       217       156        23
+Lifted index   med         7         3         4         5         4         1         1         2         2         1         1         2
+Sweat index    med        72        97       125        67        77        89       115        90        41       116       109        59
+Vento 1500m    int         6         8         6         7         6         6         6         4         3         4         3         2
+Vento 1500m    dir       WSW       WSW       WSW       WSW        SW       WSW         W       WSW        SW        SW        NW       ENE
+Vento 3000m    int         9        12        10         8        10        11         8         8         8         6         2         2
+Vento 3000m    dir       WSW       WSW       WSW       WSW       WSW       WSW       WSW       WSW       WSW       WSW       WSW        SW
+ 41- 44  Puglia N                                      
+Prec 6h        med         0         1         0         0         1         1         0         1         1         0         0         0
+Prec 6h        max         1         6         7         3         8        11         3        11         8         2         2         4
+Prec 12h       med       -98         1         1         0         1         2         2         1         1         1         0         0
+Prec 12h       max       -98         7         9        10         8        17        11        14        15         9         2         4
+Prec 24h       med       -98       -98       -98         1         2         3         3         3         3         2         2         1
+Prec 24h       max       -98       -98       -98        12        15        17        17        18        22        18        15        10
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         4         5         4         4         4
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3400      3500      3500      3400      3400      3400      3500      3500      3500      3600      3700      3700
+Zero termico   med      3800      3800      3800      3700      3700      3700      3800      3800      3800      3900      4000      4000
+Whiting        med        10         8        10        11        12        12         7         9         6         9        13        15
+CAPE           med        47        46       119        43        62       120        94        37        20        67       118        21
+Lifted index   med         7         5         5         5         4         1         2         3         3         2         1         3
+Sweat index    med        90        74        95        79       108       128       108       129        77        59       106        77
+Vento 1500m    int         8         7         5         5         4         7         5         4         3         3         5         4
+Vento 1500m    dir         W         W       WNW         W       WSW         W       WSW         W         W       WNW       NNW        NE
+Vento 3000m    int        12        11         9         9         8        11        10         7         5         3         3         2
+Vento 3000m    dir         W       WSW         W       WSW       WSW         W         W         W         W         W         W       WNW
+ 42- 45  Campania S - Basilicata W                     
+Prec 6h        med         0         1         0         0         0         0         1         0         0         0         0         1
+Prec 6h        max         2        10         3         3         4         3        13         3         6         1         0        20
+Prec 12h       med       -98         1         1         0         0         1         1         1         0         0         0         1
+Prec 12h       max       -98        11        11         5         4         4        16        13        10         6         1        20
+Prec 24h       med       -98       -98       -98         1         1         1         2         2         2         1         1         1
+Prec 24h       max       -98       -98       -98        13        12         7        18        17        18        16        10        20
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         3         3         2         2         3
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3400      3400      3400      3400      3300      3400      3400      3400      3400      3600      3600      3600
+Zero termico   med      3800      3700      3700      3700      3600      3600      3700      3700      3700      3900      3900      3900
+Whiting        med         8         6         8        11         7         9         9        11         9        11        13        15
+CAPE           med        59        45        62        83        62        63        68        62        46        37        16        12
+Lifted index   med         6         6         5         4         3         3         3         3         4         4         4         4
+Sweat index    med        90        84        96       116       102       110       138       118       117       121        82        84
+Vento 1500m    int         8         7         6         6         9         9         6         6         3         2         4         5
+Vento 1500m    dir       WSW         W         W         W         W         W         W         W       WNW        NW         N        NE
+Vento 3000m    int        13        13        10        10        10        11         9         7         4         2         2         1
+Vento 3000m    dir       WSW       WSW       WSW       WSW       WSW         W         W         W       WNW       WSW       WSW         W
+ 43- 46N Puglia NW - Basilicata N                      
+Prec 6h        med         0         0         1         0         3         1         0         0         0         0         0         0
+Prec 6h        max         0         2         7         3        22         4         2         0         5         2         1         0
+Prec 12h       med       -98         0         1         1         3         4         1         0         0         1         0         0
+Prec 12h       max       -98         2         8        10        23        24         6         2         5         5         3         1
+Prec 24h       med       -98       -98       -98         1         4         4         4         4         1         1         1         1
+Prec 24h       max       -98       -98       -98        11        23        24        24        24        11         7         6         6
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         5         5         5         5         4
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3700      3700      3700      3700      3600      3700      3700      3700      3600      3700      3800      3700
+Zero termico   med      4000      4000      4000      4000      3900      4000      4000      3900      3900      4000      4100      4000
+Whiting        med         1        10        14        15        13        11        14        14        18        18        13        14
+CAPE           med         5        62        54        45        56        85        66        50        21       126        82        25
+Lifted index   med         6         3         2         4         4         1         2         2         3         1         1         2
+Sweat index    med        75       101       156        88        93        88        95       109        89        91        68        78
+Vento 1500m    int         8        10         6         7         8         8         6         4         3         5         3         3
+Vento 1500m    dir        SW        SW        SW        SW        SW       WSW       WSW       WSW       WSW        SW        NW         E
+Vento 3000m    int        10        14        12         9        11        13        10        10        11         9         5         4
+Vento 3000m    dir       WSW       WSW       WSW        SW       WSW       WSW       WSW       WSW       WSW        SW        SW        SW
+ 44- 46S Puglia Centro W - Basilicata Centro           
+Prec 6h        med         0         1         1         0         2         0         1         0         0         0         0         0
+Prec 6h        max         0         6         7         2        20         2        14         6         2         2         0         0
+Prec 12h       med       -98         1         1         1         2         2         2         2         1         0         0         0
+Prec 12h       max       -98         6        13         7        20        23        15        15         6         3         2         0
+Prec 24h       med       -98       -98       -98         1         3         3         3         4         2         2         1         0
+Prec 24h       max       -98       -98       -98        13        20        23        23        23        17        18         6         4
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         5         5         5         4         4
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3500      3500      3500      3500      3400      3500      3500      3500      3500      3600      3700      3600
+Zero termico   med      3800      3800      3800      3700      3700      3800      3800      3800      3800      3900      4000      3900
+Whiting        med         8        12         2        12         9         7        11        10        13        11        11        12
+CAPE           med        23        76        57        67        44        64        72        68        69        73        36        27
+Lifted index   med         7         6         6         4         4         4         3         3         4         4         4         3
+Sweat index    med        79       107        83       100        95       140       146       111       110       104        84        81
+Vento 1500m    int         6         8         5         6         9        11         7         5         3         3         1         4
+Vento 1500m    dir       WSW       WSW       WSW        SW       WSW       WSW       WSW         W         W       WSW         W         E
+Vento 3000m    int        13        15        11         9        12        13         9         7         7         6         4         2
+Vento 3000m    dir         W       WSW       WSW       WSW       WSW       WSW       WSW       WSW        SW       SSW        SW       WSW
+ 45- 47  Puglia Centro E                               
+Prec 6h        med         0         0         0         0         2         1         0         0         0         0         0         0
+Prec 6h        max         1         1         1         6        12         5         3         0         2         1         0         1
+Prec 12h       med       -98         0         0         1         2         2         1         0         0         0         0         0
+Prec 12h       max       -98         1         2         7        12        14         8         3         2         3         1         1
+Prec 24h       med       -98       -98       -98         1         2         3         3         3         1         0         0         0
+Prec 24h       max       -98       -98       -98         8        12        16        18        14        10         6         3         3
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         3         3         3         3         3
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3500      3400      3400      3400      3300      3400      3500      3500      3500      3500      3600      3600
+Zero termico   med      3800      3700      3700      3700      3600      3700      3800      3800      3800      3900      3900      3900
+Whiting        med         9         8         7         9        14        10        12        11        13        11        15        12
+CAPE           med        55        45        96        59        46        73        57        40        60        38        43        12
+Lifted index   med         6         6         5         4         4         3         3         3         3         4         4         4
+Sweat index    med       102       100       112        94       124       115       131       139       105        82        94        74
+Vento 1500m    int         8        10         6         5         6         9         5         4         3         3         4         4
+Vento 1500m    dir       WSW       WSW       WSW       WSW       WSW       WSW         W         W       WSW       WSW       NNW       ENE
+Vento 3000m    int        13        14        11        10        10        10         8         8         6         3         3         1
+Vento 3000m    dir       WSW       WSW       WSW       WSW         W         W         W         W         W       WSW       WSW       WSW
+ 46- 48  Puglia SW - Basilicata S                      
+Prec 6h        med         0         0         0         0         0         0         0         1         0         0         0         0
+Prec 6h        max         0         4         3         0         1         0         5         7         0         0         0         1
+Prec 12h       med       -98         0         1         0         0         0         0         1         1         0         0         0
+Prec 12h       max       -98         4         8         4         1         1         5        12         7         0         0         1
+Prec 24h       med       -98       -98       -98         1         1         0         0         1         1         1         1         0
+Prec 24h       max       -98       -98       -98         8         8         4         6        12        12        12         7         1
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         2         2         2         1         1
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3600      3600      3700      3500      3600      3600      3600      3600      3600      3700      3700      3700
+Zero termico   med      3900      3900      3900      3800      3800      3900      3900      3900      3900      3900      4000      4000
+Whiting        med         7        11         5        11         7         6        12        13        13        15        10        14
+CAPE           med         2        84        71        68        52        65       104        79        49        78        61        31
+Lifted index   med         7         5         5         4         4         4         2         2         4         4         2         4
+Sweat index    med        83       119       111       114        88       116       143       108       100       126        98        99
+Vento 1500m    int         7         6         4         6         8         8         7         5         3         3         3         4
+Vento 1500m    dir       WSW       WSW       WSW       WSW       WSW       WSW         W         W       WSW        SW       NNW         E
+Vento 3000m    int        11        12        11         9        11        13        10         8         8         7         1         2
+Vento 3000m    dir       WSW       WSW       WSW       WSW       WSW       WSW       WSW       WSW       WSW        SW       WSW        SW
+ 47- 49  Puglia SE                                     
+Prec 6h        med         0         0         0         0         1         0         0         1         0         0         0         0
+Prec 6h        max         0         3         5         1        14         2         4         5         1         6         0         0
+Prec 12h       med       -98         0         1         1         1         1         0         1         1         0         0         0
+Prec 12h       max       -98         4         5         5        15        14         5         6         5         7         6         0
+Prec 24h       med       -98       -98       -98         1         2         2         1         2         1         1         1         1
+Prec 24h       max       -98       -98       -98         5        15        15        15        14         6         7         7         7
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         3         3         3         2         2
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3600      3600      3600      3500      3500      3600      3600      3500      3600      3600      3700      3700
+Zero termico   med      3900      3900      3900      3800      3800      3900      3900      3800      3900      3900      4000      4000
+Whiting        med         2        12         9        14         6         9        13        12        10        16        14        14
+CAPE           med        15       142       190        78        55       111       154        78        70       142       113        21
+Lifted index   med         6         4         3         4         3         2         1         2         3         1         1         4
+Sweat index    med        85       135       141       132        92       124       140       106        92       115       115        85
+Vento 1500m    int         7         7         5         7         9         8         6         5         2         3         2         3
+Vento 1500m    dir        SW        SW        SW       WSW       WSW       WSW         W         W       WSW        SW         N         E
+Vento 3000m    int        11        14        11         8        11        13         9         7         7         5         2         1
+Vento 3000m    dir       WSW       WSW       WSW       WSW       WSW       WSW       WSW       WSW       WSW       WSW        SW        SW
+ 48- 5   Lombardia NE                                  
+Prec 6h        med         0         0         0         0         0         1         2         1         0         0         0         0
+Prec 6h        max         2         1         0         1         0         7        13         9         2         0         0         0
+Prec 12h       med       -98         0         0         0         0         1         3         4         2         0         0         0
+Prec 12h       max       -98         3         1         1         1         7        19        20        10         2         0         0
+Prec 24h       med       -98       -98       -98         1         0         1         3         4         5         4         2         0
+Prec 24h       max       -98       -98       -98         3         1         7        19        26        27        22        10         2
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         5         5         5         5         5
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      2900      3000      3000      3100      3100      3000      3100      3100      3100      3200      3200      3100
+Zero termico   med      3200      3300      3300      3400      3400      3400      3400      3400      3400      3500      3600      3500
+Whiting        med        19        15        17        14        12        20        12        17        19        19        18        15
+CAPE           med       110       231       164        85        83       228       103        35        14        38        90         6
+Lifted index   med         3         0         0         2         3         0         1         4         4         3         1         5
+Sweat index    med       144       118       130       126        90       151       130       121       106        96       114        89
+Vento 1500m    int         5         7         5         4         3         2         7         5         4         4         2         1
+Vento 1500m    dir       WSW        SW        SW       SSW       SSE       SSW        SW         W         W       WNW       NNW        NW
+Vento 3000m    int        11        11         9         7         5         4         7         6         9         7         6         5
+Vento 3000m    dir       WSW       WSW       WSW        SW        SW       SSW         W         W         W         W         W         W
+ 49- 50N Calabria NW                                   
+Prec 6h        med         0         0         1         1         3         0         0         1         3         0         0         0
+Prec 6h        max         0         4         6         5        25         4         2         5        24         2         0         1
+Prec 12h       med       -98         0         1         2         4         4         1         1         3         3         0         0
+Prec 12h       max       -98         4         6         7        30        25         6         7        27        25         2         1
+Prec 24h       med       -98       -98       -98         2         5         6         5         5         4         4         4         3
+Prec 24h       max       -98       -98       -98         7        30        30        30        25        30        30        29        26
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         7         9        10         9         8
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3500      3600      3600      3500      3400      3500      3500      3500      3400      3500      3600      3600
+Zero termico   med      3800      3900      3800      3800      3700      3800      3800      3800      3700      3800      3900      3900
+Whiting        med         5        10        15         9        10         9         7        13        16        16        19        17
+CAPE           med        11       104        81        71        76       124       106        76        46        86        73        31
+Lifted index   med         7         4         4         3         4         1         2         4         4         3         3         4
+Sweat index    med        81        95       129       106        95        97        97       107       109        69        88        81
+Vento 1500m    int         9         9         6         8         9         8         6         4         3         3         2         5
+Vento 1500m    dir        SW       WSW       WSW       WSW       WSW       WSW         W       WSW        SW        SW       NNE         E
+Vento 3000m    int        12        12        11         8        11        12         9         9         6         4         1         1
+Vento 3000m    dir       WSW       WSW       WSW       WSW       WSW       WSW       WSW       WSW        SW        SW         S        SW
+ 50- 51  Calabria NE                                   
+Prec 6h        med         0         0         0         1         3         0         0         0         0         0         0         1
+Prec 6h        max         1         5         5         5        21         4         4         4         5         1         0        12
+Prec 12h       med       -98         0         0         1         4         3         1         1         1         0         0         1
+Prec 12h       max       -98         5         6         8        26        21         6         8         9         5         1        12
+Prec 24h       med       -98       -98       -98         1         4         4         4         4         1         1         1         1
+Prec 24h       max       -98       -98       -98         8        26        26        26        21        15        14         9        12
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         5         5         5         5         5
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3700      3700      3700      3700      3500      3600      3600      3600      3600      3600      3700      3700
+Zero termico   med      3900      4000      4000      4000      3800      3800      3900      3900      3900      3900      4000      4000
+Whiting        med         9        11        12        11        11         9        10        10        11        14        18        17
+CAPE           med        19        61        62        28        70        96        53        30        40        53        82        13
+Lifted index   med         7         4         4         5         4         2         3         3         3         2         3         4
+Sweat index    med        77        94        94        87       103       102       110       101        99        94        95        83
+Vento 1500m    int         7         8         5         6        10        10         6         3         3         4         0         4
+Vento 1500m    dir       WSW       WSW       WSW        SW       WSW       WSW       WSW       WSW       SSW        SW       NNW         E
+Vento 3000m    int        12        11        10         8        11        11         9         8         6         7         3         2
+Vento 3000m    dir       WSW       WSW       WSW        SW       WSW       WSW       WSW       WSW       SSW       SSW       SSW        SW
+ 51- 52  Calabria Centro E                             
+Prec 6h        med         0         0         0         0         0         0         0         1         0         0         0         1
+Prec 6h        max         0         4         3         5         1         0         1         6         1         0         4        23
+Prec 12h       med       -98         0         1         1         1         0         0         1         1         0         0         1
+Prec 12h       max       -98         5         7         5         6         1         1         8         7         2         4        27
+Prec 24h       med       -98       -98       -98         1         1         1         1         1         1         1         1         1
+Prec 24h       max       -98       -98       -98         7         8         6         6         8         9         9         7        27
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         2         2         2         2         2
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3600      3600      3600      3500      3500      3600      3600      3600      3600      3700      3800      3700
+Zero termico   med      3900      3900      3900      3800      3800      3800      3900      3900      3900      3900      4100      4000
+Whiting        med         6        12         7        10        10         4        11         7        10        11         9        14
+CAPE           med        14        89        67        75        91        39        63        52        81       107        74        38
+Lifted index   med         8         5         5         5         3         3         3         3         3         3         4         4
+Sweat index    med        69        98       103        88       110        82       127        97       108        94       109        71
+Vento 1500m    int         6         5         4         6         8         7         4         3         1         1         3         3
+Vento 1500m    dir       WSW       WSW         W       WSW       WSW       WSW         W       WNW       WSW       WSW       NNE       ENE
+Vento 3000m    int        10        10        10        10        11        10         8         6         3         2         0         1
+Vento 3000m    dir         W       WSW       WSW         W       WSW       WSW       WSW         W         W        SW        SE        SW
+ 52- 53  Calabria SE                                   
+Prec 6h        med         0         1         1         2         2         0         0         1         1         1         1         0
+Prec 6h        max         0         5         7        17        20         1         1         5         6         3         8         1
+Prec 12h       med       -98         1         2         3         4         3         0         1         2         2         1         1
+Prec 12h       max       -98         5        11        17        35        20         1         5        10         9         9         9
+Prec 24h       med       -98       -98       -98         4         6         6         4         3         2         2         3         2
+Prec 24h       max       -98       -98       -98        17        35        36        36        20        11        13        14        13
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         8         9         8         7         6
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3500      3500      3500      3400      3300      3400      3500      3500      3400      3500      3600      3600
+Zero termico   med      3800      3800      3800      3600      3600      3700      3700      3800      3700      3800      3900      3900
+Whiting        med        12        12        13        10         8         6         6        15        17        19        18        15
+CAPE           med        40       203       128       115        89        90       136        61        60       221       142        55
+Lifted index   med         7         2         3         2         3         3         1         3         3         0         1         3
+Sweat index    med       104       115       109       122        90       101        89       121       122       149       142       100
+Vento 1500m    int         9         7         7         7         8         8         6         2         3         1         3         4
+Vento 1500m    dir       WSW       WSW       WSW         W       WSW       WSW         W         W       WSW       WSW         N       ENE
+Vento 3000m    int        11        10        11         9        10         9         8         6         4         2         1         2
+Vento 3000m    dir       WSW       WSW       WSW       WSW       WSW       WSW         W       WSW       WSW       WNW         N       NNE
+ 53- 53W Calabria SW                                   
+Prec 6h        med         0         0         0         4         3         0         0         0         1         0         0         0
+Prec 6h        max         0         1         2        24        17         1         0         1         6         1         1         0
+Prec 12h       med       -98         0         0         4         7         3         0         0         1         1         0         0
+Prec 12h       max       -98         2         4        24        39        17         1         1         6         7         2         2
+Prec 24h       med       -98       -98       -98         4         7         7         7         3         1         1         2         2
+Prec 24h       max       -98       -98       -98        24        39        40        39        17         6         7         7         7
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         8         8         9         9         5
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3600      3700      3700      3500      3400      3500      3600      3600      3500      3600      3700      3600
+Zero termico   med      3900      4000      3900      3800      3700      3800      3800      3800      3800      3800      3900      3900
+Whiting        med        11        11        18        14        10        10         7        15        14        21        19        13
+CAPE           med        22       130       208       115        80       117       161        65        16       230       194        75
+Lifted index   med         6         2         1         2         3         2         0         2         4         0         0         2
+Sweat index    med       104       123       129       144       103       104        77       142        97       145       125        91
+Vento 1500m    int        10         6         5         7         8         8         5         2         3         3         1         3
+Vento 1500m    dir        SW       WSW       WSW         W       WSW       WSW       WSW        SW        SW       SSW       NNE         E
+Vento 3000m    int        11         9         8         8        10        10         9         8         6         4         2         2
+Vento 3000m    dir       WSW        SW       WSW       WSW       WSW       WSW       WSW        SW        SW        SW       SSW       SSW
+ 54- 54  Sicilia W                                     
+Prec 6h        med         0         0         1         1         0         0         0         0         0         0         1         1
+Prec 6h        max         2         4        11        17         6         1         6         0         1         3         8        10
+Prec 12h       med       -98         0         1         2         1         1         0         0         0         0         1         2
+Prec 12h       max       -98         4        11        22        23         6         6         6         1         4         8        17
+Prec 24h       med       -98       -98       -98         2         2         2         1         1         0         1         1         2
+Prec 24h       max       -98       -98       -98        23        29        28        23         6         7         7         8        17
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         3         3         3         3         3
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3600      3700      3600      3600      3400      3500      3600      3600      3600      3700      3700      3700
+Zero termico   med      3900      4000      3900      3900      3800      3800      3800      3900      3900      4000      4000      4000
+Whiting        med         9        10        14        13         8        11        13        12        12        16        17        15
+CAPE           med        24        98       250       111        43        75       153        87        62       236       231        87
+Lifted index   med         7         5         3         4         6         4         3         4         5         1         1         3
+Sweat index    med        92        96       127       137       101        94       106       108       106       138       128       122
+Vento 1500m    int         6         5         3         5         5         5         4         2         1         1         3         4
+Vento 1500m    dir       WSW       WSW         W        SW       WSW       WSW       WNW       WSW       SSW       SSW       NNE       ENE
+Vento 3000m    int        11        10         8        11         9         8         6         5         3         1         1         2
+Vento 3000m    dir       WSW       WSW       WSW       WSW       WSW       WSW       WSW         W         W         S       SSW         S
+ 55- 55  Sicilia Centro N                              
+Prec 6h        med         0         1         1         0         0         0         1         0         0         0         2         0
+Prec 6h        max         1         6        10         4         2         0         7         2         1         1         9         4
+Prec 12h       med       -98         1         2         1         1         0         1         1         0         0         2         2
+Prec 12h       max       -98         6        10        14         4         2         7         7         2         2         9        13
+Prec 24h       med       -98       -98       -98         2         2         2         2         1         1         1         2         2
+Prec 24h       max       -98       -98       -98        14        14        14        11         7         8         8         9        13
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         3         3         3         3         4
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3600      3600      3500      3500      3300      3400      3400      3500      3500      3600      3600      3600
+Zero termico   med      3900      3900      3800      3800      3700      3700      3700      3700      3800      3900      3900      3900
+Whiting        med        10        13        15        13         7         6         9         9         8        12        16        17
+CAPE           med        25        82       193        83        36        48       180        26        22       141       246        45
+Lifted index   med         8         5         4         4         6         5         3         4         5         1         1         3
+Sweat index    med        81       106       122       131       117       104       104        92       109       138       137       119
+Vento 1500m    int         5         4         3         9         8         7         6         4         2         2         2         4
+Vento 1500m    dir         W       WSW       WSW        SW       WSW        SW       WSW       WSW       SSW         S        NE         E
+Vento 3000m    int        10        10        10        13        15        13         9         7         6         6         5         4
+Vento 3000m    dir       WSW       WSW       WSW       WSW       WSW       WSW       WSW         W        SW       SSW       SSW       SSW
+ 56- 56N Sicilia NE                                    
+Prec 6h        med         0         1         0         2         1         0         0         1         1         0         0         0
+Prec 6h        max         0         7         3        32         9         2         0         5         8         2         1         0
+Prec 12h       med       -98         1         2         2         2         1         0         1         2         1         0         0
+Prec 12h       max       -98         7         8        32        41         9         2         5        10        10         2         1
+Prec 24h       med       -98       -98       -98         4         4         3         3         2         2         2         2         1
+Prec 24h       max       -98       -98       -98        32        41        41        41         9        13        12        12        10
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         5         6         5         5         3
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3500      3500      3400      3400      3400      3400      3500      3500      3500      3600      3700      3700
+Zero termico   med      3800      3800      3700      3600      3600      3700      3800      3800      3800      3900      4000      4000
+Whiting        med        10        16         5         1         3         3         8        14        16        18        13        14
+CAPE           med        45       148       132       121        56        84       109        99       107       165        79        51
+Lifted index   med         6         4         4         3         4         3         2         2         2         2         3         4
+Sweat index    med        91       124        78       100        98       105        91       109       122       107        95        93
+Vento 1500m    int         9         8         7         7         8         7         7         4         4         4         7         5
+Vento 1500m    dir       WSW         W         W         W       WSW         W       WNW       NNW       NNW         N         N        NE
+Vento 3000m    int        12        11        13         9         8         8         6         5         5         5         5         5
+Vento 3000m    dir       WSW       WSW       WSW         W         W         W       WNW        NW       NNW         N       NNE       NNE
+ 57- 56S Sicilia E                                     
+Prec 6h        med         0         0         1         2         1         0         0         1         0         0         0         0
+Prec 6h        max         0         3        17        26        12         0         4         4         7         1         4         2
+Prec 12h       med       -98         0         2         3         2         1         0         1         1         1         1         0
+Prec 12h       max       -98         3        19        26        39        12         4         8         7         8         4         5
+Prec 24h       med       -98       -98       -98         3         4         4         3         2         1         1         1         1
+Prec 24h       max       -98       -98       -98        27        39        39        39        12         8         8         9         9
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         5         5         5         4         3
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3700      3700      3700      3600      3600      3600      3600      3600      3700      3700      3800      3700
+Zero termico   med      4000      4000      4000      3900      3900      3900      3900      3900      3900      4000      4100      4000
+Whiting        med        10        11        10        10         8         3         5         8         9        14        12        16
+CAPE           med        23       105       233        73        43        25       171        61        31       135       223        31
+Lifted index   med         8         5         4         6         6         5         2         3         5         2         2         3
+Sweat index    med        75       103       109        92       114        95        95        77        97       109       120       142
+Vento 1500m    int         5         4         2         7         8         6         4         2         0         1         1         3
+Vento 1500m    dir         W       WSW       WSW       WSW       WSW       WSW         W       WSW         S         S         E       ESE
+Vento 3000m    int        10        10         8         9        13        11         8         6         5         4         4         4
+Vento 3000m    dir       WSW       WSW       WSW       WSW       WSW       WSW       WSW       WSW        SW       SSW       SSW       SSW
+ 58- 57  Sicilia Centro S                              
+Prec 6h        med         0         0         1         1         1         0         0         0         1         2         0         0
+Prec 6h        max         1         3        12        11         5         5         6         2         7        16         5         4
+Prec 12h       med       -98         0         2         2         1         1         1         0         1         2         2         1
+Prec 12h       max       -98         3        13        15        15         6         6         6         9        23        17         5
+Prec 24h       med       -98       -98       -98         2         3         3         2         1         1         3         3         3
+Prec 24h       max       -98       -98       -98        16        20        20        15         8        14        25        26        26
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         4         4         6         5         4
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3700      3700      3700      3600      3500      3600      3600      3600      3600      3700      3700      3700
+Zero termico   med      4000      4000      4000      3900      3800      3900      3900      3900      3900      4000      4100      4000
+Whiting        med         9        13        12        12         9         3         8        12        16        17        15        19
+CAPE           med         9       149       262       189        60       104       154        61        71       286       304       104
+Lifted index   med         7         3         1         1         4         3         1         2         3        -1         0         2
+Sweat index    med        84       114       117       119       109       112       115       124       108       135       113       143
+Vento 1500m    int         6         6         6         6         7         7         4         2         1         2         3         5
+Vento 1500m    dir       WSW        SW       WSW        SW       WSW       WSW         W       SSW         S        SW       NNE         E
+Vento 3000m    int        10        11        11        12        10        10         8         7         5         3         1         1
+Vento 3000m    dir       WSW        SW        SW       WSW       WSW       WSW       WSW        SW        SW       SSW       SSW       SSW
+ 59- 58  Sicilia Centro                                
+Prec 6h        med         0         0         2         1         0         0         1         0         0         0         1         0
+Prec 6h        max         1         1        18         6         2         0         7         2         0         1         4         6
+Prec 12h       med       -98         0         2         3         1         0         1         1         0         0         1         1
+Prec 12h       max       -98         1        19        24         8         2         7         8         2         1         5         9
+Prec 24h       med       -98       -98       -98         3         3         3         2         1         1         1         1         1
+Prec 24h       max       -98       -98       -98        24        25        25        15        10         8         8         6         9
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         4         4         4         2         2
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3800      3900      3800      3700      3600      3700      3800      3800      3700      3800      3900      3800
+Zero termico   med      4100      4100      4100      4000      3900      4000      4000      4000      4000      4100      4200      4100
+Whiting        med         9        10        10        14         7         4         9        12        14        14        12        16
+CAPE           med        17       114       243       129        42        35       170        47        12       157       176        84
+Lifted index   med         7         5         3         4         5         4         2         4         4         2         2         3
+Sweat index    med        68        94        95       111        80        87        90        74       109       114       112       136
+Vento 1500m    int         5         4         4         5         5         5         3         2         2         1         2         5
+Vento 1500m    dir       WSW        SW         W        SW       WSW       WSW         W         S       SSE         S       NNE       ENE
+Vento 3000m    int         9         8         7        11         8         8         6         5         2         3         2         2
+Vento 3000m    dir       WSW        SW        SW       WSW       WSW       WSW       WSW       WSW       SSW         S       SSW         S
+ 60- 59  Sicilia SE                                    
+Prec 6h        med         0         0         2         2         0         0         0         1         1         2         1         1
+Prec 6h        max         0         3        16        27         3         5         2         5         8        17         8         4
+Prec 12h       med       -98         0         2         4         2         1         1         1         2         3         2         1
+Prec 12h       max       -98         3        18        31        28         6         6         5        11        25        20        11
+Prec 24h       med       -98       -98       -98         4         5         5         3         1         2         3         4         4
+Prec 24h       max       -98       -98       -98        33        34        33        30         8        15        27        29        30
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         6         7         8         7         5
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3800      3800      3800      3700      3600      3700      3700      3700      3700      3800      3900      3800
+Zero termico   med      4100      4100      4100      3900      3900      4000      4000      4000      4000      4100      4100      4100
+Whiting        med        10        15        14         9         7         7        10         6         8        11        13        15
+CAPE           med        12       128       185       160        58        49       168        66        48       252       194        48
+Lifted index   med         8         6         4         4         5         4         2         4         4         2         2         4
+Sweat index    med        69        81        89        76        80        84       108       108        84        93        96       125
+Vento 1500m    int         5         4         4         4         5         5         3         2         0         2         3         4
+Vento 1500m    dir       WSW       WSW         W       WSW       WSW       WSW         W       WNW       ENE       SSW       NNE         E
+Vento 3000m    int         8         7         8         9         7         7         7         4         2         1         1         1
+Vento 3000m    dir       WSW        SW       WSW       WSW       WSW       WSW       WSW        SW       WSW         S         E       ESE
+ 61- 6   Lombardia Centro E                            
+Prec 6h        med         0         0         1         2         1         0         1         0         0         0         0         0
+Prec 6h        max         6         5         9        12         8         3        12         1         0         2         3         1
+Prec 12h       med       -98         1         1         3         3         1         1         1         0         0         0         0
+Prec 12h       max       -98         6        13        20        20         8        14        12         1         2         4         3
+Prec 24h       med       -98       -98       -98         4         4         4         4         2         1         1         1         0
+Prec 24h       max       -98       -98       -98        25        33        28        20        15        15        12         4         5
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         6         5         5         4         2
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      2900      3100      3100      3000      3000      3100      3200      3100      3200      3300      3400      3400
+Zero termico   med      3300      3400      3400      3400      3400      3400      3500      3500      3500      3600      3700      3700
+Whiting        med        14        15        17        20        15        14        10        10        13        15        10         8
+CAPE           med        59       157       215        99       105       136       124        10         9       106       173        16
+Lifted index   med         3         1         0         2         2         1         1         4         4         2         2         5
+Sweat index    med       119       130       149       129       110       123       122        95        98        91       101        74
+Vento 1500m    int         5         6         3         3         1         2         7         4         4         3         2         1
+Vento 1500m    dir       WSW         W       WSW       WNW       NNE        SW       WSW         W         W        NW        NW         W
+Vento 3000m    int         9        10         8         6         4         4         8         6         7         6         6         6
+Vento 3000m    dir       WSW       WSW         W         W       WSW         W         W         W         W         W       WNW       WNW
+ 62- 60  Sardegna NW                                   
+Prec 6h        med         0         1         0         0         1         0         0         0         0         0         0         0
+Prec 6h        max         1        12         1         1        17         2         8         1         1         5         1         0
+Prec 12h       med       -98         1         1         0         2         2         1         0         0         1         1         0
+Prec 12h       max       -98        13        13         2        18        17         9         8         1         6         5         1
+Prec 24h       med       -98       -98       -98         1         2         2         2         2         1         1         1         1
+Prec 24h       max       -98       -98       -98        15        18        18        18        17        10        10         6         6
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         3         3         3         3         3
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3700      3700      3700      3600      3600      3600      3700      3600      3600      3700      3800      3800
+Zero termico   med      4000      4000      4000      3900      3900      3900      3900      3900      3900      4000      4100      4100
+Whiting        med         3         7         8        13         6         7        10        10        12        14        12        12
+CAPE           med        24       116       116        38        48       117        96        39        45       199       121         7
+Lifted index   med         6         4         3         5         4         2         2         3         3         1         1         3
+Sweat index    med        75       111       108       104        97       116       115        84        87       122       123        80
+Vento 1500m    int         7         7         4         6         9         8         6         5         2         2         4         2
+Vento 1500m    dir       WSW       WSW       WSW       WSW       WSW       WSW         W         W         W       WSW         N       ENE
+Vento 3000m    int        11        13        10         7        10        11         8         6         5         4         3         1
+Vento 3000m    dir       WSW       WSW       WSW       WSW       WSW       WSW         W       WSW       WSW       WSW        SW       WSW
+ 63- 61  Sardegna NE                                   
+Prec 6h        med         0         0         1         0         3         1         1         1         1         0         0         0
+Prec 6h        max         1         7         8         3        22         7        11         9         9         2         0         2
+Prec 12h       med       -98         0         1         1         3         3         1         2         2         1         0         0
+Prec 12h       max       -98         8        10        11        22        23        12        11        16        12         2         2
+Prec 24h       med       -98       -98       -98         2         4         4         4         5         3         3         2         2
+Prec 24h       max       -98       -98       -98        12        22        23        23        23        20        18        18        12
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         6         7         7         7         6
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3500      3500      3500      3400      3400      3400      3500      3500      3500      3500      3600      3600
+Zero termico   med      3800      3800      3800      3700      3700      3700      3800      3700      3800      3800      3900      3900
+Whiting        med         7        12        11        11        10         9         9        12        13        15        16        16
+CAPE           med        25        67        65        73        72        85        84        81        55        92        57        12
+Lifted index   med         7         5         4         4         4         2         3         3         3         3         3         3
+Sweat index    med        84        99       122        88       102       107       130       131        94        92        87        82
+Vento 1500m    int         8        10         7         7         8        10         8         6         3         4         2         4
+Vento 1500m    dir       WSW       WSW       WSW       WSW        SW       WSW       WSW       WSW       WSW        SW       NNW       ENE
+Vento 3000m    int        12        15        13         9        11        13        10         8         7         5         2         1
+Vento 3000m    dir       WSW       WSW       WSW       WSW       WSW       WSW       WSW       WSW       WSW        SW        SW       WSW
+ 64- 62  Sardegna Centro W                             
+Prec 6h        med         0         0         0         0         1         0         0         0         0         0         0         0
+Prec 6h        max         1        12         7         3        11         1        11         8         1         2         1         1
+Prec 12h       med       -98         1         1         1         1         1         1         1         1         0         0         0
+Prec 12h       max       -98        12        13         7        11        12        12        11         8         2         2         2
+Prec 24h       med       -98       -98       -98         1         2         2         2         2         1         1         1         0
+Prec 24h       max       -98       -98       -98        15        14        12        14        13        13        13         9         3
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         3         3         3         3         2
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3500      3400      3400      3400      3300      3400      3500      3500      3500      3500      3600      3600
+Zero termico   med      3800      3700      3700      3700      3600      3700      3700      3700      3700      3800      3900      3900
+Whiting        med         6         9        10         9         9        11        10        10        13        14        14        14
+CAPE           med        56        52        72        76        58        92        91        83        65        54        41        36
+Lifted index   med         6         5         5         4         3         2         3         4         4         4         4         3
+Sweat index    med        93       102       106       106       100       107       147       120       117       116        99        90
+Vento 1500m    int         8         6         7         7         9         8         5         4         2         2         3         5
+Vento 1500m    dir       WSW         W         W       WSW         W         W         W         W       WNW       WNW       NNE        NE
+Vento 3000m    int        12        12        11        10        10        11         9         8         4         2         2         1
+Vento 3000m    dir       WSW       WSW       WSW       WSW         W       WSW         W         W         W        SW        SW       WSW
+ 65- 63  Sardegna E                                    
+Prec 6h        med         0         0         0         1         1         0         0         0         1         0         0         0
+Prec 6h        max         1         5         5        16        22         2         3         5        20         4         1         3
+Prec 12h       med       -98         0         1         1         2         1         0         1         2         1         0         0
+Prec 12h       max       -98         5         7        16        36        22         4         6        25        21         4         3
+Prec 24h       med       -98       -98       -98         1         2         2         2         2         2         2         2         2
+Prec 24h       max       -98       -98       -98        16        36        36        36        22        27        26        26        21
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         3         4         4         4         4
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3500      3600      3500      3500      3400      3500      3500      3500      3500      3600      3700      3600
+Zero termico   med      3800      3900      3800      3800      3700      3800      3800      3800      3800      3900      4000      3900
+Whiting        med         7        10        12        10         7         9         7        12        10        12        15        15
+CAPE           med        30        51        64        68        63        93       101        69        53        74        61        24
+Lifted index   med         7         6         5         4         4         3         3         4         4         4         4         4
+Sweat index    med        83        97       111       116        94       108       117       122       100        89        91        91
+Vento 1500m    int         7         7         6         7         9         8         5         4         2         2         2         4
+Vento 1500m    dir       WSW       WSW         W       WSW       WSW       WSW         W         W         W       WSW       NNE       ENE
+Vento 3000m    int        12        12        10        10        10        11         9         8         4         3         2         1
+Vento 3000m    dir       WSW       WSW       WSW       WSW       WSW       WSW       WSW       WSW       WSW        SW        SW        SW
+ 66- 64  Sardegna S                                    
+Prec 6h        med         0         1         0         2         2         0         0         1         1         0         0         0
+Prec 6h        max         1         7         7        20        20         1         3         9         7         5         1         2
+Prec 12h       med       -98         1         1         2         4         2         0         1         2         2         1         0
+Prec 12h       max       -98         8         7        20        39        20         3         9        10         8         5         2
+Prec 24h       med       -98       -98       -98         3         4         4         4         3         2         3         2         2
+Prec 24h       max       -98       -98       -98        20        39        39        39        20        11        13        12         8
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         5         7         7         6         4
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3600      3600      3600      3500      3500      3500      3600      3600      3600      3700      3800      3700
+Zero termico   med      3900      3900      3900      3800      3800      3800      3900      3800      3800      3900      4100      4000
+Whiting        med        11        14         9        10         6         7         7        12        13        13        14        14
+CAPE           med        23        94        89       138        89       116       132        59        61       127        98        17
+Lifted index   med         7         4         4         4         3         2         2         2         3         2         2         3
+Sweat index    med        83       109        96       127       101       108       114        98       128        90       107        86
+Vento 1500m    int         6         7         5         7         9         7         5         3         1         1         4         3
+Vento 1500m    dir       WSW       WSW       WSW       WSW       WSW         W         W         W       NNW         W         N       ENE
+Vento 3000m    int        11        11        10         8        11        10         8         6         3         2         1         0
+Vento 3000m    dir       WSW       WSW       WSW       WSW       WSW       WSW         W       WSW       WSW       WSW         S       WNW
+ 67- 7   Trentino                                      
+Prec 6h        med         0         1         0         1         0         0         1         0         0         0         0         0
+Prec 6h        max         6         8        12        11         5         5        13         6         2         4         6         1
+Prec 12h       med       -98         1         1         1         1         1         2         2         0         0         1         0
+Prec 12h       max       -98         8        17        23        16         5        18        19         8         5         9         6
+Prec 24h       med       -98       -98       -98         2         2         2         3         2         2         2         1         1
+Prec 24h       max       -98       -98       -98        28        28        28        18        24        25        20         9         9
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         4         4         4         4         3
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3100      3100      3200      3200      3100      3200      3200      3200      3200      3300      3300      3300
+Zero termico   med      3400      3500      3500      3500      3500      3500      3500      3500      3500      3600      3700      3600
+Whiting        med        14        15        15        17        15        17        12        14        17        18        18        16
+CAPE           med        76       196       237        91       102       186       161        25        22       158       192        16
+Lifted index   med         3        -1         0         2         2         0         1         3         3         0         1         4
+Sweat index    med       116       126       134       119       104       126       132        96       106       114       120        88
+Vento 1500m    int         6         6         5         4         3         3         7         5         4         4         3         1
+Vento 1500m    dir        SW       WSW        SW        SW         S       SSW       WSW       WSW         W         W       WNW       WNW
+Vento 3000m    int        11        12        10         8         6         5         9         7         8         8         7         6
+Vento 3000m    dir       WSW       WSW       WSW       WSW        SW        SW         W       WSW         W         W         W         W
+ 68- 8   Alto Adige                                    
+Prec 6h        med         0         0         0         2         0         0         2         0         0         0         2         0
+Prec 6h        max         3         2         4        21         2         7        17         8         5         4        13         1
+Prec 12h       med       -98         0         0         2         2         0         2         3         1         0         2         2
+Prec 12h       max       -98         3         6        22        21         7        19        19        13         9        14        14
+Prec 24h       med       -98       -98       -98         2         2         3         4         3         3         3         2         2
+Prec 24h       max       -98       -98       -98        22        23        22        21        20        20        21        20        15
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         5         5         6         7         5
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3100      3200      3200      3100      3200      3300      3300      3200      3200      3300      3400      3300
+Zero termico   med      3500      3500      3500      3500      3500      3600      3600      3600      3600      3600      3700      3600
+Whiting        med        17        17        20        17        11        17        13        11        15        20        20        15
+CAPE           med        19       247       276        59        38       142       143        23        19       232       253        23
+Lifted index   med         4        -1         0         4         3         1         1         4         4        -1         0         4
+Sweat index    med       124       139       138       118        93       129       127       109       108       120       127        85
+Vento 1500m    int         5         6         4         3         2         4         6         6         4         5         3         2
+Vento 1500m    dir       SSW        SW       WSW         W         S         S       WSW       WSW         W         W        NW        NW
+Vento 3000m    int         9        11         9         8         6         5         7         7         8         8         7         7
+Vento 3000m    dir       WSW       WSW       WSW       WSW       WSW        SW       WSW       WSW         W       WSW         W         W
+ 69- 9   Veneto E - FVG N                              
+Prec 6h        med         0         1         1         1         0         0         1         0         0         0         0         0
+Prec 6h        max         4        10        13         9        12         7         7         5         1         3         2         0
+Prec 12h       med       -98         1         2         2         1         1         1         1         1         0         0         0
+Prec 12h       max       -98        10        20        21        18        12        10        11         5         3         4         2
+Prec 24h       med       -98       -98       -98         3         3         2         2         2         2         1         1         0
+Prec 24h       max       -98       -98       -98        27        38        31        18        14        15        13         7         5
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         4         4         4         3         2
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3000      3100      3200      3100      3100      3200      3200      3200      3200      3300      3300      3300
+Zero termico   med      3300      3400      3500      3500      3400      3500      3600      3500      3600      3700      3700      3700
+Whiting        med        16        19        19        17        18        20        15        11        15        16        12        10
+CAPE           med        62       169       314        74        84       173       148        24        23       108       166        17
+Lifted index   med         4         0        -1         3         3         0         1         4         4         1         1         5
+Sweat index    med       122       139       150       126       120       130       147        98       105       106        97        78
+Vento 1500m    int         5         6         6         4         3         4         6         5         5         5         4         2
+Vento 1500m    dir       WSW       WSW       WSW       WSW       SSW       SSW         W         W         W         W       WNW        NW
+Vento 3000m    int        10        11         9         7         4         4         7         6         7         7         8         6
+Vento 3000m    dir       WSW       WSW         W       WSW       WSW       WSW         W         W         W         W       WNW       WNW
+ 70- 50S Calabria Centro W                             
+Prec 6h        med         0         0         0         0         0         0         0         1         0         0         0         2
+Prec 6h        max         0         4         3         1         1         0         3         5         2         1         4        22
+Prec 12h       med       -98         0         1         0         0         0         0         1         1         0         0         2
+Prec 12h       max       -98         4         6         3         2         1         3         7         6         3         4        26
+Prec 24h       med       -98       -98       -98         1         1         1         1         1         1         1         1         2
+Prec 24h       max       -98       -98       -98         6         7         4         4         8         8         9         7        26
+Prec 48h       med       -98       -98       -98       -98       -98       -98       -98         2         2         2         2         4
+Copertura nuv  med       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98       -98
+Quota neve     med      3600      3600      3600      3500      3400      3500      3500      3500      3500      3600      3700      3700
+Zero termico   med      3900      3900      3900      3800      3700      3800      3800      3800      3800      3900      4000      4000
+Whiting        med         9        14         7        10         8         5        11         9         9        10        13        15
+CAPE           med        25        93       102        94        69        60        96        60        51        69       128        38
+Lifted index   med         7         5         5         5         4         4         3         4         4         4         3         4
+Sweat index    med        81       115       111       101       114        85       120        92       104        96       106        86
+Vento 1500m    int         5         5         4         6         8         7         5         3         1         2         3         4
+Vento 1500m    dir         W       WSW         W       WSW       WSW       WSW         W       WNW        NW       WSW       NNE        NE
+Vento 3000m    int        10        10        10        10        11        10         8         6         3         3         1         1
+Vento 3000m    dir         W       WSW       WSW       WSW       WSW       WSW         W         W         W        SW       SSE       SSE

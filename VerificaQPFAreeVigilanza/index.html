@@ -1,0 +1,112 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>ARPA Piemonte: verifica qpf aree vigilanza</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+    integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+    crossorigin=""/>    
+    <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
+    integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
+    crossorigin=""></script>    
+    <script src="Leaflet\leaflet.ajax.min.js"></script> <!--libreria javascript per la gestione del json delle aree. è un miglioramento ulteriore di GeoJSON-->
+    <script src="UsefulFunctions_IVIG.js"></script> <!--In questo file ho inserito tutte le funzioni javascript create da me e commentate-->
+    <!--stile mappa-->
+    <style>
+        #Italia {
+            height: 700px;
+            width: 800px;
+        }
+    </style>
+    <!--stile delle label delle regioni-->
+    <style>
+        .text-labels {
+            display: inline-block;
+            font-size: 20px;
+            font-weight: 700;
+            color: white;
+            text-shadow: 1px 0 0 #000000, -1px 0 0 #000000, 0 1px 0 #000000, 0 -1px 0 #000000, 1px 1px #000000, -1px -1px 0 #000000, 1px -1px 0 #000000, -1px 1px 0 #000000;
+        }
+    </style>   
+</head>
+<body>
+    <script>
+        var colorLow="#97baf7";
+        var colorMedium="#4d8cfa";
+        var colorHigh="#0628e5";
+        var value1="15";
+        var value2="30";
+        var GlobalCentra='Italia';
+        var caricato = window.location.search.substring(1);        
+    </script>
+    <div id="PeriodoCorrente">
+        <b>VERIFICA QPF SU AREE DI VIGILANZA ITALIANE OSSERVATI VS. PREVISIONI</b><br/><br/>
+        <script>
+            random_n=Math.floor(Math.random() * 1000000) + 100000;
+            document.write("Data odierna:" + getToday()+"<br/>");
+            var verData=getVerificationData("qpf_IVIG_colori.txt?d="+random_n);
+            document.write("Giorno osservati: "+verData[0]+"<br/>");
+            document.write("Giorni di previsione: "+verData[1]+", "+verData[2]+"<br/>");
+            var GlobalQPFMax=verData[3];
+            var GlobalAreeOrder=OpenOrderFile("ordine_aree_DPC.txt?d="+random_n);
+        </script>
+    </div>
+    <br/>
+    <script>
+        if(caricato!="ON"){
+            document.write("<button id=\"btnCarica\" value=\"CaricaDati\" onclick=\"LoadRun()\">Carica dati</button>");
+            document.write("<br/><br/>");         
+        }
+    </script>
+    Il colore di ogni area rappresenta il picco massimo di qpf osservata all'interno della giornata di verifica:<br/>
+    <img src="legenda/0mm.png"/>&nbsp; no pioggia &nbsp;
+    <img src="legenda/low.png"/>&nbsp; 0mm < QPF<= 15mm &nbsp;
+    <img src="legenda/medium.png"/>&nbsp; 15mm < QPF <= 30mm &nbsp;
+    <img src="legenda/high.png"/>&nbsp; QPF > 30mm <br/>
+    <br/>
+    Centra mappa: 
+    <button onclick="CentraMappa('Italia')">Italia</button>
+    &nbsp;<button onclick="CentraMappa('nord')">Nord Italia</button>
+    &nbsp;<button onclick="CentraMappa('centro')">Centro Italia</button>
+    &nbsp;<button onclick="CentraMappa('sud')">Sud Italia</button>
+    &nbsp;<button onclick="CentraMappa('isole')">Isole</button>
+    <div id="Italia"></div>
+    <script type="text/javascript">
+        var GlobLatNord=45.064664;
+        var GlobLongNord=10.588540;
+        var GlobLatCentro=41.902782;
+        var GlobLongCentro=12.496366;
+        var GlobLatSud=40.240408;
+        var GlobLongSud=15.805604;
+        var GlobLatIsole=38.902782;
+        var GlobLongIsole=12.496366; 
+        var GlobLatItalia=42.504154;
+        var GlobLongItalia=12.646361;               
+        var GlobZoom=7;
+        var GlobZoomItalia=6;
+        var mymap = L.map('Italia').setView([GlobLatItalia, GlobLongItalia], GlobZoomItalia);
+        L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
+            attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+            minZoom: GlobZoomItalia,
+            maxZoom: GlobZoom,
+            id: 'mapbox/satellite-v9', //mapbox/satellite-v9  mapbox/streets-v11
+            tileSize: 512,
+            zoomOffset: -1,            
+            accessToken: 'sk.eyJ1IjoibW9uYWNvbHVjYXZlIiwiYSI6ImNrY3AxOHZ4ajBxczMzM3BianZyZjBvZmgifQ.NMvX8w6pPDshMX_PefbgmQ'
+            //accessToken: 'pk.eyJ1IjoibW9uYWNvbHVjYXZlIiwiYSI6ImNrNnJwZW5ldDA2anQzZG15OWJweGMydzIifQ.2jqQlm490VG8mHE60PXv4A'
+        }).addTo(mymap);
+        mymap.dragging.disable(); //rimuovi la possibilità di draggare la mappa dove vuoi
+        mymap.removeControl(mymap.zoomControl); //rimuovi il controllo zoom +- che ci sarebbe in alto a sinistra
+        mymap.doubleClickZoom.disable();
+        mymap.scrollWheelZoom.disable();
+        var geojsonLayer;        
+        if (caricato!="ON"){
+            geojsonLayer = new L.GeoJSON.AJAX("AreeVigilanzaSHP/Zone_Vigilanza_09_2017_corretto_4326.json",{ onEachFeature: onEachFeatureBeginning });
+        } else {
+            geojsonLayer = new L.GeoJSON.AJAX("AreeVigilanzaSHP/Zone_Vigilanza_09_2017_corretto_4326.json", { onEachFeature: onEachFeature });
+        }
+        geojsonLayer.addTo(mymap);
+    </script>                  
+</body>
+</html>

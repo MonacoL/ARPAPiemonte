@@ -1,0 +1,73 @@
+REGIONE 
+IVIG  
+NAREE 70  
+001- 1- -Valle Aosta   
+002-10- -FVG S   
+003-11- -Lombardia O     
+004-12- -Lombardia E   
+005-13- -Veneto SE    
+006-14- -Piemonte SW     
+007-15- -Piemonte centrale  
+008-16- -Piemonte SE Lomb SW   
+009-17- -Emilia NW    
+010-18- -Romagna N 
+011-19- -Piemonte SE Liguria N   
+012- 2- -Piemonte NW   
+013-20- -Emilia SW    
+014-21- -EmRom centroS  
+015-22- -Romagna Marche N  
+016-23- -Liguria Centro  W   
+017-24- -Liguria E Toscana N     
+018-25- -Toscana NE   
+019-26- -Toscana NW  
+020-27-E-Toscana SE Umbria NW  
+021-27-W-Toscana Centro S  
+022-28- -Umbria N 
+023-29- -Marche W  
+024- 3- -Piemonte NE 
+025-30- -Marche S Abruzzo E  
+026-31- -Toscana SW  
+027-32- -Lazio NW 
+028-33- -Lazio NE Umbria W  
+029-34- -Lazio E Umbria S 
+030-35- -Abruzzo W 
+031-36- -Lazio Roma 
+032-37- -Lazio SE 
+033-38- -Abruzzo S Molise W   
+034-39- -Abruzzo SE Molise E  
+035- 4- -Pie N Lomb NW 
+036-40- -Lazio SW 
+037-41- -Campania NW 
+038-42- -Campania N Lazio SE  
+039-43-E-Puglia NW 
+040-43-W-Campania NE  
+041-44- -Puglia N 
+042-45- -Campania S Basil W 
+043-46-N-Puglia NW  Basilicata N 
+044-46-S-PU CentroW BA Centro  
+045-47- -Puglia CentroE 
+046-48- -PU SW BA S 
+047-49- -Puglia SE   
+048- 5- -Lombardia NE  
+049-50-N-Calabria NW  
+050-51- -Calabria NE 
+051-52- -Calabria Centro E  
+052-53- -Calabria SE 
+053-53-W-Calabria SW 
+054-54- -Sicilia W 
+055-55- -Sicilia Centro N  
+056-56-N-Sicilia NE  
+057-56-S-Sicilia E 
+058-57- -Sicilia Centro S  
+059-58- -Sicilia Centro 
+060-59- -Sicilia SE 
+061- 6- -Lombardia Centro E 
+062-60- -Sardegna NW 
+063-61- -Sardegna NE 
+064-62- -Sardegna Centro W  
+065-63- -Sardegna E   
+066-64- -Sardegna S   
+067- 7- -Trentino   
+068- 8- -Alto Adige   
+069- 9- -Veneto E FVG N   
+070-50-S-Calabria Centro W

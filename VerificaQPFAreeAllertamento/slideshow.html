@@ -1,0 +1,66 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Slideshow</title>
+    <link rel="stylesheet" type="text/css" href="Slideshow\slick.css">
+    <link rel="stylesheet" type="text/css" href="Slideshow\slick-theme.css">
+    <style type="text/css">
+
+        html, body {
+            margin: 0;
+            padding: 0;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        .slider {
+            width: 90%;
+            margin: 0 30px;
+        }
+
+        .slick-slide {
+            margin: 0px 15px;
+        }
+
+            .slick-slide img {
+                width: 100%;
+            }
+
+        .slick-prev:before,
+        .slick-next:before {
+            color: black;
+        }
+    </style>
+    <script src="jquery-2.2.0.min.js" type="text/javascript"></script>
+    <script src="Slideshow\slick.js" type="text/javascript" charset="utf-8"></script>
+</head>
+    <body>      
+        <script>
+            letteraArea = window.location.search.substring(1);
+            var randoms = [0, 0];
+            randoms[0]=Math.floor(Math.random() * 1000000) + 100000;            
+            randoms[1]=Math.floor(Math.random() * 1000000) + 100000;           
+            document.write("<section class=\"regular slider\">");
+            document.write("<div>");
+            document.write("<img src=\"Grafici/VerificaQPFMASSIMA_"+letteraArea+".png?d="+randoms[0]+"\">");
+            document.write("</div>");
+            document.write("<div>");
+            document.write("<img src=\"Grafici/VerificaQPFMEDIA_"+letteraArea+".png?d="+randoms[1]+"\">");
+            document.write("</div>");
+            document.write("</section>");   
+            $(document).on('ready', function () {
+                $(".regular").slick({
+                    dots: true,
+                    infinite: true,
+                    centerMode: false,
+                    slidesToShow: 1,
+                    slidesToScroll: 1
+                });
+            });
+        </script>
+    </body>
+</html >

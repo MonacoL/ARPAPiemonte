@@ -1,0 +1,3 @@
+dbamsg su centos
+
+timerange=[massima/minima, quanti secondi dal tempo di emissione, quanto tempo in secondi per la generazione del dato]
