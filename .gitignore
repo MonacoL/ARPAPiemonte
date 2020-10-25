@@ -97,3 +97,12 @@ zone_allerta_piemonte/prova.geojson
 documentazione_MONACO.txt
 LA202010.DAT
 mappe_cumulate_prova_2020.sh
+CostLossStagionale/dati
+CostLossStagionale/elena_VALUE
+Json_MISTRAL/dati
+Json_MISTRAL/InputTemp
+VerificaCumulateRain/dati_oss
+VerificaMMTemperaturaMAXMIN_mensile/dati
+VerificaMMTemperaturaMAXMIN_stagionale/dati
+VerificaQPFAreeVigilanza/dati
+VerificaQPFAreeVigilanza/AreeVigilanzaSHP
