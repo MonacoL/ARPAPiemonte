@@ -39,7 +39,7 @@ if flagLocal==0: #se non sono in local, allora setto le variabili come da macchi
     path_JSONOutput="/home/meteo/proc/MISTRAL/JSON_Output/"
     path_JSONOutput_xmeteo="/output/meteo/multimodel/json/"
     [currentYearMonth, currentYearMonthDay]=FunzioniUtili.GetFullDayString(0,0) #today
-    [MMYearMonth, MMYearMonthDay]=FunzioniUtili.GetFullDayString(2,-1) #two days ago
+    [MMYearMonth, MMYearMonthDay]=FunzioniUtili.GetFullDayString(1,-1) #two days ago
     print("Popolo la cartella anagrafiche.") #copiando da xmeteo4, dove sono sempre aggiornate
     os.system("scp meteo@xmeteo4.ad.arpa.piemonte.it:/home/meteo/etc/multimodel/stazioni/*.DAT "+path_Anagrafiche)
     print(" ")
@@ -65,7 +65,7 @@ with jsonlines.open(jsonfile_path, mode='w') as writer:
                 print("File Anagrafica regione",regione,"esiste.")
                 os.system("cp "+MM_source_file+" "+MM_destination_file) #e copio il file di multimodel in locale
                 print("   File MM regione",regione,"copiato in locale in cartella temporanea.")           
-                Dati=FunzioniUtili.ReadMMFile2(MM_destination_file, MMYearMonthDay+"00", 51, 120) #51 leadtime oggi 00-03, 120 leadtime dopodomani 21-24
+                Dati=FunzioniUtili.ReadMMFile2(MM_destination_file, MMYearMonthDay+"00", 27, 96) #lag due giorni: 51 leadtime oggi 00-03, 120 leadtime dopodomani 21-24
                 nrow=Dati.shape[0]
                 if nrow>0: #se ci sono dati per il giorno considerato
                     Anagrafica=FunzioniUtili.ReadAnagFile(path_anag) #leggo l'anagrafica        
