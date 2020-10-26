@@ -37,9 +37,19 @@
         document.write(StringaPeriodo);
     </script>    
     <br/><br/>
-    <script>
-        document.write("<iframe src=\"mappa.html?"+dacaricare+"&osservati\" class=\"aifreim\"></iframe>");
-        document.write("<iframe src=\"mappa.html?"+dacaricare+"&ecm\" class=\"aifreim\"></iframe>");
-    </script>
+    <table>
+        <tr>
+            <td>
+                <script>
+                    document.write("<iframe src=\"mappa.html?"+dacaricare+"&osservati\" class=\"aifreim\"></iframe>");
+                </script>
+            </td>
+            <td>
+                <script>
+                    document.write("<iframe src=\"mappa.html?"+dacaricare+"&ecm\" class=\"aifreim\"></iframe>");
+                </script>
+            </td>
+        </tr>
+    </table>
     </body>
 </html>
