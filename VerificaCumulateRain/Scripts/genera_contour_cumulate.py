@@ -7,7 +7,7 @@ import pygrib
 
 argomenti=sys.argv
 if len(argomenti)==1:
-    print("Argomento 1: root path; blablabla");
+    print("Argomento 1: root path; blablabla")
     exit()
 root_path=argomenti[1]
 dati_path=argomenti[2] #percorso in xmeteo4 della cartella madre del multimodel in cui sono i dati divisi cartelle regionali
@@ -19,18 +19,20 @@ output_json_path=argomenti[7]
 models=["e1000","c5m00","c2200","bol00","mol00"]
 scad_label=["D0","D1","D2"]
 
-# print("Inizio computazione cumulata osservati")
-# time1 = datetime.datetime.now()
-# Cumulata=FUNZIONI.GetCumulata(dati_path)
-# time2 = datetime.datetime.now()
-# elapsedTime = time2 - time1
-# print("Tempo trascorso:",divmod(elapsedTime.total_seconds(), 60))
+tipo=grib_path.split('/')[-1]
+
+print("Inizio computazione cumulata osservati")
+time1 = datetime.datetime.now()
+Cumulata=FUNZIONI.GetCumulata(dati_path)
+time2 = datetime.datetime.now()
+elapsedTime = time2 - time1
+print("Tempo trascorso:",divmod(elapsedTime.total_seconds(), 60))
 # Cumulata.to_csv(work_path+"/prova.csv", sep=' ', index=False, header=False)
 # exit()
-# print("Fine computazione cumulata osservati")
+print("Fine computazione cumulata osservati")
 
-Cumulata=pd.read_csv(work_path+"/prova.csv", sep=" ")
-Cumulata.columns = ['IDStazione', 'Regione', 'Latitudine', 'Longitudine', 'TimeLead', 'Osservazione']
+#Cumulata=pd.read_csv(work_path+"/prova.csv", sep=" ")
+#Cumulata.columns = ['IDStazione', 'Regione', 'Latitudine', 'Longitudine', 'TimeLead', 'Osservazione']
 
 y=np.array(Cumulata.loc[:]["Latitudine"])
 x=np.array(Cumulata.loc[:]["Longitudine"])
@@ -44,7 +46,10 @@ for model in models:
     else:
         scadenze=["24","48","72"]
     for scadenza in scadenze:
-        grbs = pygrib.open(grib_path+"/"+model+"_"+scadenza+".grb")  
+        if tipo=="stagionale":
+            grbs = pygrib.open(grib_path+"/"+model+"_"+scadenza+"_ST.grb")  
+        else:
+            grbs = pygrib.open(grib_path+"/"+model+"_"+scadenza+".grb")  
         z=grbs[1].values
         if model=="e1000":
             z=z*1000

@@ -13,8 +13,8 @@ tipo=$1 #mensile o stagionale
 from=$2 #data di inizio
 to=$3 #data di fine
 
-odino_path=""
-odino_path_JSONFiles=""
+odino_path="/var/lib/drupal7/files/default/field/image/meteorologia/verifica/precipitazione"
+odino_path_JSONFiles="/var/lib/drupal7/files/default/field/image/meteorologia/verifica/precipitazione/GeoJSON_files"
 
 root_path="/home/monacoarpa/Desktop/ARPA"
 
@@ -35,10 +35,12 @@ ANNOi=`echo $from|cut -c1-4`
 MESEi=`echo $from|cut -c5-6`
 GIORNOi=`echo $from|cut -c7-8`
 
-flagLocal=1
+flagLocal=0
 if [ $flagLocal -eq 0 ]; then
   root_path="/home/meteo/proc"
   SetPathVariables $root_path
+  rm $dati_path/*
+  rm $grib_path/*
   echo "Copio file osservati da nas."
   copia_file=1
   echo $from
@@ -53,7 +55,7 @@ if [ $flagLocal -eq 0 ]; then
     echo $from2
     ANNOcurrent=`echo $from2|cut -c1-4` 
     obs_path="/mnt/nas/progetti/dati_orari_DPC/${ANNOcurrent}/dati_tutte_stazioni" 
-    cp $obs_path/Export_${from}0000_rain.csv_orig $dati_path/
+    cp $obs_path/Export_${from2}0000_rain.csv_orig $dati_path/
     sed '/'${from}'0000/d' $dati_path/Export_${from2}0000_rain.csv_orig > $dati_path/Export_${from2}0000_rain.csv_orig2
     mv $dati_path/Export_${from2}0000_rain.csv_orig2 $dati_path/Export_${from2}0000_rain.csv_orig
     if [ $from2 == $to ]; then
@@ -66,7 +68,7 @@ if [ $flagLocal -eq 0 ]; then
   cont=0
   for mod in $lista_modelli; do
     echo $mod
-    ssh meteo@xmeteo4.ad.arpa.piemonte.it '/home/meteo/proc/DPC/bin/mappe_cumulate_prova_2020.sh -m '$mod' -d '$from' -D '$to' -a ITALIA'
+    ssh meteo@xmeteo4.ad.arpa.piemonte.it '/home/meteo/proc/DPC/bin/mappe_cumulate_prova_2020.sh -m '$mod' -d '$from' -D '$to' -a ITAL'
   done
   scp meteo@xmeteo4.ad.arpa.piemonte.it:"/home/meteo/proc/DPC/out/"*".grb" $grib_path/
 fi
