@@ -99,6 +99,7 @@ fi
 
 #Copy output maps to odino
 if [ $flagLocal -eq 0 ]; then
+  scp ${output_json_path}/osservati.geojson sc05@odino.arpa.piemonte.it:${odino_path_JSONFiles}/Output_$tipo
   scp ${output_json_path}/D0/* sc05@odino.arpa.piemonte.it:${odino_path_JSONFiles}/Output_$tipo/D0
   scp ${output_json_path}/D1/* sc05@odino.arpa.piemonte.it:${odino_path_JSONFiles}/Output_$tipo/D1
   scp ${output_json_path}/D2/* sc05@odino.arpa.piemonte.it:${odino_path_JSONFiles}/Output_$tipo/D2

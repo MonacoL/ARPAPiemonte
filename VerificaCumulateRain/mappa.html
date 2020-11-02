@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta charset="utf-8" />
@@ -10,19 +9,19 @@
     <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
     integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
     crossorigin=""></script>     
-    <script src="Leaflet\leaflet.ajax.min.js"></script> <!--libreria javascript per la gestione del json delle regioni. è un miglioramento ulteriore di GeoJSON-->
+    <script src="Leaflet\leaflet.ajax.min.js"></script> <!--javascript library to deal with models' json files-->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-    <script src="UsefulFunctions.js"></script> <!--In questo file ho inserito tutte le funzioni javascript create da me e commentate-->
+    <script src="UsefulFunctions.js"></script> <!--self made library for common need functions-->
     <script src="leaflet_panel_layers/leaflet-panel-layers.js"></script>
     <link rel="stylesheet" href="leaflet_panel_layers/leaflet-panel-layers.css" />
-    <!--stile mappa-->
+    <!--map style-->
     <style>
         #Mappa{
             height: 730px;
             width: 700px;
         }
     </style>
-    <!--stile delle label delle regioni-->
+    <!--legend style-->
     <style>
         .info {
             padding: 6px 8px;
@@ -52,38 +51,40 @@
 </head>
 <body style="margin:0;padding:0">
     <div id="Mappa"></div>         
-    <script type="text/javascript">
+    <script>
         dacaricare = window.location.search.substring(1);
         par = dacaricare.split("&");
-        if (par[0]=="mensile"){
+        if (par[0]=="mensile"){ //check if map is monthly or seasonal
             var cartella="Output_mensile";                     
         }else{
             var cartella="Output_stagionale";
-        }                    
-        var osservati = new L.GeoJSON.AJAX("GeoJSON_files/"+cartella+"/osservati.geojson", { onEachFeature: onEachFeature});
-        var ecmD0 = new L.GeoJSON.AJAX("GeoJSON_files/"+cartella+"/D0/e1000.geojson", { onEachFeature: onEachFeature});
-        var bolamD0 = new L.GeoJSON.AJAX("GeoJSON_files/"+cartella+"/D0/bol00.geojson", { onEachFeature: onEachFeature});
-        var cosmo2iD0 = new L.GeoJSON.AJAX("GeoJSON_files/"+cartella+"/D0/c2200.geojson", { onEachFeature: onEachFeature});
-        var cosmoi5D0 = new L.GeoJSON.AJAX("GeoJSON_files/"+cartella+"/D0/c5m00.geojson", { onEachFeature: onEachFeature});
-        var molochD0 = new L.GeoJSON.AJAX("GeoJSON_files/"+cartella+"/D0/mol00.geojson", { onEachFeature: onEachFeature});
-        var ecmD1 = new L.GeoJSON.AJAX("GeoJSON_files/"+cartella+"/D1/e1000.geojson", { onEachFeature: onEachFeature});
-        var bolamD1 = new L.GeoJSON.AJAX("GeoJSON_files/"+cartella+"/D1/bol00.geojson", { onEachFeature: onEachFeature});
-        var cosmo2iD1 = new L.GeoJSON.AJAX("GeoJSON_files/"+cartella+"/D1/c2200.geojson", { onEachFeature: onEachFeature});
-        var cosmoi5D1 = new L.GeoJSON.AJAX("GeoJSON_files/"+cartella+"/D1/c5m00.geojson", { onEachFeature: onEachFeature});
-        var molochD1 = new L.GeoJSON.AJAX("GeoJSON_files/"+cartella+"/D1/mol00.geojson", { onEachFeature: onEachFeature});
-        var ecmD2 = new L.GeoJSON.AJAX("GeoJSON_files/"+cartella+"/D2/e1000.geojson", { onEachFeature: onEachFeature});
-        var bolamD2 = new L.GeoJSON.AJAX("GeoJSON_files/"+cartella+"/D2/bol00.geojson", { onEachFeature: onEachFeature});
-        var cosmoi5D2 = new L.GeoJSON.AJAX("GeoJSON_files/"+cartella+"/D2/c5m00.geojson", { onEachFeature: onEachFeature});
-        if (par[1]=="osservati"){
+        }                
+        //load all the models in each day
+        random_n=Math.floor(Math.random() * 1000000) + 100000;   
+        var osservati = new L.GeoJSON.AJAX("GeoJSON_files/"+cartella+"/osservati.geojson?d="+random_n, { onEachFeature: onEachFeature});
+        var ecmD0 = new L.GeoJSON.AJAX("GeoJSON_files/"+cartella+"/D0/e1000.geojson?d="+random_n, { onEachFeature: onEachFeature});
+        var bolamD0 = new L.GeoJSON.AJAX("GeoJSON_files/"+cartella+"/D0/bol00.geojson?d="+random_n, { onEachFeature: onEachFeature});
+        var cosmo2iD0 = new L.GeoJSON.AJAX("GeoJSON_files/"+cartella+"/D0/c2200.geojson?d="+random_n, { onEachFeature: onEachFeature});
+        var cosmoi5D0 = new L.GeoJSON.AJAX("GeoJSON_files/"+cartella+"/D0/c5m00.geojson?d="+random_n, { onEachFeature: onEachFeature});
+        var molochD0 = new L.GeoJSON.AJAX("GeoJSON_files/"+cartella+"/D0/mol00.geojson?d="+random_n, { onEachFeature: onEachFeature});
+        var ecmD1 = new L.GeoJSON.AJAX("GeoJSON_files/"+cartella+"/D1/e1000.geojson?d="+random_n, { onEachFeature: onEachFeature});
+        var bolamD1 = new L.GeoJSON.AJAX("GeoJSON_files/"+cartella+"/D1/bol00.geojson?d="+random_n, { onEachFeature: onEachFeature});
+        var cosmo2iD1 = new L.GeoJSON.AJAX("GeoJSON_files/"+cartella+"/D1/c2200.geojson?d="+random_n, { onEachFeature: onEachFeature});
+        var cosmoi5D1 = new L.GeoJSON.AJAX("GeoJSON_files/"+cartella+"/D1/c5m00.geojson?d="+random_n, { onEachFeature: onEachFeature});
+        var molochD1 = new L.GeoJSON.AJAX("GeoJSON_files/"+cartella+"/D1/mol00.geojson?d="+random_n, { onEachFeature: onEachFeature});
+        var ecmD2 = new L.GeoJSON.AJAX("GeoJSON_files/"+cartella+"/D2/e1000.geojson?d="+random_n, { onEachFeature: onEachFeature});
+        var bolamD2 = new L.GeoJSON.AJAX("GeoJSON_files/"+cartella+"/D2/bol00.geojson?d="+random_n, { onEachFeature: onEachFeature});
+        var cosmoi5D2 = new L.GeoJSON.AJAX("GeoJSON_files/"+cartella+"/D2/c5m00.geojson?d="+random_n, { onEachFeature: onEachFeature});
+        if (par[1]=="osservati"){ //check which data to load by deafult
             var mappa = CreaMappa('Mappa', osservati); 
-            var D0collassato=true;                       
+            var D0collassato=true; // true means that D0 menu is collapsed                      
         }else{
             var mappa = CreaMappa('Mappa', ecmD0);
             var D0collassato=false;
         } 
-        ApplicaLegenda(mappa);
+        ApplicaLegenda(mappa); //apply legend to map
         
-        var baseLayers = [
+        var baseLayers = [ //base layers to load on the map; base means that every layer is mutually exclusive
             {
                 name: "<b>OSSERVATI</b>",
                 layer: osservati
@@ -159,12 +160,11 @@
                 ]
             }                                            
         ];        
-         
-        var panelLayers = new L.Control.PanelLayers(baseLayers, [],{
-	compact: true,
-	//collapsed: true,
-	collapsibleGroups: true
-});
+        //define the panel that appears in top right 
+        var panelLayers = new L.Control.PanelLayers(baseLayers, [],{compact: true,
+	                                                                //collapsed: true,
+	                                                                collapsibleGroups: true
+                                                                    });
         mappa.addControl(panelLayers);            
     </script>
 
